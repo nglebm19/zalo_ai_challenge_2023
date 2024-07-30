@@ -1,0 +1,1082 @@
+[
+    {
+        "question": "Diện tích của hình tròn có đường kính d = 5dm là:",
+        "option D": "19,625dm2",
+        "option A": "78,5dm2",
+        "option B": "196,25dm2",
+        "option C": "7,85dm2",
+        "correct option": "D",
+        "explanation": "Bán kính hình tròn là: 5 : 2 = 2,5 (dm)Diện tích của hình tròn có đường kính d = 5dm là: 2,5 ${\\times}$ 2,5 ${\\times}$ 3,14 = 19,625 (dm2)."
+    },
+    {
+        "question": "Hằng ngày, An tan học lúc 11 giờ rưỡi và về đến nhà lúc 12 giờ kém 15 phút. Thời gian An đi từ trường về nhà là:",
+        "option D": "25 phút",
+        "option A": "10 phút",
+        "option B": "20 phút",
+        "option C": "15 phút",
+        "correct option": "C",
+        "explanation": "Đổi 11 giờ rưỡi = 11 giờ 30 phút \n 12 giờ kém 15 phút = 11 giờ 45 phút \n Thời gian An đi từ trường về nhà là: 11 giờ 45 phút – 11 giờ 30 phút = 15 phút"
+    },
+    {
+        "question": "Kết quả của phép tính 4,06 : 100 là:",
+        "option D": "40600",
+        "option A": "0,0406",
+        "option B": "0,00406",
+        "option C": "406",
+        "correct option": "A",
+        "explanation": "Kết quả của phép tính 4,06 : 100 là: 0,0406."
+    },
+    {
+        "question": "36 + 15 5 ${\\times}$ ? 70 – 21",
+        "option D": "10",
+        "option A": "7",
+        "option B": "8",
+        "option C": "9",
+        "correct option": "D",
+        "explanation": "36 + 15 5 ${\\times}$ ? 70 – 21Ta có:$36 + 15 = 51$70 – 21 = 49\n Ta có: 51 5 ${\\times}$ ? 49Vậy 5 ${\\times}$ ? = 50\n Vậy số cần điền là: 10"
+    },
+    {
+        "question": "Phép tính có kết quả là số liền sau của số nhỏ nhất có hai chữ số giống nhau là:",
+        "option D": "16 – 6",
+        "option A": "8 + 4",
+        "option B": "7 + 6",
+        "option C": "9 + 5",
+        "correct option": "A",
+        "explanation": "Số nhỏ nhất có hai chữ số giống nhau là: 11\n Số liền sau của 11 là: 11 + 1 = 12\n Ta có:\n 8 + 4 = 12\n 7 + 6 = 13\n 9 + 5 14\n 16 – 6 = 10\n Vậy phép tính có kết quả là 12: 8 + 4"
+    },
+    {
+        "question": "Số gồm 2 trăm và 7 đơn vị viết là:",
+        "option D": "702",
+        "option A": "207",
+        "option B": "27",
+        "option C": "270",
+        "correct option": "A",
+        "explanation": "Số gồm 2 trăm và 7 đơn vị viết là: 207"
+    },
+    {
+        "question": "Số liền trước của số lớn nhất có năm chữ số là:",
+        "option D": "99 989",
+        "option A": "89 999",
+        "option B": "99 998",
+        "option C": "98 999",
+        "correct option": "B",
+        "explanation": "Số lớn nhất có năm chữ số là: 99 999\n Vậy số liền trước của số lớn nhất có năm chữ số là: 99 998"
+    },
+    {
+        "question": "Hiền đã lắp ghép xong một bức tranh hình chữ nhật từ các mảnh ghép hình vuông cạnh 3 cm. Hiền tính được diện tích của bức tranh là 360 cm2. Vậy số mảnh ghép Hiền đã dùng để lắp ghép bức tranh đó là:",
+        "option D": "30 mảnh ghép",
+        "option A": "20 mảnh ghép",
+        "option B": "40 mảnh ghép",
+        "option C": "60 mảnh ghép",
+        "correct option": "B",
+        "explanation": "Diện tích mảnh ghép hình vuông là: 3 ${\\times}$ 3 = 9 (cm2)\n Số mảnh ghép Hiền đã dùng để lắp ghép bức tranh là: 360 : 9 = 40 (mảnh)\n Đáp số: 40 mảnh ghép"
+    },
+    {
+        "question": "Có 60 quả bóng, trong đó có 3 quả bóng màu xanh, 12 quả bóng màu vàng, 15 quả bóng màu đỏ, còn lại là số bóng màu tím. 1/2 số bóng có màu:",
+        "option D": "Xanh",
+        "option A": "Đỏ",
+        "option B": "Vàng",
+        "option C": "Tím",
+        "correct option": "C",
+        "explanation": "Số bóng màu tím có số quả là:\n 60-3-12-15=30[quả]\n 30 quả = 30/60= 1/2 của 60 quả\n Vậy số bóng đó có màu tím"
+    },
+    {
+        "question": "Trong phép tính: 63 – 32 = 31, 63 – 32 được gọi là:",
+        "option D": "Tổng",
+        "option A": "Số trừ",
+        "option B": "Hiệu",
+        "option C": "Số bị trừ",
+        "correct option": "B",
+        "explanation": "Trong phép tính: 63 – 32 = 31\n 63: số bị trừ\n 32: số trừ\n 63 – 32: hiệu"
+    },
+    {
+        "question": "Vì bị ốm nên Mai xin phép cô giáo nghỉ học từ ngày 30 tháng 10 đến hết ngày 1 tháng 11 cùng năm. Số ngày Mai xin nghỉ học là:",
+        "option D": "5 ngày",
+        "option A": "2 ngày",
+        "option B": "3 ngày",
+        "option C": "4 ngày",
+        "correct option": "B",
+        "explanation": "Tháng 10 có 31 ngày vậy nên mai nghỉ ngày 30 tháng 10, 31 tháng 10 và 1 tháng 11.Vậy Mai đã xin nghỉ học 3 ngày"
+    },
+    {
+        "question": "Trong các phép tính sau, phép tính có kết quả lớn nhất là:",
+        "option D": "84 630 : 7",
+        "option A": "9 528 + 5 132",
+        "option B": "20 742 – 8 560",
+        "option C": "4 509 ${\\times}$ 3",
+        "correct option": "A",
+        "explanation": "9 528 + 5 132 = 14 660\n 20 742 – 8 560 = 12 182 \n 4 509 ${\\times}$ 3 = 13 527 \n 84 630 : 7 = 12 090\n Ta có 14 660 13 527 12 182 12 090\n Vậy phép tính có kết quả lớn nhất là: 9 528 + 5 132"
+    },
+    {
+        "question": "Nhà Hoa có 25 kg gạo. Mẹ Hoa mua thêm 25 kg gạo nữa rồi đóng tất cả số gạo hiện có thành 5 túi như nhau, tặng cho các gia đình khó khăn trong xóm. Mỗi túi gạo cân nặng là:",
+        "option D": "20 kg",
+        "option A": "5 kg",
+        "option B": "10 kg",
+        "option C": "30 kg",
+        "correct option": "B",
+        "explanation": "Tổng số gạo mẹ Hoa hiện có là: $25 + 25 = 50$ (kg)\n Mỗi túi gạo cân nặng là:50 : 5 = 10 (kg)"
+    },
+    {
+        "question": "“3 tấn 250kg = ……..tấn”. Số cần điền vào chỗ chấm là:",
+        "option D": "3,25",
+        "option A": "3025",
+        "option B": "3250",
+        "option C": "3,025",
+        "correct option": "D",
+        "explanation": "3 tấn 250kg = 3 tấn + tấn = 3,25 tấn"
+    },
+    {
+        "question": "“3km 15m = …….km”. Số thích hợp cần điền vào chỗ chấm là:",
+        "option D": "30,15",
+        "option A": "3,15",
+        "option B": "31,5",
+        "option C": "3,015",
+        "correct option": "C",
+        "explanation": "3km 15m = 3km + km = 3,015km."
+    },
+    {
+        "question": "Lớp 5A có 40 bạn, trong đó có 24 bạn thích môn toán, còn lại là các bạn thích môn tiếng việt. Số bạn thích môn tiếng việt chiếm số phần trăm so với số bạn của lớp 5A là:",
+        "option D": "20%",
+        "option A": "40%",
+        "option B": "50%",
+        "option C": "60%",
+        "correct option": "A",
+        "explanation": "Số bạn thích môn tiếng việt là: 40 – 24 = 16 (bạn)\n Số bạn thích môn tiếng việt chiếm số phần trăm so với số bạn của lớp 5A là:16 : 40 ${\\times}$ 100% = 40%\n Đáp số: 40%"
+    },
+    {
+        "question": "Thể tích của hình lập phương có cạnh 4,5cm là:",
+        "option D": "911,25cm3",
+        "option A": "91,125",
+        "option B": "911,25",
+        "option C": "91,125cm3",
+        "correct option": "C",
+        "explanation": "Thể tích của hình lập phương có cạnh 4,5cm là: 4,5 ${\\times}$ 4,5 ${\\times}$ 4,5 = 91,125 (cm3)."
+    },
+    {
+        "question": "Số “Mười tám phẩy hai trăm ba mươi hai” viết là:",
+        "option D": "18,223",
+        "option A": "18,2302",
+        "option B": "18,232",
+        "option C": "18,322",
+        "correct option": "B",
+        "explanation": "Số “Mười tám phẩy hai trăm ba mươi hai” viết là: 18,232."
+    },
+    {
+        "question": "Phép tính có kết quả là số tròn chục là:",
+        "option D": "85 – 31",
+        "option A": "46 + 11",
+        "option B": "56 – 6",
+        "option C": "32 + 25",
+        "correct option": "B",
+        "explanation": "Ta có:\n 46 + 11 = 57\n 56 – 6 = 50\n 32 + 25 = 57\n 85 – 31 = 54\n Vậy phép tính 56 – 6 có kết quả là số tròn chục."
+    },
+    {
+        "question": "Số thập phân “Hai trăm năm mươi sáu phẩy bảy mươi chín” được viết là:",
+        "option D": "2056,709",
+        "option A": "2056,79",
+        "option B": "256,79",
+        "option C": "256,709",
+        "correct option": "B",
+        "explanation": "Số thập phân “Hai trăm năm mươi sáu phẩy bảy mươi chín” được viết là: 256,79."
+    },
+    {
+        "question": "16 là tích của hai số nào?",
+        "option D": "4 và 5",
+        "option A": "5 và 3",
+        "option B": "2 và 8",
+        "option C": "7 và 2",
+        "correct option": "B",
+        "explanation": "Ta có: 5 ${\\times}$ 3 = 152 ${\\times}$ 8 = 167 ${\\times}$ 2 = 144 ${\\times}$ 5 = 20\n Vậy 16 là tích của 2 và 8"
+    },
+    {
+        "question": "Số gồm 8 trăm và 7 chục viết là:",
+        "option D": "807",
+        "option A": "87",
+        "option B": "870",
+        "option C": "780",
+        "correct option": "B",
+        "explanation": "Số gồm 8 trăm và 7 chục viết là: 870"
+    },
+    {
+        "question": "Phân số $\\frac{3}{25}$ được viết dưới dạng phân số thập phân là:",
+        "option D": "$\\frac{48}{400}$",
+        "option A": "$\\frac{12}{100}$",
+        "option B": "$\\frac{6}{50}$",
+        "option C": "$\\frac{24}{200}$",
+        "correct option": "A",
+        "explanation": "Ta có: \n $\\frac{3}{25}$ = $\\frac{3\\times 4}{25\\times 4}$ = $\\frac{12}{100}$ .\n Vậy phân số $\\frac{3}{25}$ được viết dưới dạng phân số thập phân là: $\\frac{12}{100}$ ."
+    },
+    {
+        "question": "Biết thương là 6, số chia là 6 600, số bị chia là:",
+        "option D": "36 600",
+        "option A": "1 100",
+        "option B": "39 600",
+        "option C": "6 606",
+        "correct option": "B",
+        "explanation": "Số bị chia là:6 600 ${\\times}$ 6 = 39 600"
+    },
+    {
+        "question": "“5,4 phút = ……giây”. Số thích hợp cần điền vào chỗ chấm là:",
+        "option D": "324",
+        "option A": "54",
+        "option B": "540",
+        "option C": "192",
+        "correct option": "D",
+        "explanation": "5,4 phút = 324 giây"
+    },
+    {
+        "question": "Anh Sơn chia đều số mật ong thu hoạch được sáng nay vào 6 chai, mỗi chai đựng 1 500 ml mật ong. Vậy số mật ong anh Sơn thu hoạch được sáng nay là:",
+        "option D": "6 000 ml",
+        "option A": "1 506 ml",
+        "option B": "1 600 ml",
+        "option C": "9 000 ml",
+        "correct option": "C",
+        "explanation": "Số mật ong anh Sơn thu hoạch được sáng nay là:\n 1 500 × 6 = 9 000 (ml)\n Đáp số: 9 000 ml"
+    },
+    {
+        "question": "50 là tích của hai số nào?",
+        "option D": "5 và 9",
+        "option A": "7 và 2",
+        "option B": "2 và 10",
+        "option C": "10 và 5",
+        "correct option": "C",
+        "explanation": "Ta có:Tích của 7 và 2: 7 ${\\times}$ 2 = 14Tích của 2 và 10: 2 ${\\times}$ 10 = 20Tích của 10 và 5: 10 ${\\times}$ 5 = 50Tích của 5 và 9: 5 ${\\times}$ 9 = 45Vậy 50 là tích của 10 và 5."
+    },
+    {
+        "question": "Sau khi cắt được một lượng lớn cỏ tươi, mẹ dùng quang gánh mang số cỏ đó về nhà cho bò ăn. Mỗi bên quang gánh có khoảng 25 kg cỏ. Mẹ gánh 3 chuyến thì hết số cỏ cắt được. Vậy mẹ cắt được là:",
+        "option D": "150 kg cỏ",
+        "option A": "50 kg cỏ",
+        "option B": "75 kg cỏ",
+        "option C": "100 kg cỏ",
+        "correct option": "D",
+        "explanation": "Mỗi chuyến mẹ cắt được số ki-lô-gam cỏ là: 25 ${\\times}$ 2 = 50 (kg)\n Mẹ cắt được số ki-lô-gam cỏ là: 50 ${\\times}$ 3 = 150 (kg)"
+    },
+    {
+        "question": "Kết quả của phép tính là: $2 + 1 + 2$ = ……",
+        "option D": "3",
+        "option A": "5",
+        "option B": "6",
+        "option C": "4",
+        "correct option": "A",
+        "explanation": "Kết quả của phép tính là: $2 + 1 + 2$ = 5"
+    },
+    {
+        "question": "Tỉ số phần trăm của 58 và 80 là:",
+        "option D": "0,725%",
+        "option A": "59,8%",
+        "option B": "80,59%",
+        "option C": "72,5%",
+        "correct option": "C",
+        "explanation": "Tỉ số phần trăm của 58 và 80 là: 58 : 80 ${\\times}$ 100% = 72,5%"
+    },
+    {
+        "question": "Gia đình Mai đi du lịch từ ngày 29 tháng 7 đến hết ngày 5 tháng 8 cùng năm. Vậy số ngày gia đình Mai đi du lịch là:",
+        "option D": "8 ngày",
+        "option A": "5 ngày",
+        "option B": "6 ngày",
+        "option C": "7 ngày",
+        "correct option": "D",
+        "explanation": "Tháng 7 có 31 ngày.\n Vậy số ngày gia đình Mai đi du lịch là: 3 + 5 = 8 (ngày)\n Đáp số: 8 ngày"
+    },
+    {
+        "question": "Thể tích của hình lập phương có cạnh bằng 3,5cm là:",
+        "option D": "21cm3",
+        "option A": "42,875cm3",
+        "option B": "12,25cm3",
+        "option C": "14cm3",
+        "correct option": "A",
+        "explanation": "Thể tích của hình lập phương là :\n 3,5 x 3,5 x 3,5 = 42,875 ( cm³ )\n Đáp số : 42,875 cm³."
+    },
+    {
+        "question": "“3,2m3 = …….dm3”. Số thích hợp điền vào chỗ chấm là:",
+        "option D": "32",
+        "option A": "32000",
+        "option B": "3200",
+        "option C": "320",
+        "correct option": "B",
+        "explanation": "3,2m3 = 3,2 ${\\times}$ 1000 dm3 = 3200dm3."
+    },
+    {
+        "question": "Bố hơn con 30 tuổi. Tuổi con bằng $\\frac{1}{6}$ tuổi bố. Hỏi bố bao nhiêu tuổi?",
+        "option D": "16 tuổi",
+        "option A": "34 tuổi",
+        "option B": "36 tuổi",
+        "option C": "6 tuổi",
+        "correct option": "B",
+        "explanation": "Hiệu số phần bằng nhau là: 6 – 1 = 5 (phần)\n Tuổi bố là: 30 : 5 ${\\times}$ 6 = 36 (tuổi)"
+    },
+    {
+        "question": "Hoa mua 4 quyển vở và 2 cái bút mực hết 70 000 đồng. Nếu Hoa mua 3 quyển vở và 3 cái bút mực thì hết 82 500 đồng. Tỉ số phần trăm giá tiền quyển vở so với giá tiền bút mực là:",
+        "option D": "43,5%",
+        "option A": "25%",
+        "option B": "32,5%",
+        "option C": "37,5%",
+        "correct option": "C",
+        "explanation": "Hoa mua 4 quyển vở và 2 cái bút mực hết 70 000 đồng \n Vậy Hoa mua 12 quyển vở và 6 cái bút mực hết: 70 000 ${\\times}$ 3 = 210 000 (đồng)\n Hoa mua 3 quyển vở và 3 cái bút mực thì hết 82 500 đồng \n Vậy Hoa mua 12 quyển vở và 12 cái bút mực hết: 82 500 ${\\times}$ 4 = 330 000 (đồng)\n Giá tiền của 6 cái bút mực là: 330 000 – 210 000 = 120 000 (đồng)\n Giá tiền của 1 cái bút mực là: 120 000 : 6 = 20 000 (đồng)\n Giá tiền của 4 quyển vở là: 70 000 – 20 000 ${\\times}$ 2 = 30 000 (đồng)\n Giá tiền của 1 quyển vở là: 30 000 : 4 = 7 500 (đồng)\n Tỉ số phần trăm giá tiền quyển vở so với giá tiền bút mực là:7 500 : 20 000 ${\\times}$ 100% = 37,5%\n Đáp số: 37,5%"
+    },
+    {
+        "question": "Một hình tam giác có diện tích 384 cm2, chiều cao 24 cm. Vậy cạnh đáy của hình tam giác đó là:",
+        "option D": "32 cm2",
+        "option A": "16 cm",
+        "option B": "32 cm",
+        "option C": "16 cm2",
+        "correct option": "B",
+        "explanation": "Cạnh đáy của hình tam giác đó là:\n 2 ${\\times}$ 384 : 24 = 32 (cm) \n Đáp số: 32 cm2"
+    },
+    {
+        "question": "Số “chín mươi tư” được viết là:",
+        "option D": "49",
+        "option A": "94",
+        "option B": "4",
+        "option C": "9",
+        "correct option": "A",
+        "explanation": "Số “chín mươi tư” được viết là: 94"
+    },
+    {
+        "question": "Số thích hợp điền vào chỗ chấm để 50g = ………. kg là",
+        "option D": "5",
+        "option A": "5000",
+        "option B": "0,05",
+        "option C": "0,5",
+        "correct option": "B",
+        "explanation": "1 kg = 1000 g\n 50 g = 50 : 1000 (kg) = 0,05 kg"
+    },
+    {
+        "question": "Số cách chọn 5 học sinh từ 35 học sinh của một lớp là",
+        "option D": "A_{35}^5",
+        "option A": "5!",
+        "option B": "35^5",
+        "option C": "C_{35}^5",
+        "correct option": "C",
+        "explanation": "Số cách chọn là C_{35}^5."
+    },
+    {
+        "question": "Chiếc lọ thuỷ tinh khi đựng đầy mật ong thì cân nặng 2 kg. Khi lượng mật ong trong lọ giảm đi một nửa thì chiếc lọ cân nặng 1 100 g. Cân nặng của chiếc lọ thuỷ tỉnh đó là:",
+        "option D": "200g",
+        "option A": "500g",
+        "option B": "400g",
+        "option C": "300g",
+        "correct option": "D",
+        "explanation": "Đổi 2 kg = 2 000 g\n Cân nặng của lọ khi chứa đầy mật ong là: 1 100 ${\\times}$ 2 = 2 200 (g)\n Cân nặng của chiếc lọ thủy tinh là: 2 200 – 2 000 = 200 (g) \n Đáp số: 200 g"
+    },
+    {
+        "question": "Giá trị của biểu thức 60 + 8 + 0,5 + 0,002 là:",
+        "option D": "608,502",
+        "option A": "68,52",
+        "option B": "68,205",
+        "option C": "68,502",
+        "correct option": "C",
+        "explanation": "60 + 8 + 0,5 + 0,002 \n = 68 + 0,5 + 0,002\n = 68,5 + 0,002\n = 68, 502."
+    },
+    {
+        "question": "Trong các số sau, chữ số 7 trong số nào có giá trị là $\\frac{7}{100}$?",
+        "option D": "973,08",
+        "option A": "398,7",
+        "option B": "398,07",
+        "option C": "793,8",
+        "correct option": "B",
+        "explanation": "Ta có: $\\frac{7}{100}=0,07$. Vậy chữ số 7 có giá trị thuộc phần trăm. Vậy số có chữ số 7 có giá trị thuộc phần trăm là 398,07"
+    },
+    {
+        "question": "Từ 100 đến 1 000 có tất cả bao nhiêu số tròn trăm?",
+        "option D": "12 số",
+        "option A": "9 số",
+        "option B": "10 số",
+        "option C": "11 số",
+        "correct option": "B",
+        "explanation": "Từ 100 đến 1 000 có số tròn trăm là:100, 200, 300, 400, 500, 600, 700, 800, 900, 1 000 Vậy có tất cả 10 số tròn trăm."
+    },
+    {
+        "question": "Trong các số đo dưới đây, số đo bằng 12,025 km là:",
+        "option D": "1225m",
+        "option A": "12250 m",
+        "option B": "12025 m",
+        "option C": "12 km 250m",
+        "correct option": "B",
+        "explanation": "12,025 km = 12 025 m"
+    },
+    {
+        "question": "21% của 2014 là:",
+        "option D": "42,92",
+        "option A": "422,49",
+        "option B": "422,94",
+        "option C": "42,29",
+        "correct option": "B",
+        "explanation": "21% của 2014 là: 2014 ${\\times}$ 21 : 100 = 422,94\n Đáp số: 422,94"
+    },
+    {
+        "question": "Số gồm 4 chục và 2 đơn vị được viết là:",
+        "option D": "42",
+        "option A": "20",
+        "option B": "40",
+        "option C": "24",
+        "correct option": "D",
+        "explanation": "Số gồm 4 chục và 2 đơn vị được viết là: 42"
+    },
+    {
+        "question": "Một người bán hàng bỏ ra 80 000 đồng tiền vốn và được lãi 2%. Số tiền lãi của người bán hàng là:",
+        "option D": "14 000 đồng",
+        "option A": "20 000 đồng",
+        "option B": "18 000 đồng",
+        "option C": "1 600 đồng",
+        "correct option": "C",
+        "explanation": "Số tiền lãi của người bán hàng là: 80 000 ${\\times}$ 2 : 100 = 1 600 (đồng)\n Đáp số: 1 600 đồng"
+    },
+    {
+        "question": "Một ô tô đi từ Hà Nội lúc 11 giờ trưa và đến Vinh lúc 5 giờ 30 phút chiều. Dọc đường ô tô dừng ở Ninh Bình và Thanh Hóa mỗi nơi 15 phút. Hỏi không kể thời gian dừng dọc đường, ô tô đi hết quãng đường từ Hà Nội đến Vinh mất bao nhiêu thời gian ?",
+        "option D": "6 giờ",
+        "option A": "4 giờ 30 phút",
+        "option B": "6 giờ 30 phút",
+        "option C": "6 giờ 15 phút",
+        "correct option": "D",
+        "explanation": "5 giờ 30 phút chiều = 17 giờ 30 phút\n Thời gian ô tô chạy từ Hà Nội đến Vinh gồm cả thời gian dừng là:\n 17 giờ 30 phút – 11 giờ = 6 giờ 30 phút\n Thời gian ô tô dừng ở Ninh Bình và Thanh Hóa là:\n 15 phút + 15 phút = 30 phút\n Thời gian ô tô đi từ Hà Nội đến Vinh không kể thời gian dừng là:\n 6 giờ 30 phút – 30 phút = 6 giờ"
+    },
+    {
+        "question": "Hỗn số $3\\frac{6}{1000}$ được viết dưới dạng số thập phân là:",
+        "option D": "3,0006",
+        "option A": "3,6",
+        "option B": "3,06",
+        "option C": "3,006",
+        "correct option": "C",
+        "explanation": "$3\\frac{6}{1000}$ = 3 + $\\frac{6}{1000}$ = $3 + 0,006 = 3,006$"
+    },
+    {
+        "question": "Số tám trăm chín mươi tư viết là:",
+        "option D": "984",
+        "option A": "849",
+        "option B": "498",
+        "option C": "894",
+        "correct option": "C",
+        "explanation": "Số tám trăm chín mươi tư viết là: 894"
+    },
+    {
+        "question": "Xưởng sản xuất của bác Nam cần lắp đặt 3 000 chiếc ghế. Mỗi chiếc ghế cần dùng 8 chiếc đinh vít nhưng xưởng của bác mới chỉ có 15 700 chiếc đinh vít. Vậy số đinh vít xưởng sản xuất của bác Nam còn thiếu là:",
+        "option D": "9 200 chiếc",
+        "option A": "8 300 chiếc",
+        "option B": "2 400 chiếc",
+        "option C": "7 500 chiếc",
+        "correct option": "A",
+        "explanation": "Số chiếc đinh vít cần dùng để lắp đặt 3000 cái ghế là: 3000 ${\\times}$ 8 = 24 000 (chiếc)\n Số đinh vít xưởng sản xuất của bác Nam còn thiếu là:24 000 – 15 700 = 8 300 (chiếc)\n Đáp số: 8 300 chiếc"
+    },
+    {
+        "question": "Trong các số 30 768; 43 526; 15 916; 43 000, số nhỏ nhất là:",
+        "option D": "43 000",
+        "option A": "30 768",
+        "option B": "43 526",
+        "option C": "15 916",
+        "correct option": "C",
+        "explanation": "Các số đã cho đều là số có 5 chữ số.\n Số 43 526 và số 43 000 đều có chữ số hàng chục nghìn là 4 và chữ số hàng nghìn là 3.\n Xét chữ số hàng trăm: Vì 0 < 5 nên 43 000 < 43 526.\n Xét chữ số hàng chục nghìn của các số đã cho:\n Ta có: 1 < 3 < 4 nên 15 916 < 30 768 < 43 000 < 43 526.\n Vậy số nhỏ nhất trong dãy số trên là 15 916."
+    },
+    {
+        "question": "Số liền trước của số 78 540 là:",
+        "option D": "79 540",
+        "option A": "78 530",
+        "option B": "78 539",
+        "option C": "78 640",
+        "correct option": "B",
+        "explanation": "Muốn tìm số liền trước của một số ta lấy số đó trừ đi 1 đơn vị.\n Lấy 78 540 – 1 = 78 539\n Vậy số liền trước của số 78 540 là: 78 539"
+    },
+    {
+        "question": "Diện tích của hình vuông có cạnh dài 9 cm là:",
+        "option D": "49 cm2",
+        "option A": "64 cm2",
+        "option B": "81 cm2",
+        "option C": "36 cm2",
+        "correct option": "B",
+        "explanation": "Diện tích của hình vuông có cạnh dài 9 cm là: 9 ${\\times}$ 9 = 81 (cm2)"
+    },
+    {
+        "question": "Số bị trừ là 63, số trừ là 28. Vậy hiệu bằng:",
+        "option D": "81",
+        "option A": "91",
+        "option B": "45",
+        "option C": "35",
+        "correct option": "C",
+        "explanation": "63 – 28 = 35"
+    },
+    {
+        "question": "Bây giờ là 16 giờ kém 10 phút. An và bố dự định cùng nhau đi thả diều khoảng 50 phút, sau đó sẽ về nhà. Vậy An và bố sẽ về nhà lúc:",
+        "option D": "17 giờ",
+        "option A": "16 giờ 40 phút",
+        "option B": "16 giờ 45 phút",
+        "option C": "16 giờ rưỡi",
+        "correct option": "A",
+        "explanation": "An và bố về nhà lúc 16 giờ 40 phút"
+    },
+    {
+        "question": "Hoa có nhiều hơn Mai 13 cái bút. Hoa mua thêm 7 cái bút và Mai mua thêm 16 cái. Khi đó:",
+        "option D": "Mai có nhiều hơn Hoa 3 cái bút",
+        "option A": "Hoa có nhiều hơn Mai 6 cái bút",
+        "option B": "Mai có nhiều hơn Hoa 9 cái bút",
+        "option C": "Hoa có nhiều hơn Mai 4 cái bút",
+        "correct option": "C",
+        "explanation": "Mai mua nhiều hơn Hoa số cái bút là: 16 – 7 = 9 (cái bút)\n So sánh: 13 > 9. \n Vậy Hoa có số bút nhiều hơn Mai\n Hiện tại Hoa hơn Mai số bút là: 13 – 9 = 4 (cái bút) \n Vậy Hoa nhiều hơn Mia 4 cái bút."
+    },
+    {
+        "question": "Tỉ số phần trăm của 4 và 1000 là:",
+        "option D": "4%",
+        "option A": "0,4%",
+        "option B": "0,04%",
+        "option C": "40%",
+        "correct option": "A",
+        "explanation": "Tỉ số phần trăm của 4 và 1000 là: 4 : 1000 = 0,004 = 0,4%."
+    },
+    {
+        "question": "15m2 7dm2 = ….. m2. Số thích hợp điền vào chố chấm là:",
+        "option D": "15,007 m2",
+        "option A": "15,07 m2",
+        "option B": "156 m2",
+        "option C": "15,7 m2",
+        "correct option": "A",
+        "explanation": "Ta có: $7dm^{2}=\\frac{7}{100}m^{2}=0,07m^{2}$. Vậy: 15m2 7dm2 = 15 m2 + 0,07 m2 = 15,07 m2. Vậy số thích hợp điền vào chố chấm là : 15,07 m2"
+    },
+    {
+        "question": "“2 giờ 6 phút = ……..giờ”. Số thích hợp cần điền vào chỗ chấm là:",
+        "option D": "2,06",
+        "option A": "126",
+        "option B": "2,1",
+        "option C": "2,6",
+        "correct option": "B",
+        "explanation": "2 giờ 6 phút = 2 giờ + giờ = 2,1 giờ. Số thích hợp cần điền vào chỗ chấm là: 2,1."
+    },
+    {
+        "question": "Số bị chia là 40, số chia là 5. Vậy thương bằng:",
+        "option D": "8",
+        "option A": "35",
+        "option B": "45",
+        "option C": "9",
+        "correct option": "D",
+        "explanation": "Số bị chia là 40, số chia là 5. Vậy thương bằng: 40 : 5 = 8"
+    },
+    {
+        "question": "“1 giờ 36 phút = ……..giờ”. Số thập phân thích hợp cần điền vào chỗ chấm là:",
+        "option D": "1,6",
+        "option A": "1,36",
+        "option B": "13,6",
+        "option C": "10,36",
+        "correct option": "D",
+        "explanation": "1 giờ 36 phút = 1giờ + giờ = 1,6 giờ. Số thập phân thích hợp cần điền vào chỗ chấm là: 1,6."
+    },
+    {
+        "question": "Một người bán hàng bỏ ra 80,000 đồng tiền vốn và bị lỗ 6%. Để tính số tiền lỗ ta phải tính",
+        "option D": "(80,000 x 6) : 100",
+        "option A": "80,000 : 6",
+        "option B": "80,000 x 6",
+        "option C": "80,000 : (6 x 100)",
+        "correct option": "D",
+        "explanation": "Theo đề bài, số tiền lỗ bằng 6% của 80 000 đồng . Để tìm số tiền lỗ ta có thể lấy 80 000 chia cho 100 rồi nhân với 6 (tức là 80 000 : 100 × 6) hoặc lấy 80000 nhân với 6 rồi chia cho 100 (tức là 80 000 × 6 : 100)."
+    },
+    {
+        "question": "6 là thương của hai số nào?",
+        "option D": "18 và 2",
+        "option A": "25 và 5",
+        "option B": "20 và 2",
+        "option C": "30 và 5",
+        "correct option": "C",
+        "explanation": "Ta có: 25 : 5 = 5\n 20 : 2 = 10\n 30 : 5 = 6\n 18 : 2 = 9\n Vậy 6 là thương của 30 và 5"
+    },
+    {
+        "question": "Diện tích xung quanh của hình hộp chữ nhật có chiều dài 1,1m, chiều rộng\n 0,5m và chiều cao 1m là:",
+        "option D": "3,75m2",
+        "option A": "1,6m2",
+        "option B": "3,2m2",
+        "option C": "4,3m2",
+        "correct option": "C",
+        "explanation": "Chu vi mặt đáy hình hộp chữ nhật:\n (1,1 + 0,5) ⨯ 2 = 3,2 (m)\n Diện tích xung quanh hình hộp chữ nhật:\n 3,2 ⨯1 = 3,2 (m2)"
+    },
+    {
+        "question": "Trong các số 512,37; 439,25; 735,49; 627,54 có chữ số 5 ở hàng phần trăm là:",
+        "option D": "627,54",
+        "option A": "512,37",
+        "option B": "439,25",
+        "option C": "735,49",
+        "correct option": "B",
+        "explanation": "Hàng phần trăm là vị trí thứ hai sau dấu phẩy.\nVậy số có chữ số 5 ở vị trí thứ hai sau dấu phẩy là: 439,25."
+    },
+    {
+        "question": "Hiệu của số lớn nhất có hai chữ số và 10 là:",
+        "option D": "91",
+        "option A": "80",
+        "option B": "90",
+        "option C": "89",
+        "correct option": "C",
+        "explanation": "Số lớn nhất có hai chỡ số là: 99\n Vậy hiệu của số lớn nhất có hai chữ số và 10 là: 99 – 10 = 89"
+    },
+    {
+        "question": "“2800g = …..kg”. Số thích hợp điền vào chỗ chấm là:",
+        "option D": "280",
+        "option A": "28",
+        "option B": "2,8",
+        "option C": "0,28",
+        "correct option": "B",
+        "explanation": "2800g = 2,8kg"
+    },
+    {
+        "question": "Trong số 912 345, chữ số 1 có giá trị là:",
+        "option D": "10 000",
+        "option A": "1",
+        "option B": "1 000",
+        "option C": "12 345",
+        "correct option": "D",
+        "explanation": "Trong số 912 345, chữ số 1 có giá trị là: 10 000"
+    },
+    {
+        "question": "Mẹ cắm hoa vào 6 lọ, mỗi lọ 5 bông hoa thì vừa đủ. Mẹ có số bông hoa là:",
+        "option D": "65 bông",
+        "option A": "32 bông",
+        "option B": "30 bông",
+        "option C": "56 bông",
+        "correct option": "B",
+        "explanation": "Mẹ có số bông hoa là:6 ${\\times}$ 5 = 30 (bông) Đáp số: 30 bông hoa"
+    },
+    {
+        "question": "An rót nước từ bình ra cốc uống. Mẹ nhắc An cẩn thận vì nước trong bình còn nóng. Nhiệt độ của nước trong bình khoảng:",
+        "option D": "80 oC",
+        "option A": "35 oC",
+        "option B": "38 oC",
+        "option C": "10 oC",
+        "correct option": "D",
+        "explanation": "An rót nước từ bình ra cốc uống. Mẹ nhắc An cẩn thận vì nước trong bình còn nóng. Nhiệt độ của nước trong bình khoảng: 80 oC"
+    },
+    {
+        "question": "Thứ Tư tuần này là ngày 18. Thứ Năm tuần sau là ngày:",
+        "option D": "28",
+        "option A": "25",
+        "option B": "26",
+        "option C": "27",
+        "correct option": "B",
+        "explanation": "Thứ Năm tuần sau là ngày: $18 + 8 = 26$"
+    },
+    {
+        "question": "Số bé nhất trong các số 9,25; 8,25; 7,89; 6,98 là:",
+        "option D": "6,98",
+        "option A": "9,25",
+        "option B": "8,25",
+        "option C": "7,89",
+        "correct option": "D",
+        "explanation": "So sánh các số 9,25; 8,25; 7,89; 6,98 có:\n Phần nguyên: 6 < 7 < 8 < 9\n Vậy: 6,98 7,89 8,25 9,25\n Vậy số bé nhất trong các số 9,25; 8,25; 7,89; 6,98 là: 6,98"
+    },
+    {
+        "question": "Nếu ngày 15 tháng 3 là thứ Ba thì ngày 21 tháng 3 là thứ mấy?",
+        "option D": "Thứ Năm",
+        "option A": "Thứ Hai",
+        "option B": "Thứ Ba",
+        "option C": "Thứ Tư",
+        "correct option": "B",
+        "explanation": "Ta có: 21 – 15 = 6 (ngày)\n Vậy ngày 21 tháng 3 là thứ Hai"
+    },
+    {
+        "question": "Số bị trừ là số liền trước của số lớn nhất có hai chữ số khác nhau, số trừ là tổng của 29 và 19. Vậy hiệu là",
+        "option D": "50",
+        "option A": "52",
+        "option B": "51",
+        "option C": "49",
+        "correct option": "C",
+        "explanation": "Số lớn nhất có hai chữ số khác nhau là: 98\n Muốn tìm số liền trước của một số, ta lấy số đó trừ đi 1 đơn vị.\n Số liền trước của 98 là: 98 – 1 = 97.Tổng của 29 và 19 là: $29 + 19 = 48$ Hiệu là: 97 – 48 = 49"
+    },
+    {
+        "question": "Trong các phép tính sau, phép tính có kết quả nhỏ nhất là:",
+        "option D": "20 590 – 1 565",
+        "option A": "90 155 : 5",
+        "option B": "13 456 + 9 528",
+        "option C": "5218 ${\\times}$ 3",
+        "correct option": "C",
+        "explanation": "90 155 : 5 = 18 031\n 13 456 + 9 528 = 22 984\n 5 2l8 ${\\times}$ 3 = 15 654 \n 20 590 – 1 565 = 19 025\n Phép tính có kết quả nhỏ nhất là: 5 218 ${\\times}$ 3"
+    },
+    {
+        "question": "Hà muốn bắt chuyến xe buýt lúc 8 giờ rưỡi nhưng lại đến muộn 9 phút. Vậy Hà đã đến trạm xe buýt lúc:",
+        "option D": "9 giờ 21 phút",
+        "option A": "9 giờ kém 21 phút",
+        "option B": "9 giờ 39 phút",
+        "option C": "8 giờ kém 21 phút",
+        "correct option": "A",
+        "explanation": "Đổi 8 giờ rưỡi = 8 giờ 30 phút\n Hà đến trạm xe buýt lúc: 8 giờ 30 phút + 9 phút = 8 giờ 39 phút \n Đổi 8 giờ 39 phút = 9 giờ kém 21 phút"
+    },
+    {
+        "question": "Một ô tô đi từ A đến B với vận tốc 38,5km/giờ được quãng đường 100,1km. Thời gian ô tô đã đi là:",
+        "option D": "2 giờ 30 phút",
+        "option A": "2 giờ 1 phút",
+        "option B": "2 giờ 6 phút",
+        "option C": "2 giờ 36 phút",
+        "correct option": "C",
+        "explanation": "Thời gian ô tô đã đi là: 100,1 : 38,5 = 2,6 (giờ)\n Đổi 2,6 giờ = 2 giờ 36 phút."
+    },
+    {
+        "question": "Số La Mã XIX đọc là:",
+        "option D": "Mười bốn",
+        "option A": "Mười chín",
+        "option B": "Mười một",
+        "option C": "Hai mươi",
+        "correct option": "A",
+        "explanation": "Số La Mã XIX đọc là: mười chín"
+    },
+    {
+        "question": "Một hình chữ nhật có diện bằng 48 cm2 chiều dài bằng 8 cm. Vậy chu vi của hình chữ nhật đó là:",
+        "option D": "40 cm",
+        "option A": "56 cm",
+        "option B": "28 cm",
+        "option C": "14 cm",
+        "correct option": "B",
+        "explanation": "Chiều rộng của hình chữ nhật là:48 : 8 = 6 (cm) \n Chu vi của hình chữ nhật đó là:(8 + 6) ${\\times}$ 2 = 28 (cm) \n Đáp số: 28 cm"
+    },
+    {
+        "question": "Tú về quê thăm ông bà từ ngày 26 tháng 5 đến ngày 2 tháng 6. Thời gian Tú về quê với ông bà là:",
+        "option D": "8 ngày",
+        "option A": "5 ngày",
+        "option B": "6 ngày",
+        "option C": "7 ngày",
+        "correct option": "D",
+        "explanation": "Phương pháp\n - Tháng 5 có 31 ngày.\n - Tính nhẩm số ngày từ 26 tháng 5 đến ngày 2 tháng 6\n Cách giải\n Tháng 5 có 31 ngày.\n Thời gian từ 26 tháng 5 đến ngày 2 tháng 6 là 8 ngày."
+    },
+    {
+        "question": "“Cho 1 giờ 35 phút = ……..phút”. Số thích hợp để điền vào chỗ chấm là:",
+        "option D": "1,35",
+        "option A": "95",
+        "option B": "105",
+        "option C": "135",
+        "correct option": "A",
+        "explanation": "Cho 1 giờ 35 phút = 95 phút."
+    },
+    {
+        "question": "Một người đi xe đạp trong 1 giờ 15 phút được 16,25km. Vận tốc của người đó là:",
+        "option D": "15 km/giờ",
+        "option A": "12 km/giờ",
+        "option B": "13 km/giờ",
+        "option C": "13km/phút",
+        "correct option": "B",
+        "explanation": "Đổi 1 giờ 15 phút = 1,25 giờ\n Vận tốc của người đó là: 16,25 : 1,25 = 13 (km/giờ)"
+    },
+    {
+        "question": "Một lớp có 16 học sinh nữ và 24 học sinh nam. Vậy số học sinh nam chiếm số phần trăm so với số học sinh cả lớp là:",
+        "option D": "50%",
+        "option A": "40%",
+        "option B": "70%",
+        "option C": "60%",
+        "correct option": "C",
+        "explanation": "Tổng số học sinh nam và nữ là:$16 + 24 = 40$ (học sinh)\n Số học sinh nam chiếm số phần trăm so với số học sinh cả lớp là: 24 : 40 ${\\times}$ 100% = 60%"
+    },
+    {
+        "question": "Sử dụng máy tính bỏ túi, hãy viết giá trị gần đúng của \\sqrt3 chính xác đến hàng phần trăm",
+        "option D": "1,7320",
+        "option A": "1,73",
+        "option B": "1,732",
+        "option C": "1,7",
+        "correct option": "A",
+        "explanation": "Sử dụng máy tính bỏ túi ta có \\sqrt3 = 1,732050808. Do đó: Giá trị gần đúng của \\sqrt3 chính xác đến hàng phần trăm là 1,73."
+    },
+    {
+        "question": "Tổng của 9316 và 254,8 là:",
+        "option D": "95708",
+        "option A": "957,08",
+        "option B": "9570,8",
+        "option C": "95,708",
+        "correct option": "B",
+        "explanation": "Ta có: $9316 + 254,8 = 9570,8$ Vậy tổng là 9570,8"
+    },
+    {
+        "question": "30% của 40 tạ là:",
+        "option D": "120 tạ",
+        "option A": "7 tạ",
+        "option B": "12 tạ",
+        "option C": "28 tạ",
+        "correct option": "B",
+        "explanation": "30% của 40 tạ là: 40 ${\\times}$ 30 : 100 = 12 (tạ)."
+    },
+    {
+        "question": "Số lớn nhất có ba chữ số ghép được từ các số 2, 8, 5, 0 là:",
+        "option D": "805",
+        "option A": "285",
+        "option B": "852",
+        "option C": "582",
+        "correct option": "B",
+        "explanation": "Ta có: 8 5 2 0\n Số lớn nhất có ba chữ số ghép được từ các số 2, 8, 5, 0 là số tính từ trái sang phải theo thứ tự các số đã cho giảm dần.\n Vậy số đó la: 852"
+    },
+    {
+        "question": "Phân số $\\frac{15}{1000}$ được viết dưới dạng số thập phân là:",
+        "option D": "0,0015",
+        "option A": "1,5",
+        "option B": "0,15",
+        "option C": "0,015",
+        "correct option": "B",
+        "explanation": "Ta có: $\\frac{15}{1000}$ = 0,15\n Vậy nên phân số $\\frac{15}{1000}$ được viết dưới dạng số thập phân là: 0,15."
+    },
+    {
+        "question": "Trong phép tính: 24 – 14 = 10, số trừ là:",
+        "option D": "10",
+        "option A": "24",
+        "option B": "24 – 14",
+        "option C": "14",
+        "correct option": "C",
+        "explanation": "Trong phép tính: 24 – 14 = 10\n 24: số bị trừ\n 14: số trừ\n Vậy số trừ là: 14"
+    },
+    {
+        "question": "Diện tích của hình tròn có bán kính r = 6cm là:",
+        "option D": "13,04cm2",
+        "option A": "113,4cm2",
+        "option B": "113,04cm2",
+        "option C": "18,84cm2",
+        "correct option": "B",
+        "explanation": "Diện tích của hình tròn có bán kính r = 6cm là: 6 ${\\times}$ 6 ${\\times}$ 3,14 = 113,04 (cm2)."
+    },
+    {
+        "question": "Diện tích toàn phần của hình lập phương có cạnh 1,5dm là:",
+        "option D": "2,25dm2",
+        "option A": "13,5dm2",
+        "option B": "9dm3",
+        "option C": "33,75dm2",
+        "correct option": "A",
+        "explanation": "Diện tích toàn phần của hình lập phương có cạnh 1,5dm là: 1,5 ${\\times}$ 1,5 ${\\times}$ 6 = 13,5 (dm2)"
+    },
+    {
+        "question": "“1,75m2 = …….cm2” Số thích hợp viết vào chỗ chấm là:",
+        "option D": "17050",
+        "option A": "175",
+        "option B": "1750",
+        "option C": "17500",
+        "correct option": "C",
+        "explanation": "1,75m2 = 17500cm2. Số thích hợp viết vào chỗ chấm là: 17500."
+    },
+    {
+        "question": "Số 504 đọc là:",
+        "option D": "Năm trăm linh tư",
+        "option A": "Năm trăm không bốn",
+        "option B": "Năm trăm tư",
+        "option C": "Năm trăm bốn",
+        "correct option": "D",
+        "explanation": "Số 504 đọc là: Năm trăm linh tư"
+    },
+    {
+        "question": "Thứ Tư tuần này là ngày 20. Vậy thứ Tư tuần trước là ngày mấy?",
+        "option D": "Ngày 12",
+        "option A": "Ngày 13",
+        "option B": "Ngày 15",
+        "option C": "Ngày 27",
+        "correct option": "A",
+        "explanation": "Thứ Tư tuần trước là ngày: 20 – 7 = 13"
+    },
+    {
+        "question": "Số liền sau của số 36 là số:",
+        "option D": "37",
+        "option A": "33",
+        "option B": "32",
+        "option C": "31",
+        "correct option": "D",
+        "explanation": "Muốn tìm số liền sau của một số ta lấy số đó cộng thêm 1 đơn vị.\n $36 + 1 = 37$\nVậy số liền sau của số 36 là số: 37"
+    },
+    {
+        "question": "Còn 9 ngày nữa là đến Giáng Sinh, 25 tháng 12, hôm đó là thứ Bảy. Vậy hôm nay là thứ mấy, ngày mấy tháng 12?",
+        "option D": "Chủ nhật ngày 17",
+        "option A": "Thứ Năm ngày 16",
+        "option B": "Thứ Sáu ngày 17",
+        "option C": "Thứ Bảy ngày 16",
+        "correct option": "A",
+        "explanation": "Ngày hôm nay là: 25 – 9 = 16.\n Ta có: 9 ngày = 1 tuần + 2 ngày.\n Vậy hôm nay là thứ Năm"
+    },
+    {
+        "question": "99 là số liền trước của:",
+        "option D": "96",
+        "option A": "97",
+        "option B": "100",
+        "option C": "98",
+        "correct option": "B",
+        "explanation": "Ta tìm số liền sau của 99.Muốn tìm số iền sau của một số, ta lấy số đó cộng thêm 1.Số liền sau của 99 là: $99 + 1 = 100$ .Vậy 99 là số liền trước của: 100."
+    },
+    {
+        "question": "Số liền sau của số tròn trăm lớn nhất có ba chữ số là:",
+        "option D": "998",
+        "option A": "901",
+        "option B": "1 000",
+        "option C": "999",
+        "correct option": "A",
+        "explanation": "Số tròn trăm lớn nhất có ba chữ số là: 900\n Muốn tìm số liền sau của một số, ta lấy số đó cộng thêm 1 đơn vị.\n Vậy số liền sau của 900 là: $900 + 1 = 901$\n Vậy số liền sau của số tròn trăm lớn nhất có ba chữ số là: 901."
+    },
+    {
+        "question": "Giảm 86 đi 2 lần ta được:",
+        "option D": "88",
+        "option A": "43",
+        "option B": "84",
+        "option C": "34",
+        "correct option": "A",
+        "explanation": "Giảm 86 đi 2 lần ta được: 86 : 2 = 43"
+    },
+    {
+        "question": "Số nào dưới đây có chữ số hàng nghìn là 5?",
+        "option D": "71 543",
+        "option A": "51 490",
+        "option B": "25 823",
+        "option C": "62 059",
+        "correct option": "B",
+        "explanation": "Phương pháp\n Xác định hàng của chữ số 5 trong mỗi số rồi chọn đáp án thích hợp.\n Cách giải\n Số có chữ số hàng nghìn là 5 là số 25 823."
+    },
+    {
+        "question": "Số liền trước của số 67 700 là:",
+        "option D": "67 698",
+        "option A": "67 699",
+        "option B": "67 600",
+        "option C": "67 999",
+        "correct option": "A",
+        "explanation": "Số liền trước của số 67 700 là: 67 699"
+    },
+    {
+        "question": "Cho dãy số 2; 4; 6; 8; ...; ...; ...; ....; 18; 20. \n Các số thích hợp lần lượt điền vào những chỗ chấm là:",
+        "option D": "12; 14; 16; 18",
+        "option A": "10; 12; 16; 18",
+        "option B": "10; 14; 16; 18",
+        "option C": "10; 12; 14; 16",
+        "correct option": "C",
+        "explanation": "Dãy số 2; 4; 6; 8; ...; ...; ...; ....; 18; 20 có các số liên tiếp cách nhau 2 đơn vị.Vậy các số thích hợp lần lượt điền vào những chỗ chấm là: 10; 12; 14; 16."
+    },
+    {
+        "question": "Hôm qua cửa hàng bán được 2 536 l nước mắm, hôm nay bán được nhiều hơn hôm qua 908 l. Vậy số nước mắm cả hai ngày cửa hàng bán được là:",
+        "option D": "4 164 l",
+        "option A": "1 628 l",
+        "option B": "5 980 l",
+        "option C": "3 444 l",
+        "correct option": "B",
+        "explanation": "Hôm nay cửa hàng bán được nhiều hơn hôm qua số lít nước mắm là:\n 2 536 + 908 = 3 444 (l)\n Cả hai ngày cửa hàng bán được số lít nước mắm là:\n 2 536 + 3 444 = 5 980 (l)\n Đáp số: 5 980 l"
+    },
+    {
+        "question": "Số thích hợp điền vào chỗ chấm: 8ha 25m2 = …….. dam2 là:",
+        "option D": "80025",
+        "option A": "825",
+        "option B": "800,25",
+        "option C": "8,25",
+        "correct option": "B",
+        "explanation": "8ha = 800 dam225 m2 = 0,25 dam2Vậy 8ha 25m2 = 800,25 dam2 Vậy số thích hợp điền vào chỗ chấm là: 800,25"
+    },
+    {
+        "question": "Chữ số 7 trong số 291,725 có giá trị là:",
+        "option D": "7",
+        "option A": "$\\frac{7}{10}$",
+        "option B": "$\\frac{7}{100}$",
+        "option C": "$\\frac{7}{1000}$",
+        "correct option": "A",
+        "explanation": "Chữ số 7 trong số 291,725 thuộc phần mười.Vậy chữ số 7 trong số 291,725 có giá trị là: $\\frac{7}{10}$"
+    },
+    {
+        "question": "Trong số 76 235, giá trị của chữ số 7 hơn giá trị của chữ số 6 số đơn vị là:",
+        "option D": "10 000 đơn vị",
+        "option A": "l đơn vị",
+        "option B": "1 000 đơn vị",
+        "option C": "64 000 đơn vị",
+        "correct option": "C",
+        "explanation": "Trong số 76 235:\n - Giá trị của chữ số 7 là 70 000\n - Giá trị của chữ số 6 là 6 000\n Giá trị của chữ số 7 hơn giá trị của chữ số 6 số đơn vị là:\n 70 000 – 6 000 = 64 000 (đơn vị)\n Đáp số: 64 000 đơn vị"
+    },
+    {
+        "question": "Khối lớp Hai trồng được 150 cây, khối lớp Ba trồng được nhiều hơn khối lớp Hai 50 cây. Cả hai khối lớp trồng được tất cả là:",
+        "option D": "300 cây",
+        "option A": "200 cây",
+        "option B": "100 cây",
+        "option C": "350 cây",
+        "correct option": "C",
+        "explanation": "Khối lớp ba trồng được số cây là: 150 + 50 = 200 (cây)\n Cả hai khối trồng được tất cả số cây là: 150 + 200 = 350 (cây)"
+    },
+    {
+        "question": "$58\\frac{27}{1000}$ được viết dưới dạng số thập phân là:",
+        "option D": "58,027",
+        "option A": "58,27",
+        "option B": "58,270",
+        "option C": "58,0027",
+        "correct option": "D",
+        "explanation": "$58\\frac{27}{1000}$ được viết dưới dạng số thập phân là: 58,027"
+    },
+    {
+        "question": "Trong các số: 825, 627, 958, 609; số lớn nhất là:",
+        "option D": "609",
+        "option A": "825",
+        "option B": "627",
+        "option C": "958",
+        "correct option": "C",
+        "explanation": "Các số: 825, 627, 958, 609 đều là số có ba chữ số nên ta so sánh theo chiều từ trái sang.\n Số hàng trăm: 6 8 9\n Vậy số lớn nhất là: 958"
+    },
+    {
+        "question": "Trên bản đồ có ghi tỉ lệ 1 : 1 000, có chiều dài một bồn hoa hình bình hành đo được 12 cm. Chiều dài bồn hoa hình bình hành đó trên thực tế dài số xăng ti mét là:",
+        "option D": "12 000",
+        "option A": "12",
+        "option B": "120",
+        "option C": "1 200",
+        "correct option": "D",
+        "explanation": "Chiều dài bồn hoa hình bình hành đó trên thực tế dài số xăng ${-}$ ti ${-}$ mét là: 12 ${\\times}$ 1 000 = 12 000 (cm)"
+    },
+    {
+        "question": "Một hình tam giác có độ dài đáy bằng 12,6 cm. Chiều cao bằng $\\frac{1}{2}$ độ dài đáy. Diện tích của tam giác đó là:",
+        "option D": "39,96 cm2",
+        "option A": "79,38 cm2",
+        "option B": "36,69 cm2",
+        "option C": "39,83 cm2",
+        "correct option": "D",
+        "explanation": "Chiều cao của tam giác là:12,6 : 2 = 6,3 (cm)\n Diện tích của tam giác đó là:(12,6 ${\\times}$ 6,3) : 2 = 39,69 (cm2)\n Đáp số: 39,69 cm2."
+    },
+    {
+        "question": "Tỉ số phần trăm của 48 và 75 là:",
+        "option D": "60%",
+        "option A": "0,64%",
+        "option B": "6,4%",
+        "option C": "64%",
+        "correct option": "C",
+        "explanation": "Tỉ số phần trăm của 48 và 75 là:48 : 75 ${\\times}$ 100% = 64% Đáp số: 64%"
+    },
+    {
+        "question": "Diện tích của hình tròn có đường kính 5cm là:",
+        "option D": "78,5cm2",
+        "option A": "15,7cm2",
+        "option B": "19,625cm2",
+        "option C": "87,135cm2",
+        "correct option": "B",
+        "explanation": "Bán kính hình tròn là: 5 : 2 = 2,5 (cm)\n Diện tích của hình tròn có đường kính 5cm là: 2,5 ${\\times}$ 2,5 ${\\times}$ 3,14 = 19,625 (cm2)"
+    },
+    {
+        "question": "Diện tích mảnh vườn hình chữ nhật có chiều dài 25m, chiều rộng bằng $\\frac{3}{5}$ chiều dài là:",
+        "option D": "375m2",
+        "option A": "80m2",
+        "option B": "357m2",
+        "option C": "275m2",
+        "correct option": "B",
+        "explanation": "Chiều rộng mảnh vườn là: \n $25\\times \\frac{3{5}=15\\left(m^{2}\\right)$\n Diện tích mảnh vườn hình chữ nhật là:25 ${\\times}$ 15 = 375 (m2)\n Đáp số: 375 m2"
+    },
+    {
+        "question": "Số gồm 8 chục nghìn 6 nghìn 5 trăm 2 đơn vị viết là:",
+        "option D": "86 520",
+        "option A": "8 652",
+        "option B": "80 652",
+        "option C": "86 502",
+        "correct option": "C",
+        "explanation": "Số gồm 8 chục nghìn 6 nghìn 5 trăm 2 đơn vị viết là: 86 502"
+    },
+    {
+        "question": "Khoảng thời gian từ 7 giờ kém 20 phút đến 7 giờ 30 phút là:",
+        "option D": "50 phút",
+        "option A": "20 phút",
+        "option B": "30 phút",
+        "option C": "40 phút",
+        "correct option": "D",
+        "explanation": "Đổi 7 giờ kém 20 phút = 6 giờ 40 phút\n Khoảng thời gian từ 7 giờ kém 20 phút đến 7 giờ 30 phút là:\n 7 giờ 30 phút – 6 giờ 40 phút = 50 phút."
+    },
+    {
+        "question": "Biết hiệu bằng 17 500, số trừ bằng 40 500, số bị trừ là:",
+        "option D": "33 000",
+        "option A": "57 000",
+        "option B": "58 000",
+        "option C": "23 000",
+        "correct option": "B",
+        "explanation": "Số bị trừ là: 17 500 + 40 500 = 58 000"
+    },
+    {
+        "question": "Mai có 5 tờ 20 000 đồng, Hiền có 1 tờ 50 000 đồng. Vậy Hiền có ít hơn Mai số tiền là:",
+        "option D": "50 000 đồng",
+        "option A": "30 000 đồng",
+        "option B": "10 000 đồng",
+        "option C": "70 000 đồng",
+        "correct option": "D",
+        "explanation": "Mai có số tiền là:20 000 ${\\times}$ 5 = 100 000 (đồng) \n Hiền ít hơn Mai số tiền là:100 000 – 50 000 = 50 000 (đồng)\n Đáp số: 50 000 đồng"
+    },
+    {
+        "question": "Tam giác ABC có diện tích 40 cm2. Chiều cao AH có độ dài 0,8 dm. Độ dài đáy BC của tam giác ABC là:",
+        "option D": "20 cm",
+        "option A": "5 cm",
+        "option B": "10 cm",
+        "option C": "15 cm",
+        "correct option": "B",
+        "explanation": "Đổi: 0,8 dm = 8 cm. Độ dài đáy BC của tam giác ABC là: 2 ${\\times}$ 40 : 8 = 10 (cm)"
+    }
+]

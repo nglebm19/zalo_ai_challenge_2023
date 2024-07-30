@@ -1,0 +1,758 @@
+[
+    {
+        "answer": "Reason: Để tính được số tiền thu được nếu bán hết hàng, ta cần biết tổng số hàng hiện có trong cửa hàng. Vì đã bán được 30% số hàng và thu được 15 000 000 đồng, ta có thể tính được tổng số hàng ban đầu.\n\nGiả sử tổng số hàng ban đầu là x. Theo đề bài, ta có phương trình:\n\n30% * x = 15 000 000\n\nĐể tìm x, ta chia cả hai vế của phương trình cho 30%:\n\nx = 15 000 000 / 30% = 50 000 000\n\nVậy tổng số tiền thu được nếu bán hết hàng là 50 000 000 đồng.\n\nAnswer: C. 50 000 000 đồng",
+        "id": "01-0203"
+    },
+    {
+        "answer": "Reason: Để xác định thời gian người đi xe máy đuổi kịp người đi xe đạp, ta cần tìm thời gian mà cả hai người đi được cùng khoảng cách.\n\nTrước khi người đi xe máy bắt đầu đuổi, người đi xe đạp đã đi được 12km/h trong 1 giờ (từ 7 giờ đến 8 giờ). Khoảng cách giữa hai người là 12km.\n\nNgười đi xe máy có vận tốc 42km/h, nhanh hơn người đi xe đạp 30km/h. Để đuổi kịp, người đi xe máy cần thời gian là khoảng cách chia cho hiệu số vận tốc: 12km / 30km/h = 0.4 giờ = 24 phút.\n\nVậy người đi xe máy đuổi kịp người đi xe đạp lúc 8 giờ + 24 phút = 8 giờ 24 phút.\n\nAnswer: D. 8 giờ 24 phút.",
+        "id": "01-0206"
+    },
+    {
+        "answer": "Reason: Diện tích xung quanh của hình lập phương phụ thuộc vào cạnh của hình. Khi cạnh của hình lập phương gấp lên 2 lần, diện tích xung quanh sẽ gấp lên (2^2) = 4 lần.\n\nAnswer: B. 4 lần",
+        "id": "01-0207"
+    },
+    {
+        "answer": "Reason: Để tính diện tích thửa ruộng ban đầu, ta sử dụng công thức diện tích hình thang: S = (đáy bé + đáy lớn) * chiều cao / 2.\n\nDiện tích thửa ruộng ban đầu là: S1 = (8 + 12) * chiều cao / 2 = 20 * chiều cao / 2 = 10 * chiều cao.\n\nSau khi kéo dài đáy lớn thêm 5m, diện tích thửa ruộng tăng thêm 25m2. Ta có công thức diện tích hình thang: S = (đáy bé + đáy lớn) * chiều cao / 2.\n\nDiện tích thửa ruộng sau khi kéo dài là: S2 = (8 + 12 + 5) * chiều cao / 2 = 25 * chiều cao / 2 = 12.5 * chiều cao.\n\nVậy diện tích thửa ruộng tăng thêm là: S2 - S1 = 12.5 * chiều cao - 10 * chiều cao = 2.5 * chiều cao.\n\nĐể tính phần trăm tăng, ta sử dụng công thức: phần trăm tăng = (diện tích tăng thêm / diện tích ban đầu) * 100%.\n\nPhần trăm tăng là: (2.5 * chiều cao / (10 * chiều cao)) * 100% = 25%.\n\nAnswer: C. 25%.",
+        "id": "01-0209"
+    },
+    {
+        "answer": "Reason: Để tính chiều dài của xe lửa, ta cần biết vận tốc của xe lửa. Vận tốc có thể tính bằng công thức vận tốc = quãng đường / thời gian.\n\nVận tốc khi vượt qua cầu = 450m / 45s = 10m/s\nVận tốc khi vượt qua cột điện = 450m / 15s = 30m/s\n\nVì vận tốc không thay đổi, nên chiều dài của xe lửa là quãng đường mà nó đi được trong thời gian 1 giây.\n\nChiều dài của xe lửa = vận tốc = 10m/s\n\nAnswer: A. 3m",
+        "id": "01-0210"
+    },
+    {
+        "answer": "Reason: Để tìm số lớn nhất trong các số, ta so sánh từng chữ số từ trái qua phải. \n\n- Chữ số hàng nghìn: 5,216; 5,126; 5,621; 5,612. Số lớn nhất là 5,621.\n\nAnswer: B. 5,621",
+        "id": "01-0211"
+    },
+    {
+        "answer": "Reason: Để tính phần trăm số học sinh nữ trong lớp, ta cần chia số học sinh nữ cho tổng số học sinh và nhân với 100.\n\nSố học sinh nữ: 14\nTổng số học sinh: 35\n\nPhần trăm số học sinh nữ = (14/35) * 100 = 40%\n\nAnswer: A. 40%",
+        "id": "01-0214"
+    },
+    {
+        "answer": "Reason: Để cộng hai số thời gian, ta cộng số giờ và số phút tương ứng. \n\n4 giờ 45 phút + 3 giờ 32 phút = (4 + 3) giờ + (45 + 32) phút = 7 giờ + 77 phút\n\nTuy nhiên, 77 phút không thể chuyển thành giờ và phút, vì vậy ta phải chuyển 77 phút thành 1 giờ 17 phút.\n\n7 giờ + 77 phút = 7 giờ + 1 giờ 17 phút = 8 giờ 17 phút\n\nAnswer: C. 8 giờ 17 phút",
+        "id": "01-0219"
+    },
+    {
+        "answer": "Reason: Số $\\frac{75}{100}$ có thể được viết dưới dạng phân số rút gọn là $\\frac{3}{4}$. Để viết thành số thập phân, ta chia tử số cho mẫu số: $\\frac{3}{4} = 0,75$.\n\nAnswer: C. 0,75",
+        "id": "01-0221"
+    },
+    {
+        "answer": "Reason: Số sáu mươi bảy phẩy chín trăm mười chín được viết là 67.910.\n\nAnswer: A. 67,910",
+        "id": "01-0222"
+    },
+    {
+        "answer": "Reason: Để tìm 80% của 30, ta nhân 30 với 80% (hay 0.8):\n30 * 0.8 = 24\n\nAnswer: B. 24",
+        "id": "01-0223"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ m^3 sang dm^3, ta nhân số đơn vị m^3 với 1000 (vì 1 m^3 = 1000 dm^3).\n\nVậy, 39,87m^3 = 39,87 * 1000 dm^3 = 39870 dm^3.\n\nAnswer: D. 39870",
+        "id": "01-0224"
+    },
+    {
+        "answer": "Reason: Chữ số 7 trong số 32,708 đứng sau dấu chấm thập phân và nằm ở vị trí thập phân thứ hai từ phải sang trái. Vị trí này tương ứng với giá trị 1/10.\n\nAnswer: B. \\frac{7}{10}",
+        "id": "01-0225"
+    },
+    {
+        "answer": "Reason: Chữ số 5 trong số 162,57 chỉ đến chữ số hàng chục.\n\nAnswer: C. 5 chục",
+        "id": "01-0227"
+    },
+    {
+        "answer": "Reason: Để tính phần trăm diện tích đất trồng cây cao su so với diện tích đất trồng cây cà phê, ta sử dụng công thức:\nPhần trăm = (diện tích đất trồng cây cao su / diện tích đất trồng cây cà phê) * 100%\n\nVới diện tích đất trồng cây cà phê là 320ha và diện tích đất trồng cây cao su là 480ha, ta có:\nPhần trăm = (480 / 320) * 100% = 150%\n\nAnswer: A. 150%",
+        "id": "01-0232"
+    },
+    {
+        "answer": "Reason: Giả sử độ dài cạnh hình lập phương B là x, thì thể tích của hình lập phương B là x^3. Vì thể tích của hình lập phương A gấp 8 lần thể tích của hình lập phương B, nên thể tích của hình lập phương A là 8x^3. \n\nĐộ dài cạnh hình lập phương A là căn bậc ba của thể tích của hình lập phương A, nên độ dài cạnh hình lập phương A là (8x^3)^(1/3) = 2x.\n\nTỉ số giữa độ dài cạnh hình lập phương B và độ dài cạnh hình lập phương A là x / (2x) = 1/2.\n\nAnswer: C. 1/2",
+        "id": "01-0234"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ km/giờ sang m/phút, ta cần chia cho 60 vì 1 giờ có 60 phút.\n\n21 km/giờ = 21 * 1000 m / (60 phút) = 350 m/phút\n\nAnswer: C. 350",
+        "id": "01-0237"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ dm^3 sang m^3, ta cần nhân số đó với 0.001 (vì 1 m^3 = 1000 dm^3).\n\nVậy, 5m^3 19dm^3 = 5 + 19 * 0.001 = 5.019 m^3.\n\nAnswer: B. 5,019",
+        "id": "01-0239"
+    },
+    {
+        "answer": "Reason: Để giải bài toán này, ta thực hiện các phép tính theo thứ tự ưu tiên. Đầu tiên, ta thực hiện phép chia 0,12 giờ cho 2, sau đó nhân kết quả với 3.\n\n0,12 giờ \\div 2 = 0,06 giờ\n\n0,06 giờ \\times 3 = 0,18 giờ\n\nAnswer: C. 0,18 giờ",
+        "id": "01-0240"
+    },
+    {
+        "answer": "Reason: Để tìm số ban đầu, ta chia số đã cho (1,3875) cho phần trăm tương ứng (37,5% = 0,375).\n\n1,3875 / 0,375 = 3,6992\n\nAnswer: B. 3,6992",
+        "id": "01-0241"
+    },
+    {
+        "answer": "Reason: Để tìm chữ số 5 trong số 254.836, ta xem từng chữ số từ trái sang phải.\n\nChữ số 5 đầu tiên mà ta gặp là 5 trong số 500.000.\n\nAnswer: B. 500 000",
+        "id": "01-0243"
+    },
+    {
+        "answer": "Reason: Để tính phần trăm số học sinh nữ trong lớp, ta cần chia số học sinh nữ cho tổng số học sinh và nhân với 100.\n\nSố học sinh nữ: 12\nTổng số học sinh: 32\n\nPhần trăm số học sinh nữ = (12/32) * 100 = 37.5\n\nAnswer: D. 37.5",
+        "id": "01-0245"
+    },
+    {
+        "answer": "Reason: Để tính giá trị của biểu thức, ta thực hiện các phép tính theo thứ tự ưu tiên:\n15 ÷ 1,5 + 2,5 × 0,2 = 10 + 0,5 = 10,5\n\nAnswer: D. 10,5",
+        "id": "01-0246"
+    },
+    {
+        "answer": "Reason: Để chuyển từ kg sang tấn, ta chia số kg cho 1000.\nVậy 3tấn5kg = (3 + 5/1000) tấn = 3,005 tấn.\n\nAnswer: C. 3,005",
+        "id": "01-0249"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi giờ thành phút, ta nhân số giờ với 60 (vì mỗi giờ có 60 phút).\n\n1,5 giờ = 1,5 x 60 = 90 phút\n\nAnswer: C. 90 phút",
+        "id": "01-0254"
+    },
+    {
+        "answer": "Reason: Diện tích hình thang ABCD được tính bằng công thức: Diện tích = (đáy nhỏ + đáy lớn) * chiều cao / 2.\n\nDiện tích = (6 + 4) * 3 / 2 = 30 dm^{2}.\n\nAnswer: B. 30 dm^{2}.",
+        "id": "01-0256"
+    },
+    {
+        "answer": "Reason: Chu vi hình tròn được tính bằng công thức C = πd, trong đó d là đường kính của hình tròn và π là số Pi (khoảng 3.14).\n\nVới đường kính d = 3 dm, ta có:\nC = 3.14 * 3 = 9.42 dm\n\nAnswer: A. 9,42 dm",
+        "id": "01-0257"
+    },
+    {
+        "answer": "Reason: Diện tích hình tròn được tính bằng công thức A = πr^2, trong đó π là số Pi và r là bán kính.\n\nVới bán kính r = 2cm, ta có:\nA = π(2)^2 = 4π cm^2\n\nVới giá trị π xấp xỉ 3.14, ta có:\nA ≈ 4 x 3.14 cm^2 ≈ 12.56 cm^2\n\nAnswer: D. 12,56 cm^{2}",
+        "id": "01-0258"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ mét khối (m³) sang decimét khối (dm³), ta nhân số mét khối với 1000 (vì 1 mét khối = 1000 decimét khối).\n\nVậy, 13,8 m³ = 13,8 * 1000 dm³ = 13800 dm³.\n\nAnswer: B. 13800 dm³.",
+        "id": "01-0259"
+    },
+    {
+        "answer": "Reason: Để tính tỉ số phần trăm của 32 và 50, ta sẽ chia 32 cho 50 và nhân với 100 để đổi thành phần trăm.\n\nTỉ số phần trăm = (32/50) * 100 = 64%\n\nAnswer: A. 64%",
+        "id": "01-0264"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ dm^3 sang m^3, ta chia cho 1000 vì 1 m^3 = 1000 dm^3. Vậy số thích hợp điền vào chỗ trống là:\n3m^3 76 dm^3 = 3 + 76/1000 = 3,076 m^3\n\nAnswer: D. 3,076",
+        "id": "01-0266"
+    },
+    {
+        "answer": "Reason: Số thập phân gồm hai trăm linh một đơn vị và 7 phần trăm được viết là 201,7.\n\nAnswer: B. 201,7",
+        "id": "01-0268"
+    },
+    {
+        "answer": "Reason: Để tìm số lớn nhất trong các số, ta so sánh từng chữ số từ trái qua phải. \n\n0,79: Chữ số thập phân là 7\n0,789: Chữ số thập phân là 8\n0,709: Chữ số thập phân là 9\n0,8: Chữ số thập phân là 8\n\nVậy số lớn nhất trong các số là 0,789.\n\nAnswer: B. 0,789",
+        "id": "01-0269"
+    },
+    {
+        "answer": "Reason: Để tính khoảng thời gian từ lúc 7 giờ kém 10 phút đến 7 giờ 30 phút, ta trừ thời gian bắt đầu từ thời gian kết thúc:\n7 giờ 30 phút - (7 giờ - 10 phút) = 7 giờ 30 phút - 6 giờ 50 phút = 40 phút\n\nAnswer: D. 40 phút",
+        "id": "01-0273"
+    },
+    {
+        "answer": "Reason: Để chuyển phân số thành số thập phân, ta chia tử số cho mẫu số.\nPhân số $\\frac{3}{4}$ chia tử số 3 cho mẫu số 4 sẽ được kết quả là 0,75.\n\nAnswer: B. 0,75",
+        "id": "01-0275"
+    },
+    {
+        "answer": "Reason: Từ 9 giờ kém 10 phút đến 9 giờ 30 phút có thời gian là 30 phút.\n\nAnswer: C. 30 phút",
+        "id": "01-0277"
+    },
+    {
+        "answer": "Reason: Để nhân một số với 100, ta chỉ cần di chuyển dấu phẩy sang phải 2 vị trí. Vì vậy, 12,34 * 100 = 1234.\n\nAnswer: C. 1234",
+        "id": "01-0285"
+    },
+    {
+        "answer": "Reason: Để tính thời gian làm 8 sản phẩm, ta nhân thời gian làm 1 sản phẩm (1 phút 12 giây) với số lượng sản phẩm (8):\n\n1 phút 12 giây x 8 = 9 phút 36 giây\n\nAnswer: C. 9 phút 36 giây",
+        "id": "01-0292"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ mét sang kilômét, ta chia số mét cho 1000. Vậy 3km 48m = 3 + 48/1000 = 3,048km.\n\nAnswer: B. 3,048",
+        "id": "01-0294"
+    },
+    {
+        "answer": "Reason: Số học sinh nữ chiếm 55% số học sinh toàn trường, vậy số học sinh nam chiếm 45% số học sinh toàn trường.\n\nĐể tìm số học sinh nam, ta nhân 45% với tổng số học sinh:\n45% * 600 = 0.45 * 600 = 270 học sinh\n\nAnswer: A. 270 học sinh",
+        "id": "01-0296"
+    },
+    {
+        "answer": "Reason: Để tính biểu thức, ta thực hiện các phép tính theo thứ tự ưu tiên. \n\n3,5 \\times \\frac{1}{4} = \\frac{7}{2} \\times \\frac{1}{4} = \\frac{7}{8}\n\n1,5 \\times \\frac{1}{4} = \\frac{3}{2} \\times \\frac{1}{4} = \\frac{3}{8}\n\nVậy, biểu thức ban đầu trở thành:\n\n\\frac{7}{8} - \\frac{3}{8} = \\frac{7-3}{8} = \\frac{4}{8} = \\frac{1}{2}\n\nAnswer: B. \\frac{1}{2}",
+        "id": "01-0302"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ m^3 sang dm^3, ta nhân với 1000 vì 1 m^3 = 1000 dm^3. Vậy 0,2 m^3 = 0,2 * 1000 dm^3 = 200 dm^3.\n\nĐể tìm số lần gấp, ta chia 200 dm^3 cho 25 dm^3.\n\n200 dm^3 / 25 dm^3 = 8\n\nAnswer: C. 8",
+        "id": "01-0303"
+    },
+    {
+        "answer": "Reason: Diện tích toàn phần của hình lập phương được tính bằng công thức 6a^2, trong đó a là cạnh của hình lập phương. Ta có công thức tính diện tích toàn phần của hình hộp chữ nhật là 2lw + 2lh + 2wh, trong đó l, w, h lần lượt là chiều dài, chiều rộng và chiều cao của hình hộp chữ nhật.\n\nTheo đề bài, diện tích toàn phần của hình lập phương là 486 cm^2, ta có:\n6a^2 = 486\na^2 = 486/6\na^2 = 81\na = √81\na = 9\n\nVậy cạnh của hình lập phương là 9 cm. Theo đó, ta có:\nl = 12 cm\nw = 8 cm\n\nĐể tìm chiều cao của hình hộp chữ nhật, ta sử dụng công thức diện tích toàn phần của hình hộp chữ nhật:\n2lw + 2lh + 2wh = 486\n2(12)(8) + 2(12)h + 2(8)h = 486\n192 + 24h + 16h = 486\n40h = 486 - 192\n40h = 294\nh = 294/40\nh = 7.35\n\nVậy chiều cao của hình hộp chữ nhật là 7 cm.\n\nAnswer: A. 7 cm",
+        "id": "01-0305"
+    },
+    {
+        "answer": "Reason: Để trừ hai số thập phân, ta thực hiện trừ từng chữ số thập phân từ phải sang trái. \n\n712,54 - 48,9 = 663,64\n\nAnswer: C. 663,64",
+        "id": "01-0314"
+    },
+    {
+        "answer": "Reason: Để tính chiều cao của hình hộp chữ nhật, ta sử dụng công thức tính thể tích của hình hộp chữ nhật: V = chiều dài x chiều rộng x chiều cao.\n\nVới V = 300dm^3, chiều dài = 15dm và chiều rộng = 5dm, ta có:\n\n300 = 15 x 5 x chiều cao\n\nchiều cao = 300 / (15 x 5) = 4dm\n\nAnswer: B. 4dm",
+        "id": "01-0315"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ m^2 sang ha, ta chia số m^2 cho 10.000 (vì 1 ha = 10.000 m^2).\n\n55 ha 17 m^2 = (55 + 17/10.000) ha = 55,0017 ha\n\nAnswer: B. 55,0017",
+        "id": "01-0316"
+    },
+    {
+        "answer": "Reason: Tổng số học sinh trong lớp là 18 + 12 = 30.\nSố học sinh nữ chiếm phần trăm trong tổng số học sinh là (18/30) * 100% = 60%.\n\nAnswer: B. 60%",
+        "id": "01-0317"
+    },
+    {
+        "answer": "Reason: Số thập phân 0,9 có nghĩa là 0,9/1. Để viết dưới dạng phân số, ta chỉ cần viết số 0,9 làm tử số và số 1 làm mẫu số.\n\nAnswer: A. \\frac{9}{10}",
+        "id": "01-0321"
+    },
+    {
+        "answer": "Reason: Để tính phần trăm của một số, ta nhân số đó với phần trăm tương ứng và chia cho 100.\n\n25% của 120 = (25/100) * 120 = 30\n\nAnswer: A. 25",
+        "id": "01-0322"
+    },
+    {
+        "answer": "Reason: Thể tích của hình lập phương được tính bằng công thức V = a^3, trong đó a là cạnh của hình lập phương.\n\nVới cạnh là 5m, ta có:\nV = 5^3 = 125 m^3\n\nAnswer: B. 125 m^3",
+        "id": "01-0324"
+    },
+    {
+        "answer": "Reason: Để tính phần trăm của một số, ta nhân số đó với phần trăm tương ứng và chia cho 100.\n\nVậy 5% của 120 là: (5/100) * 120 = 6\n\nAnswer: C. 6",
+        "id": "01-0326"
+    },
+    {
+        "answer": "Reason: Để chuyển từ km/giờ sang m/phút, ta nhân vận tốc theo km/giờ với 1000/60 (1000 mét trong 1 km và 60 phút trong 1 giờ).\n\nVận tốc của ô tô là 51 km/giờ, nên vận tốc của ô tô là:\n51 * (1000/60) = 850 m/phút\n\nAnswer: A. 850 m/phút",
+        "id": "01-0329"
+    },
+    {
+        "answer": "Reason: Số liền trước của một số là số đó trừ đi 1.\n\nAnswer: A. 9998",
+        "id": "01-0330"
+    },
+    {
+        "answer": "Reason: Để tìm số đó, ta sử dụng công thức: Số = (Phần trăm / 100) * Tổng.\n\nTrong trường hợp này, ta có: 50% của một số là 5.\n\nVậy số đó = (50 / 100) * Tổng = 5.\n\nĐể tìm Tổng, ta có: Tổng = 5 * (100 / 50) = 10.\n\nAnswer: A. 10",
+        "id": "01-0336"
+    },
+    {
+        "answer": "Reason: Để tìm số có chữ số 3 ở hàng phần mười, ta chỉ cần xem chữ số sau dấu phẩy của các số đã cho.\n\nSố 28,3: Chữ số sau dấu phẩy là 3.\nSố 2,83: Chữ số sau dấu phẩy là 8.\nSố 38,2: Chữ số sau dấu phẩy là 2.\nSố 3,82: Chữ số sau dấu phẩy là 8.\n\nSố có chữ số 3 ở hàng phần mười là số 28,3.\n\nAnswer: C. 28,3",
+        "id": "01-0337"
+    },
+    {
+        "answer": "Reason: 1 tấn = 10 tạ\n\nVậy 20 tấn = 20 x 10 tạ = 200 tạ\n\nAnswer: A. 200 tạ",
+        "id": "01-0339"
+    },
+    {
+        "answer": "Reason: Diện tích hình tròn được tính bằng công thức A = πr^2, trong đó r là bán kính của hình tròn.\n\nVới bán kính r = 4 dm, ta có:\nA = π * 4^2 = 16π dm^2\n\nĐáp án: B. 502,4 dm^{2}",
+        "id": "01-0340"
+    },
+    {
+        "answer": "Reason: Để tính chiều cao của hình hộp chữ nhật, ta sử dụng công thức tính thể tích của hình hộp chữ nhật: V = l * w * h, trong đó V là thể tích, l là chiều dài, w là chiều rộng và h là chiều cao.\n\nVới thể tích V = 300dm^3, chiều dài l = 15dm và chiều rộng w = 5dm, ta có:\n\n300 = 15 * 5 * h\n\nĐể tìm chiều cao h, ta chia cả hai vế của phương trình cho (15 * 5):\n\n300 / (15 * 5) = h\n\n20 = h\n\nAnswer: A. 10dm",
+        "id": "01-0343"
+    },
+    {
+        "answer": "Reason: Số thập phân gồm 55 đơn vị, 2 phần trăm, 7 phần nghìn có dạng 55,207.\n\nAnswer: A. 55,207",
+        "id": "01-0346"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi phân số thành tỉ số phần trăm, ta nhân phân số đó cho 100.\n\n\\frac{9}{12} \\times 100 = \\frac{9 \\times 100}{12} = \\frac{900}{12} = 75\n\nVậy phân số \\frac{9}{12} được viết dưới dạng tỉ số phần trăm là 75%.\n\nAnswer: B. 75%",
+        "id": "01-0347"
+    },
+    {
+        "answer": "Reason: Để tính giá trị của biểu thức, ta thực hiện các phép tính theo thứ tự ưu tiên: \n100 : 2,5 = 40\n40 x 0,9 = 36\n136,5 - 36 = 100,5\n\nAnswer: A. 100,5",
+        "id": "01-0351"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ m^2 sang ha, ta chia số m^2 cho 10.000 (vì 1 ha = 10.000 m^2).\n\n55 ha 17 m^2 = 55 + (17/10.000) ha = 55,0017 ha\n\nAnswer: A. 55,0017",
+        "id": "01-0353"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ mét sang kilômét, ta chia số mét cho 1000.\n\n2km 257m = (2 + 257/1000) km = 2,257 km\n\nAnswer: B. 2,257",
+        "id": "01-0358"
+    },
+    {
+        "answer": "Reason: Để tính tỉ số phần trăm của hai số, ta chia số thứ nhất cho số thứ hai và nhân kết quả với 100.\n\nTỉ số phần trăm của hai số 2,8 và 80 là: (2,8/80) * 100 = 3,5%\n\nAnswer: C. 3,5%",
+        "id": "01-0362"
+    },
+    {
+        "answer": "Reason: Để so sánh hai diện tích, ta chuyển đổi cả hai về cùng đơn vị đo và so sánh.\n\n8 m^2 50 dm^2 = 8 m^2 + 50/100 m^2 = 8 m^2 + 0.5 m^2 = 8.5 m^2\n\nVậy, 8 m^2 50 dm^2 = 8.5 m^2\n\nVì 8.5 m^2 < 8.05 m^2, nên:\n\nAnswer: A. <",
+        "id": "01-0364"
+    },
+    {
+        "answer": "Reason: Để chia 0,6159 cho 0,52, ta thực hiện phép chia như sau:\n   0,6159 ÷ 0,52 = 1,185\n\nSố dư của phép chia này là phần thập phân của kết quả, tức là 0,185.\n\nAnswer: Không có đáp án nào phù hợp với câu hỏi.",
+        "id": "01-0373"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ mét và centimet sang centimet vuông, ta nhân số mét và centimet với 100 để chuyển đổi thành centimet vuông. Vậy ta có:\n3m246cm^{2} = 3 * 10000cm^{2} + 246cm^{2} = 30000cm^{2} + 246cm^{2} = 30246cm^{2}\n\nAnswer: B. 30046",
+        "id": "01-0375"
+    },
+    {
+        "answer": "Reason: Diện tích hình chữ nhật được tính bằng công thức: Diện tích = Chiều dài x Chiều rộng.\n\nVới chiều dài là 1,2 dm và chiều rộng bằng 1/3 chiều dài, ta có:\n\nChiều rộng = 1/3 x 1,2 = 0,4 dm\n\nDiện tích = 1,2 x 0,4 = 0,48 dm^2\n\nAnswer: D. 0,48 dm^2",
+        "id": "01-0376"
+    },
+    {
+        "answer": "Reason: Chữ số 7 trong số thập phân 82,374 có giá trị là 7.\n\nAnswer: A. 7",
+        "id": "01-0378"
+    },
+    {
+        "answer": "Reason: Để tính hiệu của hai số, ta trừ số thứ hai từ số thứ nhất:\n72,1 - 30,4 = 41,7\n\nAnswer: B. 41,7",
+        "id": "01-0380"
+    },
+    {
+        "answer": "Reason: Để viết hỗn số 17 \\frac{13}{100} dưới dạng số thập phân, ta cần chuyển phần thập phân \\frac{13}{100} thành số thập phân. \n\n\\frac{13}{100} = 0,13\n\nKết hợp với phần nguyên 17, ta có số thập phân là 17,13.\n\nAnswer: A. 17,13",
+        "id": "01-0384"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ ha sang m², ta nhân số ha với 10000 (vì 1 ha = 10000 m²).\n\n4,53 ha = 4,53 * 10000 m² = 45300 m²\n\nAnswer: A. 45300 m²",
+        "id": "01-0386"
+    },
+    {
+        "answer": "Reason: Để nhân một số với 100, ta chỉ cần thêm hai số 0 vào cuối số đó.\n\nAnswer: A. 15,274",
+        "id": "01-0387"
+    },
+    {
+        "answer": "Reason: Chữ số 9 trong số 391,132 thuộc hàng trăm.\n\nAnswer: B. Trăm",
+        "id": "01-0389"
+    },
+    {
+        "answer": "Reason: Chữ số 5 trong số 245 836 chỉ đại diện cho giá trị hàng trăm nghìn, vì vậy đáp án là C. 50 000.\n\nAnswer: C. 50 000",
+        "id": "01-0390"
+    },
+    {
+        "answer": "Reason: Để tính tổng của hai số thập phân, ta cộng từng chữ số tương ứng của hai số đó.\n\n125,855\n+ 25,310\n---------\n151,165\n\nAnswer: D. 151,165",
+        "id": "01-0391"
+    },
+    {
+        "answer": "Reason: Để tính phần trăm số học sinh nam trong lớp, ta cần biết số học sinh nam và tổng số học sinh trong lớp.\n\nSố học sinh nam = Tổng số học sinh - Số học sinh nữ = 32 - 12 = 20\n\nPhần trăm số học sinh nam = (Số học sinh nam / Tổng số học sinh) * 100% = (20 / 32) * 100% = 62.5%\n\nAnswer: C. 62,5%",
+        "id": "01-0394"
+    },
+    {
+        "answer": "Reason: Để tính biểu thức này, ta thực hiện các phép tính theo thứ tự ưu tiên. \n\n75 + (15,2 × 5) + 30 ÷ 2 = 75 + 76 + 15 = 166\n\nAnswer: C. 166",
+        "id": "01-0397"
+    },
+    {
+        "answer": "Reason: Để chuyển 2 giờ 18 phút thành giờ, ta chia số phút cho 60 và cộng với số giờ. \n\n2 giờ 18 phút = 2 + 18/60 = 2 + 0.3 = 2.3 (giờ)\n\nAnswer: C. 2,3",
+        "id": "01-0398"
+    },
+    {
+        "answer": "Reason: Để chuyển từ kg sang tấn, ta chia số kg cho 1000. Vậy 3 tấn 15kg = (3 + 15/1000) tấn = 3,015 tấn.\n\nAnswer: B. 3,015 tấn",
+        "id": "01-0401"
+    },
+    {
+        "answer": "Reason: Để tính tổng hai số, ta cộng các chữ số tương ứng với nhau từ phải sang trái. Ta có:\n\n   1286,35\n+  534,85\n_________\n   1821,20\n\nAnswer: A. 1821,2",
+        "id": "01-0403"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ dm2 sang m2, ta chia cho 100 (vì 1m2 = 100dm2). Vậy 8dm2 = 8/100 = 0,08m2.\n\nSố thích hợp điền vào chỗ chấm để 9m2 8dm2 =……..m2 là: 9,08m2.\n\nAnswer: C. 9,08",
+        "id": "01-0405"
+    },
+    {
+        "answer": "Reason: Số 9,6 viết dưới dạng hỗn số là 9 \\frac{6}{10}.\n\nAnswer: A. 9 \\frac{6}{10}",
+        "id": "01-0407"
+    },
+    {
+        "answer": "Reason: Chữ số 7 trong số 169,57 chỉ đến phần mười.\n\nAnswer: B. 7 phần mười",
+        "id": "01-0409"
+    },
+    {
+        "answer": "Reason: Hỗn số 4 có thể viết dưới dạng số thập phân bằng cách chia phần nguyên cho phần thập phân. Trong trường hợp này, phần nguyên là 4 và không có phần thập phân.\n\nAnswer: Không có lựa chọn đúng.",
+        "id": "01-0410"
+    },
+    {
+        "answer": "Reason: Để tính phép tính 25,4 × 4, ta nhân số 25,4 với số 4.\n\n25,4 × 4 = 101,6\n\nAnswer: C. 101,6",
+        "id": "01-0412"
+    },
+    {
+        "answer": "Reason: Chữ số 9 trong số 427,098 chỉ:\n- 9 phần nghìn nếu chúng ta xem số 427,098 là 427 nghìn 98.\n- 9 phần mười nếu chúng ta xem số 427,098 là 42 phần mười chín.\n- 9 chục nếu chúng ta xem số 427,098 là 42 chục 7.\n- 9 phần trăm nếu chúng ta xem số 427,098 là 4 phần trăm 27 chục 98.\n\nVì vậy, đáp án là A. 9 phần nghìn.",
+        "id": "01-0413"
+    },
+    {
+        "answer": "Reason: Chữ số 5 trong số thập phân 169,156 có giá trị là 5/100.\n\nAnswer: C. \\frac{5}{100}",
+        "id": "01-0420"
+    },
+    {
+        "answer": "Reason: Để tìm số có cùng giá trị với 0,08, ta cần xác định số đó có bằng 0,08 hay không.\n\n0,800 = 0,8 (không bằng 0,08)\n8,00 = 8 (không bằng 0,08)\n0,80 = 0,8 (bằng 0,08)\n0,080 = 0,08 (bằng 0,08)\n\nVậy, số có cùng giá trị với 0,08 là 0,080.\n\nAnswer: D. 0,080",
+        "id": "01-0422"
+    },
+    {
+        "answer": "Reason: Để tính tổng 11 tấn và 2 kg, ta cần chuyển đổi tấn thành kg. Vì 1 tấn = 1000 kg, nên 11 tấn = 11 * 1000 kg = 11000 kg. \n\nSau đó, ta cộng thêm 2 kg vào: 11000 kg + 2 kg = 11002 kg.\n\nAnswer: A. 11002 kg",
+        "id": "01-0423"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ m^2 và dm^2, ta biết rằng 1 m^2 = 100 dm^2 và 1 dm^2 = 0.01 m^2. Vì vậy, để chuyển đổi từ m^2 và dm^2, ta nhân hoặc chia với các hệ số tương ứng.\n\n9m^2 8dm^2 = 9 * 100 dm^2 + 8 dm^2 = 900 dm^2 + 8 dm^2 = 908 dm^2\n\nAnswer: C. 908",
+        "id": "01-0425"
+    },
+    {
+        "answer": "Reason: Phân số thập phân \\frac{806}{100} có thể được viết thành số thập phân bằng cách chia tử số cho mẫu số. \n\n806 ÷ 100 = 8,06\n\nAnswer: D. 8,06",
+        "id": "01-0429"
+    },
+    {
+        "answer": "Reason: Để tìm số lớn nhất trong các số đã cho, ta chỉ cần so sánh các chữ số từ trái sang phải. \n\n- Số 40,392 có chữ số hàng nghìn là 4, lớn hơn các số còn lại.\n- Số 39,204 có chữ số hàng nghìn là 3, nhỏ hơn số 40,392.\n- Số 40,293 có chữ số hàng nghìn là 4, lớn hơn số 39,204.\n- Số 39,402 có chữ số hàng nghìn là 3, nhỏ hơn số 40,293.\n\nVậy số lớn nhất trong các số đã cho là 40,392.\n\nAnswer: A. 40,392",
+        "id": "01-0431"
+    },
+    {
+        "answer": "Reason: Diện tích hình chữ nhật được tính bằng công thức: Diện tích = chiều dài x chiều rộng.\n\nDiện tích = 3m x 2,5m = 7,5m^2\n\nAnswer: B. 7,5m^2",
+        "id": "01-0432"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ gram (g) sang kilogram (kg), ta chia số gram cho 1000.\n\nVậy, 30g = 30/1000 kg = 0,03 kg.\n\nAnswer: B. 0,03 kg",
+        "id": "01-0433"
+    },
+    {
+        "answer": "Reason: 1 ha = 10,000 m^2\n\n627 m^2 = 627/10,000 ha = 0.0627 ha\n\nAnswer: B. 0.0627 ha",
+        "id": "01-0434"
+    },
+    {
+        "answer": "Reason: Diện tích hình tam giác được tính bằng công thức: Diện tích = (đáy * chiều cao) / 2. Trong trường hợp này, đáy là 3m và chiều cao là 24dm (chuyển đổi thành mét bằng cách chia cho 10), ta có:\nDiện tích = (3 * 24/10) / 2 = 36/10 = 3,6m^2\n\nAnswer: C. 3,6m^2",
+        "id": "01-0435"
+    },
+    {
+        "answer": "Reason: Để viết các số theo thứ tự từ bé đến lớn, ta chỉ cần sắp xếp chúng theo thứ tự tăng dần.\n\nSắp xếp các số theo thứ tự tăng dần:\n4,23; 4,32; 5,3; 5,7; 6,02\n\nAnswer: D. 4,23; 4,32; 5,3; 5,7; 6,02",
+        "id": "01-0437"
+    },
+    {
+        "answer": "Reason: Để tính tỉ số phần trăm của 75 và 300, ta chia 75 cho 300 và nhân với 100 để đổi thành phần trăm.\n\nTỉ số phần trăm = (75/300) * 100 = 25%\n\nAnswer: D. 25%",
+        "id": "01-0449"
+    },
+    {
+        "answer": "Reason: Phân số thập phân là một phân số có mẫu số là một lũy thừa của 10. \n\nTrong các phân số đã cho, chỉ có phân số A. \\frac{27}{10} có mẫu số là 10.\n\nAnswer: A. \\frac{27}{10}",
+        "id": "01-0454"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi đơn vị từ dam^2 và m^2 sang m^2, ta nhân với 100. Vậy:\n2 dam^2 = 2 * 100 m^2 = 200 m^2\n49 m^2 không cần chuyển đổi.\nTổng cộng: 200 m^2 + 49 m^2 = 249 m^2\n\nAnswer: C. 249",
+        "id": "01-0456"
+    },
+    {
+        "answer": "Reason: Để viết \\frac{5}{10} dưới dạng số thập phân, ta chia tử số cho mẫu số:\n\\frac{5}{10} = 0,5\n\nAnswer: B. 0,5",
+        "id": "01-0461"
+    },
+    {
+        "answer": "Reason: Diện tích của một hình vuông được tính bằng cạnh nhân với cạnh. Vì vậy, diện tích của căn phòng hình vuông có cạnh 30cm sẽ là:\n\n30cm x 30cm = 900cm^{2}\n\nAnswer: A. 900cm^{2}",
+        "id": "01-0463"
+    },
+    {
+        "answer": "Reason: Phần nguyên của một số là phần số đó trước dấu phẩy.\n\nAnswer: D. 1924",
+        "id": "01-0464"
+    },
+    {
+        "answer": "Reason: Để chuyển hỗn số thành số thập phân, ta chia phần nguyên cho mẫu, sau đó cộng thêm phần thập phân (tử số chia cho mẫu).\n\n3 \\frac{2}{5} = 3 + \\frac{2}{5} = \\frac{15}{5} + \\frac{2}{5} = \\frac{17}{5} = 3.4\n\nAnswer: C. 3,04",
+        "id": "01-0471"
+    },
+    {
+        "answer": "Reason: Giá của 1m vải là 150000/5 = 30000 đồng.\nVậy nếu mua 25m vải loại đó thì phải trả là 30000 * 25 = 750000 đồng.\n\nAnswer: A. 750000",
+        "id": "01-0472"
+    },
+    {
+        "answer": "Reason: Số thập phân 2,35 có thể viết dưới dạng hỗn số bằng cách chuyển phần thập phân thành phân số. Vì vậy, ta có:\n2,35 = 2 + 0,35 = 2 + \\frac{35}{100} = 2 \\frac{35}{100}\n\nAnswer: B. 2 \\frac{35}{100}",
+        "id": "01-0474"
+    },
+    {
+        "answer": "Reason: Để viết hỗn số 3 \\frac{9}{100} dưới dạng số thập phân, ta chia phần tử số của phân số cho mẫu số của phân số và cộng với số nguyên.\n\n3 \\frac{9}{100} = 3 + \\frac{9}{100} = 3 + 0.09 = 3.09\n\nAnswer: B. 3,09",
+        "id": "01-0476"
+    },
+    {
+        "answer": "Reason: Để chuyển hỗn số thành phân số, ta nhân số nguyên với mẫu số và cộng với tử số. Vậy hỗn số 3 \\frac{2}{5} chuyển thành phân số là \\frac{3 \\times 5 + 2}{5} = \\frac{17}{5}.\n\nAnswer: D. \\frac{17}{5}",
+        "id": "01-0478"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ mét sang centimet, ta nhân số mét cho 100.\n\nVậy 3,754m = 3,754 x 100 cm = 375,4 cm.\n\nAnswer: B. 375,4",
+        "id": "01-0480"
+    },
+    {
+        "answer": "Reason: Để xác định dãy số thập phân từ lớn đến bé, ta chỉ cần so sánh phần nguyên của các số trước. Nếu phần nguyên bằng nhau, ta sẽ so sánh phần thập phân.\n\nA. 8; 8,76; 8,093; 8,901\nB. 5,494; 5,493; 5,392; 5,001\nC. 6,732; 7; 7,009; 7,013\nD. 13; 12,47; 12,51; 12,001\n\nTa thấy dãy số thập phân được viết theo thứ tự từ lớn đến bé là:\n\nC. 6,732; 7; 7,009; 7,013\n\nAnswer: C. 6,732; 7; 7,009; 7,013",
+        "id": "01-0483"
+    },
+    {
+        "answer": "Reason: 1 ha = 10,000 m^2. Vậy 8,3 ha = 8,3 * 10,000 m^2 = 83,000 m^2.\n\nAnswer: C. 83 000",
+        "id": "01-0484"
+    },
+    {
+        "answer": "Reason: Để viết dưới dạng số thập phân, ta cộng phần nguyên và phần thập phân của số đó. Trong trường hợp này, phần nguyên là 3 và phần thập phân là 9/100. Khi chuyển đổi 9/100 thành số thập phân, ta được 0.09.\n\nVậy số 3 \\frac{9}{100} viết dưới dạng số thập phân là 3.09.\n\nAnswer: B. 3,09",
+        "id": "01-0486"
+    },
+    {
+        "answer": "Reason: Diện tích mảnh đất hình chữ nhật được tính bằng công thức: Diện tích = chiều dài x chiều rộng.\n\nDiện tích = 24m x 10m = 240m^2.\n\nAnswer: C. 240m^2.",
+        "id": "01-0488"
+    },
+    {
+        "answer": "Reason: Để chuyển hỗn số thành số thập phân, ta chia phần nguyên cho mẫu, sau đó cộng phần thập phân bằng tử chia mẫu.\n\n5 \\frac{1}{5} = 5 + \\frac{1}{5} = \\frac{25}{5} + \\frac{1}{5} = \\frac{26}{5} = 5,2\n\nAnswer: A. 5,2",
+        "id": "01-0490"
+    },
+    {
+        "answer": "Reason: Để nhân một số với 100, ta chỉ cần di chuyển dấu phẩy sang phải 2 vị trí.\n\n45,4375 \\times 100 = 4543,75\n\nAnswer: B. 4543,75",
+        "id": "01-0492"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ dm^2 sang m^2, ta cần chia cho 100 (vì 1 m^2 = 100 dm^2).\n\n35 m^2 6 dm^2 = 35 m^2 + 6 dm^2 / 100 = 35 m^2 + 0.06 m^2 = 35.06 m^2\n\nAnswer: A. 35,06",
+        "id": "01-0493"
+    },
+    {
+        "answer": "Reason: Để tìm số lớn nhất trong các số 6,97; 7,99; 6,79; 7,9, ta so sánh từng cặp số.\n\n- 6,97 < 7,99\n- 7,99 > 6,79\n- 7,99 > 7,9\n\nVậy số lớn nhất trong các số đã cho là 7,99.\n\nAnswer: B. 7,99",
+        "id": "01-0498"
+    },
+    {
+        "answer": "Reason: Để chuyển hỗn số thành phân số, ta nhân số nguyên với mẫu số và cộng với tử số. \n\n4 \\frac{3}{5} = \\frac{4 \\times 5 + 3}{5} = \\frac{23}{5}\n\nAnswer: A. \\frac{23}{5}",
+        "id": "01-0499"
+    },
+    {
+        "answer": "Reason: Chuyển dấu phẩy sang bên phải một chữ số, chữ số 3 sẽ thuộc hàng phần mười.\n\nAnswer: D. Hàng phần mười",
+        "id": "01-0500"
+    },
+    {
+        "answer": "Reason: Để tính trung bình cộng của các số, ta cộng các số lại và chia cho số lượng các số.\n\n1 + 12 + 2.78 + 3 = 18.78\n\nSố lượng các số là 4.\n\nTrung bình cộng = 18.78 / 4 = 4.695\n\nAnswer: Không có đáp án trong các lựa chọn.",
+        "id": "01-0502"
+    },
+    {
+        "answer": "Reason: Để tính tỉ số phần trăm của 16 và 25, ta sử dụng công thức:\nTỉ số phần trăm = (giá trị cần tính / giá trị cơ sở) * 100%\n\nTừ đó, ta có:\nTỉ số phần trăm của 16 và 25 = (16 / 25) * 100% = 64%\n\nAnswer: C. 64%",
+        "id": "01-0510"
+    },
+    {
+        "answer": "Reason: Để viết số phân số \\frac{1}{10} dưới dạng số thập phân, ta chia tử số cho mẫu số:\n\\frac{1}{10} = 0,1\n\nAnswer: B. 0,1",
+        "id": "01-0513"
+    },
+    {
+        "answer": "Reason: Để giải bài toán này, ta sẽ tính số gạo nhà Minh dùng trong 30 ngày đầu tiên và từ đó suy ra số gạo nhà Minh dùng trong 10 ngày cuối tháng.\n\nGọi số gạo ban đầu trong kho là x (kg).\n\nTrong 10 ngày đầu tiên, nhà Minh dùng hết 1 yến gạo, tương đương với 1/10 số gạo ban đầu. Vậy còn lại (1 - 1/10)x = 9/10x (kg) sau 10 ngày đầu tiên.\n\nTrong 10 ngày tiếp theo, nhà Minh dùng hết nửa số gạo còn lại, tương đương với (1/2)(9/10x) = 9/20x (kg) sau 20 ngày.\n\nTrên cùng nguyên tắc, trong 10 ngày cuối tháng, nhà Minh dùng hết số gạo còn lại và phải mua thêm 3 kg gạo. Vậy tổng số gạo dùng là (9/20x + 3) (kg).\n\nTheo đề bài, tổng số gạo dùng trong 30 ngày là 0,35 tạ = 0,35 * 100 = 35 kg.\n\nTa có phương trình: (9/20x + 3) = 35.\n\nGiải phương trình ta có: x = 20.\n\nVậy số gạo ban đầu trong kho là 20 kg.\n\nSố gạo dùng trong 10 ngày cuối tháng là (9/20x + 3) = (9/20 * 20 + 3) = 9 + 3 = 12 (kg).\n\nAnswer: A. 12 kg.",
+        "id": "01-0518"
+    },
+    {
+        "answer": "Reason: Gọi chiều dài ban đầu là x, chiều rộng ban đầu là y, chiều cao ban đầu là z.\n\nTheo đề bài, ta có hệ phương trình:\nx = 2y (1)\n(x + 5) * y * z = 1.2 * x * y * z (2)\n\nGiải hệ phương trình (1) và (2), ta được:\nx = 10 (chiều dài ban đầu)\ny = 5 (chiều rộng ban đầu)\nz = 2 (chiều cao ban đầu)\n\nGiảm chiều dài đi 5 dm, ta có chiều dài mới là 10 - 5 = 5 dm.\nTăng chiều rộng lên 5 dm, ta có chiều rộng mới là 5 + 5 = 10 dm.\nTăng chiều cao lên gấp đôi, ta có chiều cao mới là 2 * 2 = 4 dm.\n\nThể tích hình hộp chữ nhật ban đầu là: x * y * z = 10 * 5 * 2 = 100 dm^3.\nThể tích hình hộp chữ nhật mới là: (5 + 5) * 10 * 4 = 400 dm^3.\n\nVậy, thể tích hình hộp chữ nhật tăng lên bao nhiêu lần là: 400 / 100 = 4 lần.\n\nAnswer: Không có lựa chọn đúng trong các lựa chọn A, B, C, D.",
+        "id": "01-0519"
+    },
+    {
+        "answer": "Reason: Để tính tỉ số diện tích 2 tam giác BDF và AEF, ta cần biết diện tích của cả hai tam giác.\n\nDiện tích tam giác BDF = (1/2) * BD * DF\nDiện tích tam giác AEF = (1/2) * AE * EF\n\nTừ hình vẽ, ta thấy BD = AE và DF = EF, vậy diện tích của hai tam giác này sẽ tỉ lệ với nhau theo tỉ số 1:1.\n\nAnswer: D. 1",
+        "id": "01-0525"
+    },
+    {
+        "answer": "Reason: Ta có thể sử dụng công thức tỷ lệ nghịch để giải bài toán này. \n\nSố công nhân và thời gian làm việc có tỷ lệ nghịch với nhau. \n\nVậy, nếu số công nhân tăng gấp đôi từ 10 lên 20, thì thời gian hoàn thành công việc sẽ giảm gấp đôi từ 30 ngày xuống bao nhiêu ngày?\n\nTheo công thức tỷ lệ nghịch: (số công nhân 1 * thời gian 1) = (số công nhân 2 * thời gian 2)\n\n(10 * 30) = (20 * thời gian 2)\n\n300 = 20 * thời gian 2\n\nthời gian 2 = 300 / 20 = 15 ngày\n\nAnswer: D. 15 ngày",
+        "id": "01-0529"
+    },
+    {
+        "answer": "Reason: Diện tích toàn phần của một hình lập phương được tính bằng công thức 6a^2, trong đó a là cạnh của hình lập phương.\n\nTa có công thức: 6a^2 = 486\n\nĐể tìm thể tích của hình lập phương, ta cần tìm giá trị của a.\n\nGiải phương trình trên ta có: a^2 = 486/6 = 81\n\nVậy a = √81 = 9\n\nThể tích của hình lập phương được tính bằng công thức a^3, trong đó a là cạnh của hình lập phương.\n\nThay a = 9 vào công thức ta có: V = 9^3 = 729 dm^3\n\nAnswer: D. 729 dm^{3}",
+        "id": "01-0536"
+    },
+    {
+        "answer": "Reason: Để trừ hai số thập phân, ta thực hiện trừ từng chữ số thập phân từ phải sang trái. \n\n712,54 ­- 48,9 = 663,64\n\nAnswer: C. 663,64",
+        "id": "01-0538"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ m^2 sang ha, ta chia số m^2 cho 10.000 (vì 1 ha = 10.000 m^2).\n\n55 ha 17 m^2 = (55 + 17/10.000) ha = 55,0017 ha\n\nAnswer: B. 55,0017",
+        "id": "01-0540"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ m^3 và dm^3, ta biết rằng 1 m^3 = 1000 dm^3. Vì vậy, ta có:\n3m^3 + 5dm^3 = 3 * 1000 dm^3 + 5 dm^3 = 3000 dm^3 + 5 dm^3 = 3005 dm^3\n\nAnswer: B. 3005",
+        "id": "01-0545"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi 1 phút 15 giây thành phút, ta cần chia tổng số giây cho 60 (vì 1 phút = 60 giây).\n\n1 phút 15 giây = (1 x 60) + 15 giây = 75 giây\n\nĐể chuyển đổi 75 giây thành phút, ta chia 75 cho 60.\n\n75 giây = 1,25 phút\n\nAnswer: B. 1,25 phút",
+        "id": "01-0551"
+    },
+    {
+        "answer": "Reason: Diện tích hình thang được tính bằng công thức: Diện tích = (đáy nhỏ + đáy lớn) * chiều cao / 2.\n\nVới đáy nhỏ = 5cm, đáy lớn = 5cm, và chiều cao = 3.2cm, ta có:\n\nDiện tích = (5 + 5) * 3.2 / 2 = 10 * 3.2 / 2 = 16 cm^2.\n\nAnswer: C. 16 cm^2.",
+        "id": "01-0552"
+    },
+    {
+        "answer": "Reason: Diện tích hình tròn được tính bằng công thức: S = π * r^2, trong đó r là bán kính của hình tròn.\n\nVới đường kính 2 cm, ta có bán kính r = 2/2 = 1 cm.\n\nThay vào công thức, ta có: S = π * 1^2 = π cm^2.\n\nVới giá trị π xấp xỉ 3,14, ta có:\n\nAnswer: A. 3,14 cm^{2}",
+        "id": "01-0554"
+    },
+    {
+        "answer": "Reason: Để viết dưới dạng số thập phân, ta chia tử số cho mẫu số:\n\\frac{32}{100} = 0,32\n\nAnswer: C. 0,32",
+        "id": "01-0555"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ m^3 sang dm^3, ta nhân số đơn vị m^3 với 1000 (vì 1 m^3 = 1000 dm^3).\n\nVậy, 2m^3 = 2 * 1000 dm^3 = 2000 dm^3.\n\nAnswer: C. 2000",
+        "id": "01-0556"
+    },
+    {
+        "answer": "Reason: Số thập phân gồm 18 đơn vị, 8 phần mười và 6 phần nghìn được viết là 18,806.\n\nAnswer: B. 18,806",
+        "id": "01-0561"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ dm^3 sang m^3, ta cần nhân với hệ số chuyển đổi là 0.001. Vậy ta có:\n4m^3 + 21dm^3 = 4m^3 + 21 * 0.001m^3 = 4m^3 + 0.021m^3 = 4.021m^3\n\nAnswer: B. 4,021 m^{3}",
+        "id": "01-0569"
+    },
+    {
+        "answer": "Reason: Để viết số 0,45 dưới dạng tỉ số phần trăm, ta nhân số đó với 100.\n0,45 * 100 = 45%\n\nAnswer: A. 45%",
+        "id": "01-0572"
+    },
+    {
+        "answer": "Reason: Để tính tỉ số phần trăm giữa số học sinh nữ và số học sinh của lớp, ta cần tính phần trăm số học sinh nữ trên tổng số học sinh và nhân với 100.\n\nSố học sinh nữ: 12\nTổng số học sinh: 30\n\nTỉ số phần trăm = (số học sinh nữ / tổng số học sinh) * 100\n= (12 / 30) * 100\n= 40%\n\nAnswer: B. 40%",
+        "id": "01-0574"
+    },
+    {
+        "answer": "Reason: Diện tích của hình thang được tính bằng công thức: Diện tích = (đáy nhỏ + đáy lớn) * chiều cao / 2.\n\nDiện tích = (20 + 15) * 10 / 2 = 35 * 10 / 2 = 350 m^2.\n\nAnswer: A. 350 m^2.",
+        "id": "01-0575"
+    },
+    {
+        "answer": "Reason: Vận tốc được tính bằng công thức: vận tốc = quãng đường / thời gian.\n\nQuãng đường: 90 km\nThời gian: 2 giờ 30 phút = 2.5 giờ\n\nVận tốc = 90 km / 2.5 giờ = 36 km/giờ\n\nAnswer: A. 36 km/giờ",
+        "id": "01-0576"
+    },
+    {
+        "answer": "Reason: Để điền số thích hợp vào chỗ chấm, ta cần tính tổng của 17 tấn và 16 kg. \n\n1 tấn = 1000 kg, vậy 17 tấn = 17 * 1000 kg = 17,000 kg.\n\nTổng của 17,000 kg và 16 kg là 17,016 kg.\n\nAnswer: B. 1 716",
+        "id": "01-0578"
+    },
+    {
+        "answer": "Reason: Chữ số 5 trong số thập phân 37,085 nằm ở vị trí hàng trăm nghìn. Vì vậy, giá trị của chữ số 5 là 5/1000.\n\nAnswer: B. 5/1000",
+        "id": "01-0585"
+    },
+    {
+        "answer": "Reason: Để trừ hai số thập phân, ta thực hiện trừ từng chữ số thập phân tương ứng từ phải sang trái. \n\n3 - 8 không thể thực hiện được, ta cần mượn 1 từ hàng chục. Khi mượn 1 từ hàng chục, ta có 13 - 8 = 5.\n\n7 - 2 = 5.\n\n5 - 1 = 4.\n\n8 - 5 = 3.\n\nVậy kết quả của phép trừ là 62,45.\n\nAnswer: B. 62,45",
+        "id": "01-0589"
+    },
+    {
+        "answer": "Reason: Để nhân 0,425 với 4, ta nhân từng chữ số của 0,425 với 4 và cộng lại:\n0,425 x 4 = (0,4 x 4) + (0,02 x 4) + (0,005 x 4) = 1,6 + 0,08 + 0,02 = 1,68\n\nAnswer: B. 1,68",
+        "id": "01-0590"
+    },
+    {
+        "answer": "Reason: Để chia 4,8 cho 4, ta chia 4,8 cho 4 bằng cách di chuyển dấu phẩy sang phải một chữ số. Kết quả là 1,2.\n\nAnswer: A. 1,2",
+        "id": "01-0591"
+    },
+    {
+        "answer": "Reason: Chữ số 8 trong số thập phân 76,815 có giá trị là 8/100.\n\nAnswer: A. \\frac{8}{100}",
+        "id": "01-0595"
+    },
+    {
+        "answer": "Reason: Gọi chiều dài của hình chữ nhật là x, chiều rộng là y.\nTheo đề bài, ta có hệ phương trình:\n2(x + y) = 180 (nửa chu vi của hình chữ nhật là 180m)\nx - y = 20 (chiều dài hơn chiều rộng 20m)\n\nGiải hệ phương trình này, ta có:\nx + y = 90 (chia cả hai vế của phương trình đầu tiên cho 2)\nx - y = 20\n\nCộng hai phương trình trên, ta có:\n2x = 110\nx = 55\n\nThay x = 55 vào phương trình x + y = 90, ta có:\n55 + y = 90\ny = 35\n\nDiện tích của hình chữ nhật là:\nDiện tích = chiều dài * chiều rộng = x * y = 55 * 35 = 1925m^{2}\n\nAnswer: Không có đáp án trong các lựa chọn.",
+        "id": "01-0597"
+    },
+    {
+        "answer": "Reason: Để chuyển hỗn số thành phân số, ta nhân số nguyên với mẫu số và cộng với tử số. Vậy hỗn số 3 \\frac{2}{5}  được chuyển thành phân số \\frac{3 \\times 5 + 2}{5} = \\frac{17}{5}.\n\nAnswer: A. \\frac{17}{5}",
+        "id": "01-0598"
+    },
+    {
+        "answer": "Reason: Tỉ số phần trăm của học sinh nữ và học sinh lớp 5A được tính bằng công thức:\n(Tổng số học sinh nữ / Tổng số học sinh lớp 5A) x 100%\n\n(Tổng số học sinh nữ / Tổng số học sinh lớp 5A) x 100% = (30 / 40) x 100% = 75%\n\nAnswer: C. 75%",
+        "id": "01-0604"
+    },
+    {
+        "answer": "Reason: Để số 0,75 nhân với một số để được 7,5, ta chia 7,5 cho 0,75 để tìm số cần nhân.\n7,5 ÷ 0,75 = 10\n\nAnswer: C. 10",
+        "id": "01-0605"
+    },
+    {
+        "answer": "Reason: Để đếm số hình tam giác trong hình vẽ, ta có thể đếm từng loại hình tam giác và cộng lại.\n\n- Hình tam giác lớn: 1 hình tam giác\n- Hình tam giác nhỏ: 4 hình tam giác\n\nVậy tổng số hình tam giác là 1 + 4 = 5 hình tam giác.\n\nAnswer: Không có đáp án trong các lựa chọn.",
+        "id": "01-0607"
+    },
+    {
+        "answer": "Reason: Để tính trung bình cộng của các số, ta cộng các số lại và chia cho số lượng các số.\n\n1 + 12 + 2.78 + 3 = 18.78\n\nSố lượng các số là 4.\n\n18.78 / 4 = 4.695\n\nAnswer: A. 3,93",
+        "id": "01-0609"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ cm² sang m², ta chia cho 10.000 (vì 1 m² = 10.000 cm²).\n\n2m² 3cm² = 2m² + 3cm²/10.000 = 2m² + 0,0003m² = 2,0003m²\n\nAnswer: B. 2,0003",
+        "id": "01-0611"
+    },
+    {
+        "answer": "Reason: Để viết phân số \\frac{3}{8} thành số thập phân, ta chia tử số cho mẫu số:\n\\frac{3}{8} = 0,375\n\nAnswer: A. 0,375",
+        "id": "01-0614"
+    },
+    {
+        "answer": "Reason: Để tính tỉ số phần trăm của hai số, ta lấy số thứ nhất chia cho số thứ hai và nhân với 100.\n\nTỉ số phần trăm của hai số 16 và 50 là: (16/50) * 100 = 32%\n\nAnswer: C. 32%",
+        "id": "01-0616"
+    },
+    {
+        "answer": "Reason: Diện tích hình tam giác được tính bằng công thức: Diện tích = (đáy * chiều cao) / 2.\n\nDiện tích = (25.5 * 12) / 2 = 306cm^2.\n\nAnswer: A. 306cm^2.",
+        "id": "01-0617"
+    },
+    {
+        "answer": "Reason: Chữ số 7 trong số thập phân 65,473 có giá trị là 7.\n\nAnswer: C. 7",
+        "id": "01-0622"
+    },
+    {
+        "answer": "Reason: Để viết số phân số dưới dạng số thập phân, ta chia phần nguyên cho mẫu số và cộng thêm phần thập phân.\n\n34 \\frac{6}{100} = 34 + \\frac{6}{100} = 34 + 0.06 = 34.06\n\nAnswer: B. 34,06",
+        "id": "01-0625"
+    },
+    {
+        "answer": "Reason: Để tìm số lớn nhất trong các số đã cho, ta so sánh từng chữ số từ trái sang phải. \n\nSo sánh chữ số hàng nghìn: \n9,925 > 9,259 > 9,952 > 9,95\n\nVậy số lớn nhất là 9,925.\n\nAnswer: A. 9,925",
+        "id": "01-0626"
+    },
+    {
+        "answer": "Reason: Để tìm số bé nhất trong các số trên, ta chỉ cần so sánh phần nguyên của các số. \n\nPhần nguyên của các số trên lần lượt là:\nA. 9\nB. 7\nC. 8\nD. 7\n\nVậy số bé nhất trong các số trên là số 7.\n\nAnswer: D. 7,45",
+        "id": "01-0630"
+    },
+    {
+        "answer": "Reason: Diện tích mảnh vườn hình chữ nhật được tính bằng công thức: Diện tích = chiều dài x chiều rộng.\n\nDiện tích = 31m x 24m = 744m^{2}\n\nAnswer: A. 744m^{2}",
+        "id": "01-0631"
+    },
+    {
+        "answer": "Reason: Số thập phân có không đơn vị và một phần nghìn được viết dưới dạng 0,001.\n\nAnswer: C. 0,001",
+        "id": "01-0637"
+    },
+    {
+        "answer": "Reason: Để tính biểu thức 87,5 x 10 : 0,1, ta thực hiện các bước sau:\n1. Nhân 87,5 với 10: 87,5 x 10 = 875\n2. Chia kết quả trên cho 0,1: 875 : 0,1 = 8750\n\nAnswer: C. 8750",
+        "id": "01-0640"
+    },
+    {
+        "answer": "Reason: Để giải phép tính $\\frac{6}{5} : \\frac{4}{3}$, ta nhân phân số đầu tiên với nghịch đảo của phân số thứ hai:\n$\\frac{6}{5} \\cdot \\frac{3}{4} = \\frac{18}{20}$\n\nAnswer: A. $\\frac{18}{20}$",
+        "id": "01-0642"
+    },
+    {
+        "answer": "Reason: Số thập phân \"một đơn vị, ba phần nghìn\" được viết là 1.003.\n\nAnswer: D. 1,003",
+        "id": "01-0643"
+    },
+    {
+        "answer": "Reason: Số có cùng giá trị với 0,08 là 0,080.\n\nAnswer: B. 0,080",
+        "id": "01-0644"
+    },
+    {
+        "answer": "Reason: Để tìm số lớn nhất trong các số đã cho, ta chỉ cần so sánh phần nguyên và phần thập phân của các số.\n- Phần nguyên của tất cả các số đều là 4.\n- Phần thập phân của các số lần lượt là 23, 32, 4, 321.\nVậy số lớn nhất trong các số đã cho là 4,321.\n\nAnswer: B. 4,321",
+        "id": "01-0645"
+    },
+    {
+        "answer": "Reason: Để tính tỉ số phần trăm các trận thắng, ta lấy số trận thắng chia cho tổng số trận đấu và nhân 100.\nTỉ số phần trăm các trận thắng = (19/20) * 100 = 95%\n\nAnswer: B. 95%",
+        "id": "01-0649"
+    },
+    {
+        "answer": "Reason: Giảm 20% tức là giá sau khi giảm là 80% của giá trước khi giảm. Ta có phương trình:\n80% x Giá trước khi giảm = 7200 đồng\nGiá trước khi giảm = 7200 đồng / 80% = 9000 đồng\n\nAnswer: A. 9000 đồng",
+        "id": "01-0650"
+    },
+    {
+        "answer": "Reason: Số \"hai trăm ba mươi mốt\" được viết như sau:\nA. 20031\nB. 231\nC. 2301\nD. 200301\n\nAnswer: B. 231",
+        "id": "01-0652"
+    },
+    {
+        "answer": "Reason: Để tính tổng của hai số thập phân, ta cộng từng chữ số tương ứng của hai số đó.\n\n34,46\n+ 35,55\n--------\n69,01\n\nAnswer: C. 69,01",
+        "id": "01-0653"
+    },
+    {
+        "answer": "Reason: Để tính tổng số giờ từ 6 ngày 13 giờ, ta có:\n6 ngày = 6 x 24 giờ = 144 giờ\nVậy tổng số giờ là 144 + 13 = 157 giờ.\n\nAnswer: D. 157 giờ",
+        "id": "01-0661"
+    },
+    {
+        "answer": "Reason: Để trừ hai số, ta trừ từng chữ số tương ứng từ phải sang trái. \n\nTrừ chữ số hàng đơn vị: 4 - 4 = 0\nTrừ chữ số hàng chục: 5 - 5 = 0\nTrừ chữ số hàng trăm: 2 - 1 = 1\nTrừ chữ số hàng nghìn: 7 - 1 = 6\n\nVậy kết quả của phép trừ là 600.\n\nAnswer: C. 600",
+        "id": "01-0663"
+    },
+    {
+        "answer": "Reason: Quãng đường từ nhà Luân đến trường có thể tính bằng công thức: quãng đường = vận tốc x thời gian.\n\nVới vận tốc là 4 km/giờ và thời gian là 30 phút (tương đương 0.5 giờ), ta có:\nquãng đường = 4 km/giờ x 0.5 giờ = 2 km.\n\nAnswer: C. 2 km.",
+        "id": "01-0667"
+    },
+    {
+        "answer": "Reason: Để tính giá trị của biểu thức, ta thực hiện các phép tính theo thứ tự ưu tiên: \n100 ÷ 2,5 = 40\n40 × 0,9 = 36\n136,5 - 36 = 100,5\n\nAnswer: A. 100,5",
+        "id": "01-0670"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ mét vuông sang ha, ta chia cho 10.000 (vì 1 ha = 10.000 m²).\n\n55 ha 17 m² = 55 + (17/10.000) ha = 55,0017 ha\n\nAnswer: A. 55,0017",
+        "id": "01-0672"
+    },
+    {
+        "answer": "Reason: Chữ số 8 trong số thập phân 95,284 có giá trị là 8/1000.\n\nAnswer: A. \\frac{8}{1000}",
+        "id": "01-0678"
+    },
+    {
+        "answer": "Reason: Số thập phân \"Mười hai phẩy không năm\" có giá trị là 12.05.\n\nAnswer: B. 12,05",
+        "id": "01-0683"
+    },
+    {
+        "answer": "Reason: Chữ số 9 trong số thập phân 0,09 đứng sau dấu phẩy và nằm ở vị trí thập phân thứ hai.\n\nAnswer: C. \\frac{9}{100}",
+        "id": "01-0687"
+    },
+    {
+        "answer": "Reason: Để đổi hỗn số thành số thập phân, ta cộng phần nguyên với phần thập phân. Trong trường hợp này, phần nguyên là 68 và phần thập phân là 7/100. Để biểu diễn phần thập phân, ta chia 7 cho 100 và thêm vào phần nguyên.\n\n7/100 = 0.07\n\nVậy số thập phân tương ứng với hỗn số 68 7/100 là 68.07.\n\nAnswer: A. 68,07",
+        "id": "01-0690"
+    },
+    {
+        "answer": "Reason: Để tìm số thập phân nhỏ nhất, ta cần xem xét chữ số từ trái sang phải và so sánh chúng. \n\nTrong trường hợp này, chữ số đầu tiên của các số là 5 và chúng bằng nhau. Tiếp theo, chữ số thứ hai của các số là 0, 9, 9, 8. Vì vậy, số thập phân nhỏ nhất là 50,789.\n\nAnswer: B. 50,789",
+        "id": "01-0691"
+    },
+    {
+        "answer": "Reason: Để tính phần trăm số bạn thích chơi cầu lông trong lớp 5A1, ta sử dụng công thức:\nPhần trăm = (số bạn thích chơi cầu lông / tổng số bạn trong lớp) * 100%\n\nPhần trăm = (24 / 40) * 100% = 60%\n\nAnswer: B. 60%",
+        "id": "01-0694"
+    },
+    {
+        "answer": "Reason: Để nhân một số với 10, ta chỉ cần thêm một số 0 vào cuối số đó. Vì vậy, kết quả của phép nhân 4,51 × 10 là 45,1.\n\nAnswer: C. 45,1",
+        "id": "01-0698"
+    },
+    {
+        "answer": "Reason: Để tính tỉ số phần trăm của số học sinh xuất sắc và học sinh cả lớp, ta cần chia số học sinh xuất sắc cho tổng số học sinh và nhân kết quả với 100 để đổi sang phần trăm.\n\nSố học sinh xuất sắc: 12\nTổng số học sinh: 32\n\nTỉ số phần trăm = (12/32) * 100 = 37,5 %\n\nAnswer: B. 37,5 %",
+        "id": "01-0703"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ kg sang tấn, ta chia số kg cho 1000.\n4 tấn 562 kg = 4 + 562/1000 = 4,562 tấn\n\nAnswer: B. 4,562",
+        "id": "01-0715"
+    },
+    {
+        "answer": "Reason: Để tìm giá trị của X, ta sẽ giải phương trình:\nX ÷ 2,04 = 7,5 ÷ 5\n\nĐể loại bỏ dấu chia, ta nhân cả hai vế của phương trình với 2,04:\nX = (7,5 ÷ 5) × 2,04\n\nTiến hành tính toán:\nX = 1,5 × 2,04 = 3,06\n\nAnswer: D. 3,06",
+        "id": "01-0716"
+    },
+    {
+        "answer": "Reason: Diện tích hình tam giác được tính bằng công thức: Diện tích = (đáy * chiều cao) / 2.\n\nDiện tích = (30,5 * 12) / 2 = 183 dm^{2}\n\nAnswer: A. 183 dm^{2}",
+        "id": "01-0717"
+    }
+]

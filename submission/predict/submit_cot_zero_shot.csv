@@ -1,0 +1,533 @@
+id,answer
+01-0203,C. 50 000 000 đồng
+01-0206,D. 8 giờ 24 phút
+01-0207,B. 4 lần
+01-0209,C. 25%
+01-0210,"Giả sử chiều dài của xe lửa là x mét.
+
+Theo thông tin trong câu đề, ta có hai phương trình sau:
+1. x + 450 = 45
+2. x + cột điện = 15
+
+Giải phương trình thứ nhất:
+x + 450 = 45
+x = 45 - 450
+x = -405
+
+Giải phương trình thứ hai:
+x + cột điện = 15
+x = 15 - cột điện
+
+Vì không có thông tin cụ thể về chiều cao của cột điện, nên không thể tính được giá trị của x.
+
+Vậy không có đáp án đúng cho câu hỏi này"
+01-0211,"B. 5,621"
+01-0214,A. 40%
+01-0219,A. 7 giờ 17 phút
+01-0221,"C. 0,75"
+01-0222,"C. 67,919"
+01-0223,B. 24
+01-0224,"Giả sử chúng ta muốn chuyển đổi từ mét khối (m³) sang decimét khối (dm³). Ta biết rằng 1 mét khối (m³) bằng 1000 decimét khối (dm³).
+
+Vậy để chuyển đổi từ mét khối (m³) sang decimét khối (dm³), ta nhân số mét khối (m³) cho 1000.
+
+Trong trường hợp này, chúng ta có:
+39,87m³ = 39,87 x 1000 dm³ = 39870 dm³
+
+Vậy đáp án đúng là:
+D. 39870
+
+Reason: Để chuyển đổi từ mét khối (m³) sang decimét khối (dm³), ta nhân số mét khối (m³) cho 1000. Trong trường hợp này, 39,87m³ x 1000 = 39870 dm³"
+01-0225,A. 7000
+01-0227,D. 5 phần mười
+01-0232,A. 150%
+01-0234,C. \frac{1}{2}
+01-0237,C. 350
+01-0239,"B. 5,019
+
+Reason: Ta đã thực hiện đổi đơn vị và cộng hai số lại với nhau để tìm tổng"
+01-0240,"Giải thích:
+Để giải bài toán này, ta thực hiện các phép tính theo thứ tự ưu tiên. Đầu tiên, ta thực hiện phép chia 0,12 giờ cho 2, sau đó nhân kết quả với 3.
+
+0,12 giờ \div 2 = 0,06 giờ
+
+0,06 giờ \times 3 = 0,18 giờ
+
+Vậy kết quả của phép tính là 0,18 giờ.
+
+Đáp án: C. 0,18 giờ"
+01-0241,"Giả sử số đó là x.
+
+37,5% của x là 1,3875.
+
+Để tìm x, ta sẽ giải phương trình sau đây:
+
+0,375x = 1,3875
+
+Để loại bỏ dấu chấm phẩy, ta nhân cả hai vế của phương trình với 100:
+
+37,5x = 138,75
+
+Tiếp theo, chia cả hai vế của phương trình cho 37,5:
+
+x = 3,6992
+
+Vậy số đó là 3,6992.
+
+Reason: Để tìm số ban đầu, ta giải phương trình 0,375x = 1,3875. Sau khi loại bỏ dấu chấm phẩy, ta nhân cả hai vế của phương trình với 100 để loại bỏ dấu phẩy động. Tiếp theo, chia cả hai vế của phương trình cho 37,5 để tìm giá trị của x"
+01-0243,A. 50 000
+01-0245,D. 37.5
+01-0246,"Giá trị của biểu thức: 15 \div 1,5 + 2,5 \times 0,2 là:
+
+Đầu tiên, chúng ta thực hiện phép tính nhân trước chia sau. 
+
+2,5 \times 0,2 = 0,5
+
+Tiếp theo, chúng ta thực hiện phép tính chia.
+
+15 \div 1,5 = 10
+
+Cuối cùng, chúng ta thực hiện phép tính cộng.
+
+10 + 0,5 = 10,5
+
+Vậy, giá trị của biểu thức là 10,5.
+
+Đáp án: D. 10,5"
+01-0249,"C. 3,005"
+01-0254,C. 90 phút
+01-0256,A. 15 dm^{2}
+01-0257,"A. 9,42 dm"
+01-0258,"D. 12,56 cm^{2}"
+01-0259,"Giải thích: Để chuyển đổi từ mét khối (m³) sang decimét khối (dm³), ta nhân số mét khối với 1000 vì 1 mét khối bằng 1000 decimét khối.
+
+Vậy, 13,8 m³ = 13,8 x 1000 dm³ = 13800 dm³.
+
+Đáp án: B. 13800 dm³"
+01-0264,A. 64%
+01-0266,"D. 3,076"
+01-0268,"D. 201,07"
+01-0269,"D. 0,8"
+01-0273,D. 40 phút
+01-0275,"B. 0,75"
+01-0277,C. 30 phút
+01-0285,"Giải thích: Để nhân một số với 100, ta chỉ cần di chuyển dấu phẩy sang phải 2 vị trí. Vì vậy, ta có:
+
+12,34 x 100 = 1234
+
+Đáp án: C. 1234"
+01-0292,C. 9 phút 36 giây
+01-0294,"Giải:
+Để chuyển đổi từ mét sang kilômét, ta chia số mét cho 1000.
+3km 48m = (3 + 48/1000) km = 3,048 km
+
+Vậy đáp án đúng là:
+B. 3,048
+
+Reason: Chuyển đổi từ mét sang kilômét bằng cách chia số mét cho 1000"
+01-0296,"A. 270 học sinh.
+Reason: Số học sinh nam của trường tiểu học là x. Số học sinh nữ là 55% * 600 = 330. Tổng số học sinh nam và nữ là 600, nên ta có phương trình: x + 330 = 600. Giải phương trình ta có: x = 600 - 330 = 270. Vậy số học sinh nam của trường tiểu học là 270"
+01-0302,"Để tính biểu thức này, ta thực hiện các bước sau:
+
+Bước 1: Tính tích của 3,5 và $\frac{1}{4}$:
+3,5 $\times$ $\frac{1}{4}$ = $\frac{3,5}{1}$ $\times$ $\frac{1}{4}$ = $\frac{3,5}{4}$ = $\frac{7}{8}$
+
+Bước 2: Tính tích của 1,5 và $\frac{1}{4}$:
+1,5 $\times$ $\frac{1}{4}$ = $\frac{1,5}{1}$ $\times$ $\frac{1}{4}$ = $\frac{1,5}{4}$ = $\frac{3}{8}$
+
+Bước 3: Trừ kết quả của bước 2 từ kết quả của bước 1:
+$\frac{7}{8}$ - $\frac{3}{8}$ = $\frac{7-3}{8}$ = $\frac{4}{8}$ = $\frac{1}{2}$
+
+Vậy, kết quả của biểu thức là $\frac{1}{2}$.
+
+Đáp án: B. $\frac{1}{2}$"
+01-0303,C. 8
+01-0305,C. 9 cm
+01-0314,"C. 663,64"
+01-0315,B. 4dm
+01-0316,"A. 55,17"
+01-0317,B. 60%
+01-0321,A. \frac{9}{10}
+01-0322,"D. 2,5"
+01-0324,B. 125 m^{3}
+01-0326,C. 6
+01-0329,"Để chuyển từ km/giờ sang m/phút, ta cần chia vận tốc theo km/giờ cho 60 (số phút trong 1 giờ) và nhân với 1000 (để chuyển từ km sang m).
+
+Vận tốc của ô tô là 51 km/giờ.
+
+Vận tốc của ô tô trong m/phút = (51 km/giờ) / 60 (phút/giờ) * 1000 (m/km)
+
+= 51 * 1000 / 60
+
+= 850 m/phút
+
+Vậy đáp án đúng là A. 850 m/phút.
+
+Reason: Để chuyển từ km/giờ sang m/phút, ta chia vận tốc theo km/giờ cho 60 (số phút trong 1 giờ) và nhân với 1000 (để chuyển từ km sang m)"
+01-0330,A. 9998
+01-0336,A. 10
+01-0337,"B. 3,82"
+01-0339,A. 200 tạ
+01-0340,"C. 50,24 dm^{2}"
+01-0343,B. 4dm
+01-0346,"A. 55,207"
+01-0347,B. 75%
+01-0351,"Giá trị của biểu thức: 136,5 – 100 : 2,5 x 0,9
+
+Để giải biểu thức này, ta thực hiện các phép tính theo thứ tự ưu tiên: trước tiên là phép chia, sau đó là phép nhân và cuối cùng là phép trừ.
+
+1. Thực hiện phép chia: 100 : 2,5 = 40
+2. Thực hiện phép nhân: 40 x 0,9 = 36
+3. Thực hiện phép trừ: 136,5 - 36 = 100,5
+
+Vậy, giá trị của biểu thức là 100,5.
+
+Đáp án: A. 100,5"
+01-0353,"A. 55,0017"
+01-0358,"B. 2,257"
+01-0362,C. 3.5%
+01-0364,B. >
+01-0373,"D. 0,0023"
+01-0375,B. 30046
+01-0376,"Ta có:
+Chiều dài hình chữ nhật là 1,2 dm.
+Chiều rộng bằng 1/3 chiều dài.
+Vậy chiều rộng là: 1/3 * 1,2 = 0,4 dm.
+
+Diện tích hình chữ nhật được tính bằng công thức: Diện tích = Chiều dài * Chiều rộng.
+Vậy diện tích hình chữ nhật là: 1,2 * 0,4 = 0,48 dm^2.
+
+Vậy đáp án đúng là:
+D. 0,48 dm^2"
+01-0378,D. 70
+01-0380,B. 41.7
+01-0384,"A. 17,13"
+01-0386,"Giả sử 1 ha = x m^2. Ta cần tìm giá trị của x.
+
+Theo đề bài, 4,53 ha = ... m^2. Để chuyển đổi từ ha sang m^2, ta nhân 4,53 với x:
+
+4,53 ha * x m^2/ha = 4,53x m^2
+
+Vì vậy, ta có phương trình sau:
+
+4,53x m^2 = ... m^2
+
+Để tìm giá trị của x, ta cần tìm giá trị của ... m^2.
+
+Đáp án: A. 45300 m^{2}
+
+Reason: Ta biết rằng 1 ha = 10000 m^2. Vì vậy, để chuyển đổi từ ha sang m^2, ta nhân số ha với 10000. Trong trường hợp này, 4,53 ha * 10000 m^2/ha = 45300 m^2. Vì vậy, đáp án chính xác là A. 45300 m^{2}"
+01-0387,"B. 1527,4"
+01-0389,A. Chục
+01-0390,"C. 50,000"
+01-0391,"D. 251,165"
+01-0394,"Để tính phần trăm số học sinh nam trong lớp, ta cần biết số học sinh nam và tổng số học sinh trong lớp.
+
+Số học sinh nam = Tổng số học sinh - Số học sinh nữ
+Số học sinh nam = 32 - 12 = 20
+
+Phần trăm số học sinh nam = (Số học sinh nam / Tổng số học sinh) * 100%
+Phần trăm số học sinh nam = (20 / 32) * 100% = 62,5%
+
+Vậy đáp án đúng là:
+C. 62,5%"
+01-0397,C. 166
+01-0398,"C. 2,3"
+01-0401,"B. 3,015 tấn"
+01-0403,"A. 1821,2"
+01-0405,"C. 9,08"
+01-0407,A. 9 \frac{6}{10}
+01-0409,A. 7 đơn vị
+01-0410,4
+01-0412,"C. 101,6"
+01-0413,A. 9 phần nghìn
+01-0420,D. \frac{5}{1000}
+01-0422,D. 0.080
+01-0423,A. 11002 kg
+01-0425,C. 908
+01-0429,"D. 8,06"
+01-0431,"B. 39,204"
+01-0432,"B. 7,5m^{2}"
+01-0433,"B. 0,03 kg"
+01-0434,"B. 0,0627 ha"
+01-0435,"Để tính diện tích hình tam giác, ta sử dụng công thức: Diện tích = (đáy * chiều cao) / 2.
+
+Trong trường hợp này, đáy của tam giác là 3m và chiều rộng là 24dm. Để tính diện tích, ta cần chuyển đơn vị chiều rộng từ dm sang m bằng cách chia cho 10.
+
+Chiều rộng = 24dm = 24/10 = 2,4m.
+
+Áp dụng công thức diện tích tam giác, ta có:
+Diện tích = (3 * 2,4) / 2 = 7,2m^2.
+
+Vậy đáp án đúng là:
+B. 7,2m^2"
+01-0437,"D. 4,23; 4,32; 5,3; 5,7; 6,02"
+01-0449,D. 25%
+01-0454,Option A. \frac{27}{10}
+01-0456,"Giải thích: Để tính diện tích của 2 dam^2 và 49 m^2, ta cần chuyển đổi đơn vị đo từ dam^2 sang m^2. 
+
+1 dam^2 = 100 m^2
+
+Vậy 2 dam^2 = 2 * 100 m^2 = 200 m^2
+
+Tổng diện tích là 200 m^2 + 49 m^2 = 249 m^2
+
+Đáp án: C. 249"
+01-0461,"Để viết \frac{5}{10} dưới dạng số thập phân, ta thực hiện phép chia 5 cho 10.
+
+5 ÷ 10 = 0,5
+
+Vậy, \frac{5}{10} được viết dưới dạng số thập phân là 0,5.
+
+Đáp án: B. 0,5"
+01-0463,A. 900cm^{2}
+01-0464,D. 1924
+01-0471,"A. 3,400"
+01-0472,A. 750000
+01-0474,B. 2 \frac{35}{100}
+01-0476,"B. 3,09"
+01-0478,"Để chuyển hỗn số thành phân số, ta nhân phần nguyên với mẫu số và cộng với phần tử số để được tử số. Sau đó, giữ nguyên mẫu số.
+
+Trong trường hợp này, hỗn số 3 \frac{2}{5} có phần nguyên là 3, phần tử số là \frac{2}{5}.
+
+Để chuyển thành phân số, ta nhân phần nguyên 3 với mẫu số 5 và cộng với phần tử số \frac{2}{5} để được tử số.
+
+Tử số = 3 \times 5 + \frac{2}{5} = 15 + \frac{2}{5} = \frac{15}{1} + \frac{2}{5} = \frac{15 \times 5}{1 \times 5} + \frac{2}{5} = \frac{75}{5} + \frac{2}{5} = \frac{77}{5}
+
+Vậy, hỗn số 3 \frac{2}{5} chuyển thành phân số là \frac{77}{5}.
+
+Đáp án: C. \frac{11}{5}
+
+Reason: Chuyển hỗn số thành phân số bằng cách nhân phần nguyên với mẫu số và cộng với phần tử số"
+01-0480,"B. 375,4"
+01-0483,"C. 6,732; 7; 7,009; 7,013"
+01-0484,C. 83 000
+01-0486,"B. 3,09"
+01-0488,C. 240m^2
+01-0490,"A. 5,2"
+01-0492,"B. 4543,75"
+01-0493,C. 356
+01-0498,"B. 7,99"
+01-0499,A. \frac{23}{5}
+01-0500,A. Hàng chục
+01-0502,"A. 3,93"
+01-0510,C. 64%
+01-0513,"B. 0,1"
+01-0518,"Giả sử số gạo trong kho ban đầu là x kg.
+
+Trong 10 ngày đầu, nhà Minh dùng hết 1 yến gạo, tương đương với 1/10 số gạo ban đầu, còn lại là (1 - 1/10)x = 9/10x kg.
+
+Trong 10 ngày tiếp theo, nhà Minh dùng hết nửa số gạo còn lại, tương đương với 1/2 * (9/10x) = 9/20x kg.
+
+Trong 10 ngày cuối tháng, nhà Minh dùng hết số gạo trong kho và phải mua thêm 3 kg gạo nữa, tức là (9/20x + 3) kg.
+
+Tổng số gạo nhà Minh dùng trong 30 ngày là 0,35 tạ = 0,35 * 100 kg = 35 kg.
+
+Ta có phương trình: (9/10x) + (9/20x) + (9/20x + 3) = 35.
+
+Giải phương trình ta được x = 20.
+
+Vậy số gạo trong kho ban đầu là 20 kg.
+
+Trong 10 ngày cuối tháng, nhà Minh dùng hết số gạo trong kho và phải mua thêm 3 kg gạo nữa, tức là 20 + 3 = 23 kg.
+
+Đáp án: D. 14 kg"
+01-0519,"Gọi chiều dài ban đầu của hình hộp chữ nhật là x (dm), chiều rộng là y (dm) và chiều cao là z (dm).
+
+Theo đề bài, ta có:
+x = 2y (1)
+(x + 5)(y)(z) = 1,2xyz (2)
+
+Giải hệ phương trình (1) và (2), ta được:
+(2y + 5)(y)(z) = 1,2y(2y)(z)
+(2y + 5)(z) = 2,4y^2z
+2yz + 5z = 2,4y^2z
+5z = 2,4y^2z - 2yz
+5z = 0,4y^2z
+5 = 0,4y^2
+y^2 = 5/0,4
+y^2 = 12,5
+y = √12,5
+y ≈ 3,54
+
+Giờ ta sẽ tính thể tích ban đầu của hình hộp chữ nhật:
+V = x * y * z
+V = 2y * y * z
+V = 2y^2z
+V = 2 * (3,54)^2 * z
+V = 2 * 12,54 * z
+V = 25,08z
+
+Giờ ta sẽ tính thể tích mới của hình hộp chữ nhật sau khi tăng chiều rộng lên 5 dm, giảm chiều dài đi 5 dm và tăng chiều cao lên gấp đôi:
+V' = (x - 5) * (y + 5) * (2z)
+V' = (2y - 5) * (y + 5) * (2z)
+V' = (2(3,54) - 5) * (3,54 + 5) * (2z)
+V' = (7,08 - 5) * (8,54) * (2z)
+V' = 2,08 * 8,54 * 2z
+V' = 35,39z
+
+Vậy thể tích mới của hình hộp chữ nhật tăng lên bao nhiêu lần?
+Tăng lên: V' / V = 35,39z / 25,08z
+Tăng lên: V' / V = 1,412
+Vậy thể tích hình hộp chữ nhật tăng lên 1,412 lần.
+
+Đáp án: A. 1,412 lần"
+01-0525,A. 2
+01-0529,D. 15 ngày
+01-0536,D. 729 dm^{3}
+01-0538,"C. 663,64"
+01-0540,"B. 55,0017"
+01-0545,"Giải thích: Để nhân hai số học phân số, ta nhân các phần tử với nhau và nhân các mũ với nhau. 
+
+Trong trường hợp này, chúng ta có:
+3m^{3} \times 5dm^{3}
+
+Đầu tiên, nhân các phần tử với nhau:
+3 \times 5 = 15
+m^{3} \times dm^{3} = m^{3+1} = m^{4}
+
+Vậy kết quả là 15dm^{4}.
+
+Đáp án: B. 3005"
+01-0551,"B. 1,25 phút"
+01-0552,C. 16 cm^{2}
+01-0554,"A. 3,14 cm^{2}"
+01-0555,"C. 0,32"
+01-0556,C. 2000
+01-0561,"C. 18,086"
+01-0569,"B. 4,021 m^3"
+01-0572,A. 45%
+01-0574,B. 40%
+01-0575,A. 350 m^{2}
+01-0576,A. 36 km/giờ
+01-0578,C. 17 016
+01-0585,A. \frac{5}{10}
+01-0589,"B. 62,45"
+01-0590,"C. 1,7"
+01-0591,"A. 1,2"
+01-0595,A. \frac{8}{100}
+01-0597,C. 3600m^{2}
+01-0598,"Để chuyển hỗn số thành phân số, ta nhân phần nguyên với mẫu số và cộng với phần tử số để được tổng cộng của phân số.
+
+Trong trường hợp này, hỗn số 3 \frac{2}{5} có phần nguyên là 3, phần tử số là \frac{2}{5}.
+
+Để chuyển hỗn số này thành phân số, ta nhân phần nguyên 3 với mẫu số 5 và cộng với phần tử số \frac{2}{5}.
+
+3 \times 5 + \frac{2}{5} = \frac{15}{5} + \frac{2}{5} = \frac{17}{5}
+
+Vậy, hỗn số 3 \frac{2}{5} được chuyển thành phân số \frac{17}{5}.
+
+Reason: Để chuyển hỗn số thành phân số, ta nhân phần nguyên với mẫu số và cộng với phần tử số"
+01-0604,C. 75%
+01-0605,"D. 0,1"
+01-0607,B. 13 hình tam giác
+01-0609,"A. 3,93"
+01-0611,"Giả sử m là số mét và cm là số centimet, ta có:
+
+2m^2 + 3cm^2 = 2m^2 + 3 * (0.01m)^2 (vì 1m = 100cm)
+
+= 2m^2 + 3 * 0.0001m^2
+
+= 2m^2 + 0.0003m^2
+
+= 2.0003m^2
+
+Vậy, 2m^2 + 3cm^2 = 2.0003m^2
+
+Đáp án: D. 20,003"
+01-0614,"A. 0,375"
+01-0616,C. 32%
+01-0617,"Để tính diện tích hình tam giác, ta sử dụng công thức: Diện tích = (đáy * chiều cao) / 2.
+
+Trong trường hợp này, đáy của tam giác là 25,5cm và chiều cao là 12cm. Áp dụng công thức, ta có:
+
+Diện tích = (25,5 * 12) / 2 = 306cm^{2}
+
+Vậy đáp án đúng là A. 306cm^{2}.
+
+Reason: Để tính diện tích hình tam giác, ta sử dụng công thức: Diện tích = (đáy * chiều cao) / 2. Áp dụng công thức này với đáy là 25,5cm và chiều cao là 12cm, ta tính được diện tích là 306cm^{2}"
+01-0622,C. 7
+01-0625,"Để viết số phân số 6/100 dưới dạng số thập phân, ta chia tử số 6 cho mẫu số 100. 
+
+6 ÷ 100 = 0.06
+
+Vậy số 34 6/100 viết dưới dạng số thập phân là 34.06.
+
+Đáp án: B. 34,06"
+01-0626,"C. 9,952"
+01-0630,"A. 9,25"
+01-0631,A. 744m^{2}
+01-0637,"B. 0,01"
+01-0640,C. 8750
+01-0642,"Để giải bài toán này, ta sẽ thực hiện phép chia giữa hai phân số.
+
+\frac{6}{5} : \frac{4}{3} = \frac{6}{5} \times \frac{3}{4}
+
+Để nhân hai phân số, ta nhân tử của phân số thứ nhất với tử của phân số thứ hai và mẫu của phân số thứ nhất với mẫu của phân số thứ hai.
+
+= \frac{6 \times 3}{5 \times 4}
+
+= \frac{18}{20}
+
+Vậy kết quả của phép tính là \frac{18}{20}.
+
+Đáp án: A. \frac{18}{20}"
+01-0643,"D. 1,003"
+01-0644,"B. 0,080"
+01-0645,"B. 4,321"
+01-0649,B. 95%
+01-0650,"Giảm 20% tức là giá sách chỉ còn 80% so với giá gốc. Ta có thể sử dụng công thức tính phần trăm để tìm giá gốc của quyển sách:
+
+Giá gốc = Giá sau giảm / (1 - Phần trăm giảm)
+Giá gốc = 7200 / (1 - 20/100)
+Giá gốc = 7200 / (1 - 0.2)
+Giá gốc = 7200 / 0.8
+Giá gốc = 9000
+
+Vậy, trước khi giảm, giá quyển sách đó là 9000 đồng.
+
+Reason: Ta sử dụng công thức tính phần trăm để tìm giá gốc của quyển sách. Giá gốc được tính bằng cách chia giá sau giảm cho (1 - phần trăm giảm). Trong trường hợp này, giá sau giảm là 7200 đồng và phần trăm giảm là 20%"
+01-0652,B. 231
+01-0653,"C. 69,01"
+01-0661,C. 144 giờ
+01-0663,C. 600
+01-0667,"Giả sử quãng đường từ nhà Luân đến trường là x km.
+
+Vận tốc của Luân là 4 km/giờ và thời gian đi là 30 phút = 0.5 giờ.
+
+Theo công thức vận tốc = quãng đường / thời gian, ta có:
+
+4 km/giờ = x km / 0.5 giờ
+
+Để tìm x, ta nhân cả hai vế của phương trình với 0.5:
+
+0.5 * 4 km/giờ = x km
+
+2 km = x km
+
+Vậy, quãng đường từ nhà Luân đến trường là 2 km.
+
+Reason: Ta sử dụng công thức vận tốc = quãng đường / thời gian để tìm quãng đường từ nhà Luân đến trường. Sau khi thay các giá trị đã biết vào công thức, ta nhân cả hai vế của phương trình với thời gian để tìm quãng đường"
+01-0670,"A. 100,5"
+01-0672,"A. 55,0017"
+01-0678,D. 8
+01-0683,"B. 12,05"
+01-0687,B. \frac{9}{10}
+01-0690,A. 68.07
+01-0691,"B. 50,789"
+01-0694,"B. 60%
+Reason: Ta tính được số bạn thích chơi cầu lông chiếm 60% số bạn của lớp 5A1 bằng cách chia số bạn thích chơi cầu lông cho tổng số bạn và nhân với 100%"
+01-0698,"C. 45,1"
+01-0703,"B. 37,5%
+Reason: Tỉ số phần trăm được tính bằng công thức (số học sinh xuất sắc / số học sinh cả lớp) * 100. Thay vào giá trị đã biết, ta tính được tỉ số phần trăm là 37,5%"
+01-0715,"B. 4,562"
+01-0716,"D. 3,06"
+01-0717,"Để tính diện tích hình tam giác, ta sử dụng công thức: Diện tích = (đáy * chiều cao) / 2.
+
+Trong trường hợp này, đáy của tam giác là 30,5 dm và chiều cao là 12 dm.
+
+Áp dụng công thức, ta có: Diện tích = (30,5 * 12) / 2 = 183 dm^{2}.
+
+Vậy đáp án đúng là A. 183 dm^{2}.
+
+Reason: Để tính diện tích hình tam giác, ta sử dụng công thức Diện tích = (đáy * chiều cao) / 2. Áp dụng công thức này với đáy là 30,5 dm và chiều cao là 12 dm, ta tính được diện tích là 183 dm^{2}"

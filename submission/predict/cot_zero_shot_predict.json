@@ -1,0 +1,758 @@
+[
+    {
+        "answer": "Giả sử số hàng hiện có là x.\n\nTheo đề bài, cửa hàng đã bán 30% số hàng hiện có và thu được 15 000 000 đồng.\n\nĐể tìm số hàng hiện có ban đầu, ta sẽ giải phương trình sau đây:\n\n30% * x = 15 000 000\n\nĐổi phần trăm thành số thập phân:\n\n0.3 * x = 15 000 000\n\nGiải phương trình:\n\nx = 15 000 000 / 0.3\n\nx = 50 000 000\n\nVậy số hàng hiện có ban đầu là 50 000 000.\n\nNếu bán hết hàng, cửa hàng sẽ thu được số tiền là 50 000 000 đồng.\n\nReason: Ta giải phương trình để tìm số hàng hiện có ban đầu, sau đó sử dụng số hàng hiện có ban đầu để tính số tiền thu được nếu bán hết hàng.\n\nAnswer: C. 50 000 000 đồng.",
+        "id": "01-0203"
+    },
+    {
+        "answer": "Reason: To solve this problem, we need to find the time it takes for the person on the motorcycle to catch up with the person on the bicycle. \n\nLet's assume that the time it takes for the person on the motorcycle to catch up is t hours. \n\nIn 1 hour, the person on the bicycle travels 12 km (since their speed is 12 km/h). \n\nIn t hours, the person on the motorcycle travels 42t km (since their speed is 42 km/h). \n\nSince they both start at point A, the distance traveled by the person on the motorcycle must be equal to the distance traveled by the person on the bicycle when they meet. \n\nSo, we have the equation: \n12t = 42t \n\nSimplifying the equation, we get: \n30t = 0 \n\nThis equation has no solution, which means that the person on the motorcycle will never catch up with the person on the bicycle. \n\nTherefore, the correct answer is: \n\nAnswer: D. 8 giờ 24 phút",
+        "id": "01-0206"
+    },
+    {
+        "answer": "Reason: To find the answer, we need to understand the relationship between the length of the edge of a cube and its surface area.\n\nThe surface area of a cube is given by the formula: S = 6a^2, where S is the surface area and a is the length of the edge.\n\nIf we double the length of the edge, the new length becomes 2a. Plugging this into the formula, we get the new surface area: S' = 6(2a)^2 = 6(4a^2) = 24a^2.\n\nComparing the new surface area to the original surface area, we can see that the new surface area is 24/6 = 4 times larger than the original surface area.\n\nAnswer: B. 4 lần",
+        "id": "01-0207"
+    },
+    {
+        "answer": "Reason: \nĐể giải bài toán này, ta cần tính diện tích ban đầu của thửa ruộng và diện tích sau khi kéo dài đáy lớn.\n\nDiện tích ban đầu của thửa ruộng hình thang được tính bằng công thức: S = (đáy bé + đáy lớn) * chiều cao / 2.\nVới đáy bé = 8m, đáy lớn = 12m, ta có:\nS ban đầu = (8 + 12) * chiều cao / 2 = 20 * chiều cao / 2 = 10 * chiều cao.\n\nSau khi kéo dài đáy lớn thêm 5m, diện tích thửa ruộng tăng thêm 25m2. Ta có công thức tính diện tích thửa ruộng sau khi kéo dài đáy lớn: S' = (đáy bé + đáy lớn + 5) * chiều cao / 2.\nVới diện tích tăng thêm 25m2, ta có:\nS' - S = 25\n[(8 + 12 + 5) * chiều cao / 2] - (10 * chiều cao) = 25\n[(25) * chiều cao / 2] - (10 * chiều cao) = 25\n(25 * chiều cao - 20 * chiều cao) / 2 = 25\n5 * chiều cao / 2 = 25\n5 * chiều cao = 50\nchiều cao = 10m.\n\nVậy diện tích ban đầu của thửa ruộng là: S = 10 * 10 = 100m2.\nDiện tích sau khi kéo dài đáy lớn là: S' = (8 + 12 + 5) * 10 / 2 = 25 * 10 / 2 = 125m2.\n\nĐể tính phần trăm tăng diện tích, ta sử dụng công thức: Phần trăm tăng = (diện tích tăng - diện tích ban đầu) / diện tích ban đầu * 100.\nVới diện tích ban đầu là 100m2 và diện tích tăng thêm là 125m2, ta có:\nPhần trăm tăng = (125 - 100) / 100 * 100 = 25%.\n\nAnswer: C. 25%",
+        "id": "01-0209"
+    },
+    {
+        "answer": "Giả sử chiều dài của xe lửa là x mét.\n\nTheo thông tin trong câu đề, ta có hai phương trình sau:\n1. x + 450 = 45\n2. x + cột điện = 15\n\nGiải phương trình thứ nhất:\nx + 450 = 45\nx = 45 - 450\nx = -405\n\nGiải phương trình thứ hai:\nx + cột điện = 15\nx = 15 - cột điện\n\nVì không có thông tin cụ thể về chiều cao của cột điện, nên không thể tính được giá trị của x.\n\nVậy không có đáp án đúng cho câu hỏi này.",
+        "id": "01-0210"
+    },
+    {
+        "answer": "Reason: Để tìm số lớn nhất trong các số 5,216; 5,126; 5,621; 5,612, ta chỉ cần so sánh các chữ số từ trái sang phải. \n\n- Chữ số hàng nghìn: 5,216; 5,126; 5,621; 5,612. Số lớn nhất là 5,621.\n- Chữ số hàng trăm: 5,216; 5,126; 5,612. Số lớn nhất là 5,612.\n- Chữ số hàng chục: 5,216; 5,126. Số lớn nhất là 5,216.\n- Chữ số hàng đơn vị: 5,126. Số lớn nhất là 5,126.\n\nVậy số lớn nhất trong các số 5,216; 5,126; 5,621; 5,612 là 5,621.\n\nAnswer: B. 5,621",
+        "id": "01-0211"
+    },
+    {
+        "answer": "Reason: To find the percentage of female students in the class, we need to divide the number of female students by the total number of students and then multiply by 100.\n\nStep 1: Calculate the percentage of female students.\nPercentage of female students = (Number of female students / Total number of students) * 100\n\nStep 2: Substitute the given values into the formula.\nPercentage of female students = (14 / 35) * 100\n\nStep 3: Simplify the expression.\nPercentage of female students = 0.4 * 100\n\nStep 4: Calculate the final answer.\nPercentage of female students = 40%\n\nAnswer: A. 40%",
+        "id": "01-0214"
+    },
+    {
+        "answer": "Reason: To solve this problem, we need to add the hours separately and the minutes separately.\n\n4 giờ 45 phút + 3 giờ 32 phút\n\nFirst, let's add the hours: 4 giờ + 3 giờ = 7 giờ\n\nNext, let's add the minutes: 45 phút + 32 phút = 77 phút\n\nNow, we have 7 giờ and 77 phút. However, we need to convert the 77 phút into hours and minutes.\n\n77 phút = 1 giờ 17 phút\n\nSo, the final answer is 7 giờ 17 phút.\n\nAnswer: A. 7 giờ 17 phút",
+        "id": "01-0219"
+    },
+    {
+        "answer": "Reason: To write the fraction \\frac{75}{100} as a decimal, we divide the numerator (75) by the denominator (100).\n\nStep 1: Divide 75 by 100.\n75 ÷ 100 = 0.75\n\nStep 2: Write the decimal as a decimal number.\n0.75\n\nAnswer: C. 0,75",
+        "id": "01-0221"
+    },
+    {
+        "answer": "Reason: To write the number \"sáu mươi bảy phẩy chín trăm mười chín\" in standard form, we need to understand the place value system in Vietnamese. \n\nThe number \"sáu mươi bảy\" represents 67. \nThe number \"chín trăm mười chín\" represents 919. \n\nSo, the correct option is:\n\nAnswer: C. 67,919",
+        "id": "01-0222"
+    },
+    {
+        "answer": "Reason: To find 80% of 30, we can multiply 30 by 0.8 (which is the decimal form of 80%). \n\n30 x 0.8 = 24\n\nAnswer: B. 24",
+        "id": "01-0223"
+    },
+    {
+        "answer": "Giả sử chúng ta muốn chuyển đổi từ mét khối (m³) sang decimét khối (dm³). Ta biết rằng 1 mét khối (m³) bằng 1000 decimét khối (dm³).\n\nVậy để chuyển đổi từ mét khối (m³) sang decimét khối (dm³), ta nhân số mét khối (m³) cho 1000.\n\nTrong trường hợp này, chúng ta có:\n39,87m³ = 39,87 x 1000 dm³ = 39870 dm³\n\nVậy đáp án đúng là:\nD. 39870\n\nReason: Để chuyển đổi từ mét khối (m³) sang decimét khối (dm³), ta nhân số mét khối (m³) cho 1000. Trong trường hợp này, 39,87m³ x 1000 = 39870 dm³.",
+        "id": "01-0224"
+    },
+    {
+        "answer": "Reason: To find the value of the digit 7 in the number 32,708, we need to determine its place value. \n\nThe digit 7 is in the thousands place, which means its value is 7 multiplied by 1000. \n\nSo, the value of the digit 7 in the number 32,708 is 7 * 1000 = 7000. \n\nAnswer: A. 7000",
+        "id": "01-0225"
+    },
+    {
+        "answer": "Reason: To determine the value of the digit 5 in the number 162.57, we need to understand the place value system in Vietnamese. \n\nIn Vietnamese, the number 162.57 can be read as \"một trăm sáu mươi hai phẩy năm chục bảy\". \n\nThe digit 5 is located in the decimal place, which represents the tenths place. \n\nTherefore, the correct answer is:\n\nAnswer: D. 5 phần mười",
+        "id": "01-0227"
+    },
+    {
+        "answer": "Reason: Để tính phần trăm diện tích đất trồng cây cao su so với diện tích đất trồng cây cà phê, ta cần tính tỷ lệ giữa diện tích đất trồng cây cao su và diện tích đất trồng cây cà phê.\n\nDiện tích đất trồng cây cao su là 480ha và diện tích đất trồng cây cà phê là 320ha.\n\nTỷ lệ giữa diện tích đất trồng cây cao su và diện tích đất trồng cây cà phê là: (480/320) * 100% = 150%.\n\nAnswer: A. 150%",
+        "id": "01-0232"
+    },
+    {
+        "answer": "Giả sử cạnh hình lập phương B có độ dài x, vậy thể tích của hình lập phương B là x^3.\nTheo đề bài, thể tích của hình lập phương A là 8 lần thể tích của hình lập phương B, nghĩa là thể tích của hình lập phương A là 8x^3.\nĐộ dài cạnh hình lập phương A là căn bậc ba của thể tích hình lập phương A, nghĩa là độ dài cạnh hình lập phương A là căn bậc ba của 8x^3, hay (8x^3)^(1/3) = 2x.\nTừ đó, ta có tỉ số giữa độ dài cạnh hình lập phương B và độ dài cạnh hình lập phương A là x/(2x) = 1/2.\nVậy đáp án đúng là C. \n\nReason: Ta giả sử cạnh hình lập phương B có độ dài x. Thể tích của hình lập phương B là x^3. Thể tích của hình lập phương A là 8 lần thể tích của hình lập phương B, nghĩa là thể tích của hình lập phương A là 8x^3. Độ dài cạnh hình lập phương A là căn bậc ba của thể tích hình lập phương A, nghĩa là độ dài cạnh hình lập phương A là căn bậc ba của 8x^3, hay (8x^3)^(1/3) = 2x. Từ đó, ta có tỉ số giữa độ dài cạnh hình lập phương B và độ dài cạnh hình lập phương A là x/(2x) = 1/2. Vậy đáp án đúng là C.\n\nAnswer: C. \\frac{1}{2}",
+        "id": "01-0234"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ km/giờ sang m/phút, ta cần biết rằng 1 giờ có 60 phút và 1 km = 1000 m.\n\nVậy để chuyển đổi từ km/giờ sang m/phút, ta nhân số km/giờ với 1000 (để chuyển đổi km thành m) và chia cho 60 (để chuyển đổi giờ thành phút).\n\n21 km/giờ = (21 * 1000) / 60 = 21000 / 60 = 350\n\nAnswer: C. 350",
+        "id": "01-0237"
+    },
+    {
+        "answer": "Giải quyết bài toán theo từng bước:\n\nBước 1: Đổi đơn vị dm^3 thành m^3. Vì 1 m^3 = 1000 dm^3, nên 19 dm^3 = 19/1000 m^3 = 0.019 m^3.\n\nBước 2: Cộng 5m^3 và 0.019 m^3 để tìm tổng. \n\n5m^3 + 0.019 m^3 = 5.019 m^3.\n\nVậy, đáp án đúng là:\n\nAnswer: B. 5,019\n\nReason: Ta đã thực hiện đổi đơn vị và cộng hai số lại với nhau để tìm tổng.",
+        "id": "01-0239"
+    },
+    {
+        "answer": "Giải thích:\nĐể giải bài toán này, ta thực hiện các phép tính theo thứ tự ưu tiên. Đầu tiên, ta thực hiện phép chia 0,12 giờ cho 2, sau đó nhân kết quả với 3.\n\n0,12 giờ \\div 2 = 0,06 giờ\n\n0,06 giờ \\times 3 = 0,18 giờ\n\nVậy kết quả của phép tính là 0,18 giờ.\n\nĐáp án: C. 0,18 giờ",
+        "id": "01-0240"
+    },
+    {
+        "answer": "Giả sử số đó là x.\n\n37,5% của x là 1,3875.\n\nĐể tìm x, ta sẽ giải phương trình sau đây:\n\n0,375x = 1,3875\n\nĐể loại bỏ dấu chấm phẩy, ta nhân cả hai vế của phương trình với 100:\n\n37,5x = 138,75\n\nTiếp theo, chia cả hai vế của phương trình cho 37,5:\n\nx = 3,6992\n\nVậy số đó là 3,6992.\n\nReason: Để tìm số ban đầu, ta giải phương trình 0,375x = 1,3875. Sau khi loại bỏ dấu chấm phẩy, ta nhân cả hai vế của phương trình với 100 để loại bỏ dấu phẩy động. Tiếp theo, chia cả hai vế của phương trình cho 37,5 để tìm giá trị của x.",
+        "id": "01-0241"
+    },
+    {
+        "answer": "Reason: To find the value of the digit 5 in the number 254,836, we need to determine its place value. The digit 5 is in the tens place, which means it represents 50.\n\nAnswer: A. 50 000",
+        "id": "01-0243"
+    },
+    {
+        "answer": "Để tính phần trăm số học sinh nữ chiếm trong lớp, ta cần chia số học sinh nữ cho tổng số học sinh trong lớp và nhân với 100.\n\nSố học sinh nữ là 12 và tổng số học sinh là 32.\n\nPhần trăm số học sinh nữ chiếm = (số học sinh nữ / tổng số học sinh) * 100\n\nPhần trăm số học sinh nữ chiếm = (12 / 32) * 100\n\nPhần trăm số học sinh nữ chiếm = 0.375 * 100\n\nPhần trăm số học sinh nữ chiếm = 37.5\n\nVậy, số học sinh nữ chiếm 37.5% số học sinh cả lớp.\n\nAnswer: D. 37.5",
+        "id": "01-0245"
+    },
+    {
+        "answer": "Giá trị của biểu thức: 15 \\div 1,5 + 2,5 \\times 0,2 là:\n\nĐầu tiên, chúng ta thực hiện phép tính nhân trước chia sau. \n\n2,5 \\times 0,2 = 0,5\n\nTiếp theo, chúng ta thực hiện phép tính chia.\n\n15 \\div 1,5 = 10\n\nCuối cùng, chúng ta thực hiện phép tính cộng.\n\n10 + 0,5 = 10,5\n\nVậy, giá trị của biểu thức là 10,5.\n\nĐáp án: D. 10,5",
+        "id": "01-0246"
+    },
+    {
+        "answer": "Reason: Để chuyển từ kg sang tấn, ta chia số kg cho 1000. Vậy để chuyển từ 3 tấn 5 kg sang tấn, ta thực hiện phép tính sau:\n\n3 tấn 5 kg = (3 x 1000) kg + 5 kg = 3000 kg + 5 kg = 3005 kg\n\nVậy, số thích hợp điền vào chỗ chấm để 3 tấn 5 kg = … tấn là 3,005 tấn.\n\nAnswer: C. 3,005",
+        "id": "01-0249"
+    },
+    {
+        "answer": "Giờ có 60 phút, vậy 1,5 giờ sẽ là 1 giờ + 0,5 giờ = 1 giờ + 30 phút = 90 phút.\n\nReason: 1,5 giờ tương đương với 1 giờ 30 phút, và 30 phút cũng chính là 0,5 giờ. Vậy tổng cộng là 1 giờ + 0,5 giờ = 1 giờ + 30 phút = 90 phút.\n\nAnswer: C. 90 phút.",
+        "id": "01-0254"
+    },
+    {
+        "answer": "Để tính diện tích hình thang ABCD, ta sử dụng công thức diện tích hình thang: Diện tích = (đáy nhỏ + đáy lớn) * chiều cao / 2.\n\nVới hình thang ABCD có đáy nhỏ là 4dm, đáy lớn là 6dm và chiều cao là 3dm, ta có:\n\nDiện tích = (4 + 6) * 3 / 2 = 10 * 3 / 2 = 30 / 2 = 15 dm^{2}.\n\nVậy diện tích hình thang ABCD là 15 dm^{2}.\n\nAnswer: A. 15 dm^{2}.",
+        "id": "01-0256"
+    },
+    {
+        "answer": "Reason: Đường kính của hình tròn là độ dài của một đường thẳng đi qua tâm của hình tròn và có hai điểm tiếp xúc với đường tròn. Đường kính được tính bằng công thức d = 2r, trong đó r là bán kính của hình tròn.\n\nVới đường kính d = 3 dm, ta có:\nr = d/2 = 3/2 = 1.5 dm\n\nChu vi của hình tròn được tính bằng công thức C = 2πr, trong đó π (pi) là một hằng số xấp xỉ bằng 3.14.\n\nVới r = 1.5 dm, ta có:\nC = 2πr = 2 * 3.14 * 1.5 = 9.42 dm\n\nAnswer: A. 9,42 dm",
+        "id": "01-0257"
+    },
+    {
+        "answer": "Reason: To find the area of a circle, we use the formula A = πr^2, where A is the area and r is the radius.\n\nGiven that the radius (bán kính) is 2cm, we can substitute this value into the formula:\n\nA = π(2cm)^2\nA = π(4cm^2)\nA = 4π cm^2\n\nNow, we need to find the approximate value of π. In Vietnamese, the approximate value of π is often rounded to 3.14.\n\nSo, A ≈ 4 × 3.14 cm^2\nA ≈ 12.56 cm^2\n\nTherefore, the correct answer is:\n\nAnswer: D. 12,56 cm^{2}",
+        "id": "01-0258"
+    },
+    {
+        "answer": "Giải thích: Để chuyển đổi từ mét khối (m³) sang decimét khối (dm³), ta nhân số mét khối với 1000 vì 1 mét khối bằng 1000 decimét khối.\n\nVậy, 13,8 m³ = 13,8 x 1000 dm³ = 13800 dm³.\n\nĐáp án: B. 13800 dm³.",
+        "id": "01-0259"
+    },
+    {
+        "answer": "Reason: To find the percentage ratio of 32 and 50, we need to divide 32 by 50 and then multiply the result by 100.\n\n32 ÷ 50 = 0.64\n\n0.64 x 100 = 64\n\nSo, the percentage ratio of 32 and 50 is 64%.\n\nAnswer: A. 64%",
+        "id": "01-0264"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ dm^3 sang m^3, ta phải chia cho 1000 vì 1 m^3 = 1000 dm^3. Vậy để chuyển đổi 3m^3 76 dm^3 thành m^3, ta thực hiện như sau:\n\n3m^3 76 dm^3 = 3m^3 + 76/1000 m^3 = 3m^3 + 0,076 m^3 = 3,076 m^3\n\nAnswer: D. 3,076",
+        "id": "01-0266"
+    },
+    {
+        "answer": "Reason: To write a decimal number, we need to understand the place value of each digit. In this case, the number is \"hai trăm linh một đơn vị và 7 phần trăm\", which means \"two hundred units and seven percent\". \n\nThe place value of each digit in the decimal number is as follows:\n- Units: 1\n- Tens: 0\n- Hundreds: 0\n- Thousands: 0\n- Ten thousands: 0\n- Hundred thousands: 0\n- Millions: 2\n\nSince the number is \"two hundred units\", the digit in the units place is 2. And since it is \"seven percent\", we need to divide 7 by 100 to get the decimal value. \n\n7 ÷ 100 = 0.07\n\nTherefore, the decimal number is 2.07.\n\nLooking at the options:\nA. 7,201 - This is not the correct answer as it does not match the given number.\nB. 201,7 - This is not the correct answer as it does not match the given number.\nC. 201,700 - This is not the correct answer as it does not match the given number.\nD. 201,07 - This is the correct answer as it matches the given number.\n\nAnswer: D. 201,07",
+        "id": "01-0268"
+    },
+    {
+        "answer": "Reason: Để tìm số lớn nhất trong các số 0,79; 0,789; 0,709; 0,8, ta chỉ cần so sánh các chữ số từ trái sang phải cho đến khi tìm được chữ số khác nhau. \n\nSo sánh chữ số thứ nhất của các số: 0,7; 0,7; 0,7; 0,8. Chữ số lớn nhất là 8.\n\nVậy số lớn nhất trong các số đã cho là 0,8.\n\nAnswer: D. 0,8",
+        "id": "01-0269"
+    },
+    {
+        "answer": "Reason: Để tính khoảng thời gian từ lúc 7 giờ kém 10 phút đến 7 giờ 30 phút, ta cần tính hiệu của thời gian 7 giờ 30 phút và thời gian 7 giờ kém 10 phút.\n\nThời gian từ 7 giờ kém 10 phút đến 7 giờ 30 phút là: 7 giờ 30 phút - (7 giờ - 10 phút)\n\n7 giờ - 10 phút = 6 giờ 50 phút\n\nThời gian từ 7 giờ kém 10 phút đến 7 giờ 30 phút là: 7 giờ 30 phút - 6 giờ 50 phút = 40 phút\n\nAnswer: D. 40 phút",
+        "id": "01-0273"
+    },
+    {
+        "answer": "Reason: To convert a fraction to a decimal, we divide the numerator by the denominator. \n\nIn this case, we divide 3 by 4:\n\n3 ÷ 4 = 0.75\n\nSo, the fraction \\frac{3}{4} is equal to the decimal 0.75.\n\nAnswer: B. 0,75",
+        "id": "01-0275"
+    },
+    {
+        "answer": "Reason: Để tính khoảng thời gian từ 9 giờ kém 10 phút đến 9 giờ 30 phút, ta trừ thời gian bắt đầu (9 giờ kém 10 phút) từ thời gian kết thúc (9 giờ 30 phút).\n\n9 giờ 30 phút - (9 giờ kém 10 phút) = 9 giờ 30 phút - 9 giờ = 30 phút\n\nVậy, khoảng thời gian từ 9 giờ kém 10 phút đến 9 giờ 30 phút là 30 phút.\n\nAnswer: C. 30 phút",
+        "id": "01-0277"
+    },
+    {
+        "answer": "Giải thích: Để nhân một số với 100, ta chỉ cần di chuyển dấu phẩy sang phải 2 vị trí. Vì vậy, ta có:\n\n12,34 x 100 = 1234\n\nĐáp án: C. 1234",
+        "id": "01-0285"
+    },
+    {
+        "answer": "Reason: To find out how much time it takes for the worker to make 8 products, we need to multiply the time it takes to make one product by the number of products.\n\nThe worker takes 1 minute and 12 seconds to make one product. To find out how much time it takes to make 8 products, we multiply 1 minute and 12 seconds by 8.\n\n1 minute and 12 seconds is equal to 72 seconds. So, 8 products would take 8 times 72 seconds.\n\n8 times 72 is equal to 576 seconds.\n\nTherefore, the worker takes 576 seconds to make 8 products.\n\nAnswer: C. 9 phút 36 giây",
+        "id": "01-0292"
+    },
+    {
+        "answer": "Giải:\nĐể chuyển đổi từ mét sang kilômét, ta chia số mét cho 1000.\n3km 48m = (3 + 48/1000) km = 3,048 km\n\nVậy đáp án đúng là:\nB. 3,048\n\nReason: Chuyển đổi từ mét sang kilômét bằng cách chia số mét cho 1000.",
+        "id": "01-0294"
+    },
+    {
+        "answer": "Giả sử số học sinh nam của trường tiểu học là x.\n\nTheo đề bài, số học sinh nữ chiếm 55% số học sinh toàn trường. Vậy số học sinh nữ là 55% * 600 = 0.55 * 600 = 330.\n\nTổng số học sinh nam và nữ là 600, nên ta có phương trình: x + 330 = 600.\n\nGiải phương trình ta có: x = 600 - 330 = 270.\n\nVậy số học sinh nam của trường tiểu học là 270.\n\nAnswer: A. 270 học sinh.\nReason: Số học sinh nam của trường tiểu học là x. Số học sinh nữ là 55% * 600 = 330. Tổng số học sinh nam và nữ là 600, nên ta có phương trình: x + 330 = 600. Giải phương trình ta có: x = 600 - 330 = 270. Vậy số học sinh nam của trường tiểu học là 270.",
+        "id": "01-0296"
+    },
+    {
+        "answer": "Để tính biểu thức này, ta thực hiện các bước sau:\n\nBước 1: Tính tích của 3,5 và $\\frac{1}{4}$:\n3,5 $\\times$ $\\frac{1}{4}$ = $\\frac{3,5}{1}$ $\\times$ $\\frac{1}{4}$ = $\\frac{3,5}{4}$ = $\\frac{7}{8}$\n\nBước 2: Tính tích của 1,5 và $\\frac{1}{4}$:\n1,5 $\\times$ $\\frac{1}{4}$ = $\\frac{1,5}{1}$ $\\times$ $\\frac{1}{4}$ = $\\frac{1,5}{4}$ = $\\frac{3}{8}$\n\nBước 3: Trừ kết quả của bước 2 từ kết quả của bước 1:\n$\\frac{7}{8}$ - $\\frac{3}{8}$ = $\\frac{7-3}{8}$ = $\\frac{4}{8}$ = $\\frac{1}{2}$\n\nVậy, kết quả của biểu thức là $\\frac{1}{2}$.\n\nĐáp án: B. $\\frac{1}{2}$",
+        "id": "01-0302"
+    },
+    {
+        "answer": "Giả sử chúng ta muốn biết 0,2 m³ bằng bao nhiêu lần 25 dm³.\n\nĐể so sánh hai đơn vị này, chúng ta cần chuyển đổi chúng về cùng một đơn vị.\n\n1 m³ = 1000 dm³ (vì 1 m = 10 dm)\n\nVậy 0,2 m³ = 0,2 x 1000 dm³ = 200 dm³\n\nSố lần 0,2 m³ gấp 25 dm³ là: 200 dm³ / 25 dm³ = 8\n\nReason: Chuyển đổi 0,2 m³ thành đơn vị dm³ bằng cách nhân với 1000 (vì 1 m³ = 1000 dm³). Sau đó, chia 200 dm³ cho 25 dm³ để tìm số lần. \n\nAnswer: C. 8",
+        "id": "01-0303"
+    },
+    {
+        "answer": "Giả sử chiều cao của hình hộp chữ nhật là h cm.\n\nDiện tích toàn phần của hình lập phương là 486 cm^2, ta có công thức diện tích toàn phần của hình lập phương là 6a^2, trong đó a là cạnh của hình lập phương.\n\nTheo đề bài, cạnh của hình lập phương bằng trung bình cộng ba kích thước của hình hộp chữ nhật, ta có:\na = (12 + 8 + h)/3\n\nThay vào công thức diện tích toàn phần của hình lập phương, ta có:\n6[(12 + 8 + h)/3]^2 = 486\n\nGiải phương trình trên, ta có h = 9.\n\nVậy chiều cao của hình hộp chữ nhật là 9 cm.\n\nAnswer: C. 9 cm",
+        "id": "01-0305"
+    },
+    {
+        "answer": "Reason: To subtract decimal numbers, we align the decimal points and subtract each digit from right to left. \n\nFirst, let's subtract the decimal parts: 54 - 9 = 45.\n\nNext, let's subtract the whole numbers: 712 - 48 = 664.\n\nCombining the whole number and decimal part, the result is 664.45.\n\nTherefore, the correct answer is:\n\nAnswer: C. 663,64.",
+        "id": "01-0314"
+    },
+    {
+        "answer": "Ta biết công thức tính thể tích hình hộp chữ nhật là: V = chiều dài x chiều rộng x chiều cao.\n\nVới V = 300dm^3, chiều dài = 15dm và chiều rộng = 5dm, ta cần tìm chiều cao.\n\nThay các giá trị vào công thức, ta có: 300 = 15 x 5 x chiều cao.\n\nGiải phương trình, ta có: chiều cao = 300 / (15 x 5) = 4dm.\n\nVậy chiều cao của hình hộp chữ nhật là 4dm.\n\nReason: Ta sử dụng công thức tính thể tích hình hộp chữ nhật và thay các giá trị đã cho vào để tìm chiều cao. Sau khi giải phương trình, ta thu được kết quả là 4dm.\n\nAnswer: B. 4dm.",
+        "id": "01-0315"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ m^2 sang ha, ta chia số m^2 cho 10.000 (vì 1 ha = 10.000 m^2). Vậy để chuyển đổi 55 ha 17 m^2 sang ha, ta thực hiện phép chia 55,17 cho 10.000.\n\nAnswer: A. 55,17",
+        "id": "01-0316"
+    },
+    {
+        "answer": "Reason: Để tính phần trăm số học sinh nữ trong lớp, ta cần biết tổng số học sinh trong lớp và số học sinh nữ.\n\nTổng số học sinh trong lớp = số học sinh nữ + số học sinh nam = 18 + 12 = 30\n\nSố học sinh nữ chiếm phần trăm trong tổng số học sinh lớp = (số học sinh nữ / tổng số học sinh lớp) * 100\n\n= (18 / 30) * 100\n\n= 60%\n\nAnswer: B. 60%",
+        "id": "01-0317"
+    },
+    {
+        "answer": "Reason: Để viết số thập phân 0,9 dưới dạng phân số, ta cần biểu diễn phần thập phân của số này dưới dạng một phân số có mẫu số là một lũy thừa của 10. Vì 0,9 có một chữ số sau dấu phẩy, ta có thể biểu diễn nó dưới dạng phân số có mẫu số là 10^1 = 10.\n\nAnswer: A. \\frac{9}{10}",
+        "id": "01-0321"
+    },
+    {
+        "answer": "Reason: To find 25% of 120, we can multiply 120 by 0.25 (which is the decimal form of 25%). \n\nStep 1: Multiply 120 by 0.25\n120 * 0.25 = 30\n\nAnswer: D. 2,5",
+        "id": "01-0322"
+    },
+    {
+        "answer": "Reason: Thể tích của hình lập phương được tính bằng cạnh mũ ba. Với cạnh là 5m, ta có:\n\nThể tích = cạnh^3 = 5^3 = 125 m^3\n\nAnswer: B. 125 m^{3}",
+        "id": "01-0324"
+    },
+    {
+        "answer": "Giả sử chúng ta muốn tính 5% của 120.\n\nĐể tính phần trăm của một số, chúng ta nhân số đó với phần trăm tương ứng và chia cho 100.\n\nVậy, 5% của 120 sẽ là: (5/100) * 120 = 0,05 * 120 = 6.\n\nReason: Để tính phần trăm của một số, chúng ta nhân số đó với phần trăm tương ứng và chia cho 100. Vì vậy, để tính 5% của 120, chúng ta nhân 120 với 5 và chia cho 100. Kết quả là 6.\n\nAnswer: C. 6",
+        "id": "01-0326"
+    },
+    {
+        "answer": "Để chuyển từ km/giờ sang m/phút, ta cần chia vận tốc theo km/giờ cho 60 (số phút trong 1 giờ) và nhân với 1000 (để chuyển từ km sang m).\n\nVận tốc của ô tô là 51 km/giờ.\n\nVận tốc của ô tô trong m/phút = (51 km/giờ) / 60 (phút/giờ) * 1000 (m/km)\n\n= 51 * 1000 / 60\n\n= 850 m/phút\n\nVậy đáp án đúng là A. 850 m/phút.\n\nReason: Để chuyển từ km/giờ sang m/phút, ta chia vận tốc theo km/giờ cho 60 (số phút trong 1 giờ) và nhân với 1000 (để chuyển từ km sang m).",
+        "id": "01-0329"
+    },
+    {
+        "answer": "Reason: Số liền trước của một số là số đó trừ đi 1. Vì vậy, để tìm số liền trước của số 9999, ta trừ 1 từ số 9999.\n\nAnswer: A. 9998",
+        "id": "01-0330"
+    },
+    {
+        "answer": "Giả sử số đó là x.\n\nTheo đề bài, 50% của số đó là 5. Ta có phương trình:\n\n50% của x = 5\n\nĐể tìm giá trị của x, ta cần chuyển đổi phần trăm thành số thập phân. 50% = 50/100 = 0.5.\n\nVậy phương trình trở thành:\n\n0.5x = 5\n\nĐể tìm giá trị của x, ta chia cả hai vế của phương trình cho 0.5:\n\nx = 5/0.5\n\nx = 10\n\nVậy số đó bằng 10.\n\nReason: Ta biết rằng 50% của một số là 5. Để tìm số đó, ta chuyển đổi phần trăm thành số thập phân và giải phương trình. Sau khi giải phương trình, ta tìm được giá trị của số đó là 10.\n\nAnswer: A. 10",
+        "id": "01-0336"
+    },
+    {
+        "answer": "Reason: Để tìm số có chữ số 3 ở hàng phần mười, ta chỉ cần xem chữ số ở hàng phần mười của từng số.\n\n- Số 28,3: Chữ số 3 ở hàng phần mười là 0.\n- Số 2,83: Chữ số 3 ở hàng phần mười là 8.\n- Số 38,2: Chữ số 3 ở hàng phần mười là 3.\n- Số 3,82: Chữ số 3 ở hàng phần mười là 8.\n\nVậy số có chữ số 3 ở hàng phần mười là 3,82.\n\nAnswer: B. 3,82",
+        "id": "01-0337"
+    },
+    {
+        "answer": "Reason: To convert from tấn to tạ, we need to multiply by 10. \n\n20 tấn x 10 = 200 tạ\n\nAnswer: A. 200 tạ",
+        "id": "01-0339"
+    },
+    {
+        "answer": "Reason: To find the area of a circle, we use the formula A = πr^2, where A is the area and r is the radius. In this case, the radius is given as 4 dm.\n\nStep 1: Substitute the value of the radius into the formula:\nA = π(4 dm)^2\n\nStep 2: Simplify the expression inside the parentheses:\nA = π(16 dm^2)\n\nStep 3: Multiply π by 16 to find the area:\nA = 16π dm^2\n\nStep 4: Approximate the value of π to 3.14:\nA ≈ 16 × 3.14 dm^2\n\nStep 5: Calculate the approximate value of the area:\nA ≈ 50.24 dm^2\n\nAnswer: C. 50,24 dm^{2}",
+        "id": "01-0340"
+    },
+    {
+        "answer": "Ta biết được công thức tính thể tích của hình hộp chữ nhật là: V = chiều dài x chiều rộng x chiều cao.\n\nVới V = 300dm^3, chiều dài = 15dm và chiều rộng = 5dm, ta có:\n\n300 = 15 x 5 x chiều cao\n\nĐể tìm chiều cao, ta chia cả hai vế của phương trình cho (15 x 5):\n\n300 / (15 x 5) = chiều cao\n\nKết quả là 4dm.\n\nReason: Ta sử dụng công thức tính thể tích của hình hộp chữ nhật và thay vào các giá trị đã cho để tìm chiều cao. Sau khi tính toán, ta được chiều cao của hình hộp chữ nhật là 4dm.\n\nAnswer: B. 4dm",
+        "id": "01-0343"
+    },
+    {
+        "answer": "Reason: To convert the given decimal number into the standard form, we need to place each digit in its corresponding place value. \n\nThe given decimal number is 55.207. \n\nThe digit 5 is in the tens place, the digit 5 is in the ones place, the digit 2 is in the tenths place, the digit 0 is in the hundredths place, and the digit 7 is in the thousandths place. \n\nTherefore, the correct option is:\n\nAnswer: A. 55,207",
+        "id": "01-0346"
+    },
+    {
+        "answer": "Reason: Để đổi phân số thành tỉ số phần trăm, ta nhân phân số đó cho 100.\n\n9/12 * 100 = 75\n\nAnswer: B. 75%",
+        "id": "01-0347"
+    },
+    {
+        "answer": "Giá trị của biểu thức: 136,5 – 100 : 2,5 x 0,9\n\nĐể giải biểu thức này, ta thực hiện các phép tính theo thứ tự ưu tiên: trước tiên là phép chia, sau đó là phép nhân và cuối cùng là phép trừ.\n\n1. Thực hiện phép chia: 100 : 2,5 = 40\n2. Thực hiện phép nhân: 40 x 0,9 = 36\n3. Thực hiện phép trừ: 136,5 - 36 = 100,5\n\nVậy, giá trị của biểu thức là 100,5.\n\nĐáp án: A. 100,5",
+        "id": "01-0351"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ mét vuông sang hecta, ta chia số mét vuông cho 10.000 (vì 1 ha = 10.000 m^2).\n\nVậy, 55 ha 17 m^2 = (55 + 17/10.000) ha.\n\nTa có:\n55 + 17/10.000 = 55 + 0,0017 = 55,0017.\n\nAnswer: A. 55,0017.",
+        "id": "01-0353"
+    },
+    {
+        "answer": "Reason: To convert 2km 257m to km, we need to divide the total distance by 1000 (since there are 1000 meters in 1 kilometer).\n\n2km 257m = (2 + 257/1000) km\n\nCalculating the decimal part:\n\n257/1000 = 0.257\n\nAdding the whole number and the decimal part:\n\n2 + 0.257 = 2.257\n\nTherefore, the correct option is:\n\nAnswer: B. 2,257",
+        "id": "01-0358"
+    },
+    {
+        "answer": "Reason: To find the percentage ratio of two numbers, we divide the smaller number by the larger number and multiply by 100.\n\nIn this case, the smaller number is 2.8 and the larger number is 80.\n\nPercentage ratio = (2.8 / 80) * 100\n\nCalculating this, we get:\n\nPercentage ratio = 0.035 * 100 = 3.5%\n\nTherefore, the correct answer is:\n\nAnswer: C. 3.5%",
+        "id": "01-0362"
+    },
+    {
+        "answer": "Reason: To compare the two areas, we need to convert them to the same unit. \n\nFirst, we convert 8 m^2 50 dm^2 to a single unit. Since 1 m^2 = 10 dm^2, we can convert 50 dm^2 to m^2 by dividing it by 10. So, 8 m^2 50 dm^2 is equal to 8 m^2 + 50 dm^2 / 10 = 8 m^2 + 5 m^2 = 13 m^2.\n\nNow, we compare 13 m^2 with 8.05 m^2. Since 13 is greater than 8.05, we can conclude that 13 m^2 is greater than 8.05 m^2.\n\nAnswer: B. >",
+        "id": "01-0364"
+    },
+    {
+        "answer": "Reason: To divide 0.6159 by 0.52, we can use long division method.\n\n         ________\n0.52 | 0.6159\n         -0.52\n         _______\n           0.0959\n\nAfter the first division, we get a quotient of 1. Now, we bring down the next digit, which is 5.\n\n         ________\n0.52 | 0.6159\n         -0.52\n         _______\n           0.0959\n           -0.052\n           _______\n             0.0439\n\nAfter the second division, we get a quotient of 1. Now, we bring down the next digit, which is 9.\n\n         ________\n0.52 | 0.6159\n         -0.52\n         _______\n           0.0959\n           -0.052\n           _______\n             0.0439\n             -0.0416\n             _______\n             0.0023\n\nThe remainder of the division is 0.0023.\n\nAnswer: D. 0,0023",
+        "id": "01-0373"
+    },
+    {
+        "answer": "Reason: To convert 3m^2 246cm^2 to cm^2, we need to convert 3m^2 to cm^2 and then add it to 246cm^2.\n\n1m = 100cm, so 3m = 3 * 100cm = 300cm.\n\nTherefore, 3m^2 = 300cm * 300cm = 90000cm^2.\n\nNow, we can add 90000cm^2 to 246cm^2.\n\n90000cm^2 + 246cm^2 = 90246cm^2.\n\nAnswer: B. 30046",
+        "id": "01-0375"
+    },
+    {
+        "answer": "Ta có:\nChiều dài hình chữ nhật là 1,2 dm.\nChiều rộng bằng 1/3 chiều dài.\nVậy chiều rộng là: 1/3 * 1,2 = 0,4 dm.\n\nDiện tích hình chữ nhật được tính bằng công thức: Diện tích = Chiều dài * Chiều rộng.\nVậy diện tích hình chữ nhật là: 1,2 * 0,4 = 0,48 dm^2.\n\nVậy đáp án đúng là:\nD. 0,48 dm^2.",
+        "id": "01-0376"
+    },
+    {
+        "answer": "Reason: Chữ số 7 trong số thập phân 82,374 nằm ở vị trí hàng trăm. Vị trí hàng trăm có giá trị là 7 x 100 = 700.\n\nAnswer: D. 70",
+        "id": "01-0378"
+    },
+    {
+        "answer": "Reason: To subtract decimal numbers, we align the decimal points and subtract each digit from right to left. \n\n72.1\n- 30.4\n-------\n   41.7\n\nAnswer: B. 41.7",
+        "id": "01-0380"
+    },
+    {
+        "answer": "Reason: To convert a mixed number to a decimal, we need to add the whole number part to the decimal part. In this case, the whole number part is 17 and the decimal part is 13/100.\n\nTo convert 13/100 to a decimal, we divide 13 by 100:\n13 ÷ 100 = 0.13\n\nNow we add the whole number part and the decimal part together:\n17 + 0.13 = 17.13\n\nAnswer: A. 17,13",
+        "id": "01-0384"
+    },
+    {
+        "answer": "Giả sử 1 ha = x m^2. Ta cần tìm giá trị của x.\n\nTheo đề bài, 4,53 ha = ... m^2. Để chuyển đổi từ ha sang m^2, ta nhân 4,53 với x:\n\n4,53 ha * x m^2/ha = 4,53x m^2\n\nVì vậy, ta có phương trình sau:\n\n4,53x m^2 = ... m^2\n\nĐể tìm giá trị của x, ta cần tìm giá trị của ... m^2.\n\nĐáp án: A. 45300 m^{2}\n\nReason: Ta biết rằng 1 ha = 10000 m^2. Vì vậy, để chuyển đổi từ ha sang m^2, ta nhân số ha với 10000. Trong trường hợp này, 4,53 ha * 10000 m^2/ha = 45300 m^2. Vì vậy, đáp án chính xác là A. 45300 m^{2}.",
+        "id": "01-0386"
+    },
+    {
+        "answer": "Reason: To multiply a number by 100, we simply move the decimal point two places to the right. \n\n15,274 x 100 = 1,527,400\n\nAnswer: B. 1527,4",
+        "id": "01-0387"
+    },
+    {
+        "answer": "Reason: To determine the position of the digit 9 in the number 391,132, we need to understand the place value system in Vietnamese. \n\nIn Vietnamese, the place value system is as follows:\n- Units (Đơn vị): The rightmost digit.\n- Tens (Chục): The digit to the left of the units.\n- Hundreds (Trăm): The digit to the left of the tens.\n- Thousands (Nghìn): The digit to the left of the hundreds.\n- Ten thousands (Mười nghìn): The digit to the left of the thousands.\n- Hundred thousands (Trăm nghìn): The digit to the left of the ten thousands.\n\nIn the number 391,132, the digit 9 is in the tens place, which means it belongs to the tens (Chục) position.\n\nAnswer: A. Chục",
+        "id": "01-0389"
+    },
+    {
+        "answer": "Reason: To find the value of the digit 5 in the number 245,836, we need to determine its place value. \n\nThe digit 5 is in the tens of thousands place, which means it represents 50,000. \n\nAnswer: C. 50,000",
+        "id": "01-0390"
+    },
+    {
+        "answer": "Reason: To find the sum of 125,855 and 25,31, we need to add the two numbers together.\n\n125,855 + 25,31 = 151,165\n\nTherefore, the correct answer is:\n\nAnswer: D. 251,165",
+        "id": "01-0391"
+    },
+    {
+        "answer": "Để tính phần trăm số học sinh nam trong lớp, ta cần biết số học sinh nam và tổng số học sinh trong lớp.\n\nSố học sinh nam = Tổng số học sinh - Số học sinh nữ\nSố học sinh nam = 32 - 12 = 20\n\nPhần trăm số học sinh nam = (Số học sinh nam / Tổng số học sinh) * 100%\nPhần trăm số học sinh nam = (20 / 32) * 100% = 62,5%\n\nVậy đáp án đúng là:\nC. 62,5%",
+        "id": "01-0394"
+    },
+    {
+        "answer": "Reason: Để giải biểu thức này, ta thực hiện các phép tính theo thứ tự ưu tiên. Trước tiên, ta tính phép nhân 15,2 x 5, kết quả là 76. Sau đó, ta tính phép chia 30 ÷ 2, kết quả là 15. Cuối cùng, ta cộng các kết quả lại với nhau: 75 + 76 + 15 = 166.\n\nAnswer: C. 166",
+        "id": "01-0397"
+    },
+    {
+        "answer": "Reason: Để chuyển 2 giờ 18 phút thành giờ, ta cần chia số phút cho 60 và cộng với số giờ. \n\n2 giờ 18 phút = 2 + 18/60 = 2 + 0,3 = 2,3\n\nAnswer: C. 2,3",
+        "id": "01-0398"
+    },
+    {
+        "answer": "Reason: Để giải bài toán này, ta cần chuyển đổi 3 tấn 15kg thành đơn vị tấn. \n\n1 tấn = 1000kg, vậy 3 tấn = 3 x 1000kg = 3000kg. \n\nThêm 15kg vào 3000kg ta được tổng cộng 3015kg. \n\nĐể chuyển đổi 3015kg thành tấn, ta chia cho 1000, vậy 3015kg = 3015/1000 tấn = 3,015 tấn. \n\nAnswer: B. 3,015 tấn.",
+        "id": "01-0401"
+    },
+    {
+        "answer": "Reason: To solve this addition problem, we need to add the two numbers digit by digit, starting from the rightmost digit.\n\nFirst, let's add the decimal parts: 0.35 + 0.85 = 1.20\n\nNext, let's add the whole numbers: 1286 + 534 = 1820\n\nFinally, let's combine the whole numbers and the decimal parts: 1820 + 1.20 = 1821.20\n\nTherefore, the correct answer is:\n\nAnswer: A. 1821,2",
+        "id": "01-0403"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ dm2 sang m2, ta chia cho 100 (vì 1m = 100dm). Vậy 8dm2 = 8/100 = 0,08m2. \n\nSau đó, ta cộng 9m2 với 0,08m2 để tính tổng diện tích. \n\n9m2 + 0,08m2 = 9,08m2. \n\nVậy đáp án là C. \n\nAnswer: C. 9,08",
+        "id": "01-0405"
+    },
+    {
+        "answer": "Reason: To convert a decimal number to a mixed number, we need to separate the whole number part and the fractional part. \n\nIn this case, the whole number part is 9 and the fractional part is 0.6. \n\nTo convert the fractional part to a fraction, we move the decimal point one place to the right and write it as the numerator. The denominator is determined by the number of decimal places, which is 1 in this case. \n\nSo, the fractional part is \\frac{6}{10}. \n\nTherefore, the mixed number form of 9.6 is 9 \\frac{6}{10}. \n\nAnswer: A. 9 \\frac{6}{10}",
+        "id": "01-0407"
+    },
+    {
+        "answer": "Reason: Chữ số 7 trong số 169,57 chỉ đến vị trí hàng đơn vị. \n\nAnswer: A. 7 đơn vị.",
+        "id": "01-0409"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi một hỗn số thành số thập phân, ta phải chia phần tử số của hỗn số cho mẫu số của nó. Trong trường hợp này, hỗn số là 4, nghĩa là phần tử số là 4 và mẫu số là 1. Vì vậy, số thập phân tương ứng với hỗn số này là 4/1 = 4.\n\nAnswer: 4",
+        "id": "01-0410"
+    },
+    {
+        "answer": "Reason: To find the product of 25.4 and 4, we simply multiply the two numbers together.\n\n25.4 * 4 = 101.6\n\nAnswer: C. 101,6",
+        "id": "01-0412"
+    },
+    {
+        "answer": "Reason: To determine the position of the digit 9 in the number 427,098, we need to understand the place value system in Vietnamese. \n\nIn Vietnamese, the place values are as follows:\n- Chục (tens)\n- Trăm (hundreds)\n- Nghìn (thousands)\n- Mười nghìn (ten thousands)\n- Trăm nghìn (hundred thousands)\n- Triệu (millions)\n- Mười triệu (ten millions)\n- Trăm triệu (hundred millions)\n\nLooking at the number 427,098, we can see that the digit 9 is in the thousands place. \n\nAnswer: A. 9 phần nghìn",
+        "id": "01-0413"
+    },
+    {
+        "answer": "Reason: To find the value of the digit 5 in the decimal number 169,156, we need to determine its place value. \n\nThe digit 5 is in the thousands place, which means its place value is 1/1000. \n\nAnswer: D. \\frac{5}{1000}",
+        "id": "01-0420"
+    },
+    {
+        "answer": "Reason: To find the number that has the same value as 0.08, we need to compare the digits after the decimal point. \n\nOption A: 0.800 - This number has an extra zero after the decimal point, so it is larger than 0.08.\n\nOption B: 8.00 - This number does not have a decimal point, so it is larger than 0.08.\n\nOption C: 0.80 - This number has one less zero after the decimal point, so it is smaller than 0.08.\n\nOption D: 0.080 - This number has the same digits after the decimal point as 0.08, so it is the correct answer.\n\nAnswer: D. 0.080",
+        "id": "01-0422"
+    },
+    {
+        "answer": "Reason: To solve this problem, we need to convert 11 tấn into kilograms and then add 2 kg to the result.\n\n1 tấn = 1000 kg\n\nSo, 11 tấn = 11 * 1000 kg = 11000 kg\n\nNow, we can add 2 kg to the result:\n\n11000 kg + 2 kg = 11002 kg\n\nTherefore, the correct answer is:\n\nAnswer: A. 11002 kg",
+        "id": "01-0423"
+    },
+    {
+        "answer": "Reason: Để giải bài toán này, ta cần chuyển đổi các đơn vị đo diện tích về cùng đơn vị trước khi thực hiện phép tính.\n\n9m^{2} 8dm^{2} = 9m^{2} + 8dm^{2}\n\nĐơn vị đo diện tích của 9m^{2} là m^{2}, còn đơn vị đo diện tích của 8dm^{2} là dm^{2}. Ta cần chuyển đổi đơn vị của 8dm^{2} về m^{2}.\n\n1m = 10dm\n\nVậy 1m^{2} = (10dm)^{2} = 100dm^{2}\n\nNên 8dm^{2} = 8dm^{2} * (1m^{2}/100dm^{2}) = 8/100m^{2} = 0.08m^{2}\n\nThay vào phép tính ban đầu:\n\n9m^{2} + 0.08m^{2} = 9.08m^{2}\n\nVậy số thích hợp điền vào chỗ chấm là 9.08.\n\nAnswer: C. 908",
+        "id": "01-0425"
+    },
+    {
+        "answer": "Reason: Để viết phân số thập phân \\frac{806}{100} thành số thập phân, ta chia tử số cho mẫu số. \n\n806 ÷ 100 = 8,06\n\nAnswer: D. 8,06",
+        "id": "01-0429"
+    },
+    {
+        "answer": "Reason: Để tìm số lớn nhất trong các số đã cho, ta cần so sánh từng chữ số của các số này từ trái sang phải. \n\n- So sánh chữ số hàng nghìn: 39,402 và 39,204 có chữ số hàng nghìn là 3, nên chưa thể kết luận được số nào lớn hơn.\n- So sánh chữ số hàng trăm: 39,402 có chữ số hàng trăm là 9, trong khi 39,204 có chữ số hàng trăm là 2. Vậy số 39,402 lớn hơn số 39,204.\n- So sánh chữ số hàng chục: 39,402 có chữ số hàng chục là 4, trong khi 39,204 cũng có chữ số hàng chục là 4. Vậy chữ số hàng chục không ảnh hưởng đến việc so sánh số lớn nhất.\n- So sánh chữ số hàng đơn vị: 39,402 có chữ số hàng đơn vị là 2, trong khi 39,204 có chữ số hàng đơn vị là 4. Vậy số 39,204 lớn hơn số 39,402.\n\nVậy số lớn nhất trong các số 39,402; 39,204; 40,392; 40,293 là 39,204.\n\nAnswer: B. 39,204",
+        "id": "01-0431"
+    },
+    {
+        "answer": "Reason: Để tính diện tích hình chữ nhật, ta sử dụng công thức: Diện tích = chiều dài x chiều rộng.\n\nVới chiều dài là 3m và chiều rộng là 2,5m, ta có:\nDiện tích = 3m x 2,5m = 7,5m^{2}\n\nAnswer: B. 7,5m^{2}",
+        "id": "01-0432"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ gram (g) sang kilogram (kg), ta phải chia số gram cho 1000 vì 1 kg = 1000 g.\n\nVậy, để chuyển đổi 30g thành kg, ta thực hiện phép chia 30 cho 1000.\n\n30 / 1000 = 0,03\n\nVậy, đáp án đúng là B. 0,03 kg.\n\nAnswer: B. 0,03 kg.",
+        "id": "01-0433"
+    },
+    {
+        "answer": "Giả sử 1 ha = 10,000 m^2.\n\nĐể chuyển đổi từ m^2 sang ha, ta chia số m^2 cho 10,000.\n\nVậy, 627 m^2 = 627/10,000 ha.\n\nSimplifying the fraction, we get: 627/10,000 = 0.0627.\n\nVậy, đáp án đúng là:\n\nReason: Chuyển đổi từ m^2 sang ha bằng cách chia cho 10,000.\nAnswer: B. 0,0627 ha.",
+        "id": "01-0434"
+    },
+    {
+        "answer": "Để tính diện tích hình tam giác, ta sử dụng công thức: Diện tích = (đáy * chiều cao) / 2.\n\nTrong trường hợp này, đáy của tam giác là 3m và chiều rộng là 24dm. Để tính diện tích, ta cần chuyển đơn vị chiều rộng từ dm sang m bằng cách chia cho 10.\n\nChiều rộng = 24dm = 24/10 = 2,4m.\n\nÁp dụng công thức diện tích tam giác, ta có:\nDiện tích = (3 * 2,4) / 2 = 7,2m^2.\n\nVậy đáp án đúng là:\nB. 7,2m^2.",
+        "id": "01-0435"
+    },
+    {
+        "answer": "Reason: Để sắp xếp các số từ bé đến lớn, ta chỉ cần so sánh các chữ số hàng đơn vị của các số. \n\n- Số 5,7 có chữ số hàng đơn vị là 7.\n- Số 6,02 có chữ số hàng đơn vị là 2.\n- Số 4,23 có chữ số hàng đơn vị là 3.\n- Số 4,32 có chữ số hàng đơn vị là 2.\n- Số 5,3 có chữ số hàng đơn vị là 3.\n\nVậy thứ tự từ bé đến lớn của các số là: 4,23; 4,32; 5,3; 5,7; 6,02.\n\nAnswer: D. 4,23; 4,32; 5,3; 5,7; 6,02.",
+        "id": "01-0437"
+    },
+    {
+        "answer": "Reason: To find the percentage ratio of 75 to 300, we divide 75 by 300 and then multiply by 100.\n\nStep 1: Divide 75 by 300: 75/300 = 0.25\n\nStep 2: Multiply the result by 100 to convert it to a percentage: 0.25 * 100 = 25\n\nTherefore, the correct answer is:\n\nAnswer: D. 25%",
+        "id": "01-0449"
+    },
+    {
+        "answer": "Reason: To determine the decimal fraction, we need to convert the given fraction into decimal form. \n\nTo do this, we divide the numerator by the denominator. \n\nFor option A, \\frac{27}{10}, the division would be 27 ÷ 10 = 2.7. \n\nFor option B, \\frac{27}{200}, the division would be 27 ÷ 200 = 0.135. \n\nFor option C, \\frac{35}{20}, the division would be 35 ÷ 20 = 1.75. \n\nFor option D, \\frac{27}{50}, the division would be 27 ÷ 50 = 0.54. \n\nThe decimal fraction is the result of the division. \n\nAnswer: Option A. \\frac{27}{10}",
+        "id": "01-0454"
+    },
+    {
+        "answer": "Giải thích: Để tính diện tích của 2 dam^2 và 49 m^2, ta cần chuyển đổi đơn vị đo từ dam^2 sang m^2. \n\n1 dam^2 = 100 m^2\n\nVậy 2 dam^2 = 2 * 100 m^2 = 200 m^2\n\nTổng diện tích là 200 m^2 + 49 m^2 = 249 m^2\n\nĐáp án: C. 249",
+        "id": "01-0456"
+    },
+    {
+        "answer": "Để viết \\frac{5}{10} dưới dạng số thập phân, ta thực hiện phép chia 5 cho 10.\n\n5 ÷ 10 = 0,5\n\nVậy, \\frac{5}{10} được viết dưới dạng số thập phân là 0,5.\n\nĐáp án: B. 0,5",
+        "id": "01-0461"
+    },
+    {
+        "answer": "Reason: Để tính diện tích của một hình vuông, ta nhân cạnh của nó với chính nó. Vì vậy, diện tích của căn phòng hình vuông có cạnh 30cm sẽ là 30cm * 30cm = 900cm^{2}.\n\nAnswer: A. 900cm^{2}",
+        "id": "01-0463"
+    },
+    {
+        "answer": "Reason: Phần nguyên của một số là phần số đó khi bỏ đi phần thập phân. Trong trường hợp này, phần nguyên của số 1942,54 là 1942.\n\nAnswer: D. 1924",
+        "id": "01-0464"
+    },
+    {
+        "answer": "Reason: To convert a mixed number to a decimal, we need to divide the numerator by the denominator and add the whole number part.\n\nIn this case, the mixed number is 3 and the fraction is 2/5.\n\nStep 1: Divide the numerator (2) by the denominator (5): 2 ÷ 5 = 0.4\n\nStep 2: Add the whole number part (3) to the result from step 1: 3 + 0.4 = 3.4\n\nTherefore, the decimal representation of the mixed number 3 2/5 is 3.4.\n\nAnswer: A. 3,400",
+        "id": "01-0471"
+    },
+    {
+        "answer": "Reason: To find out how much it would cost to buy 25 meters of fabric, we can set up a proportion using the given information. \n\nWe know that 5 meters of fabric cost 150,000 dong. Let's call the cost of 25 meters of fabric x dong. \n\nThe proportion can be set up as: \n\n5 meters / 150,000 dong = 25 meters / x dong\n\nTo solve for x, we can cross multiply: \n\n5 * x = 150,000 * 25\n\nx = (150,000 * 25) / 5\n\nx = 750,000 dong\n\nTherefore, the correct answer is:\n\nAnswer: A. 750000",
+        "id": "01-0472"
+    },
+    {
+        "answer": "Reason: To convert a decimal number to a mixed number, we need to separate the whole number part and the fractional part.\n\nStep 1: The whole number part is the integer part of the decimal number, which is 2.\n\nStep 2: The fractional part is the decimal part of the decimal number. In this case, it is 0.35.\n\nStep 3: To convert the fractional part to a fraction, we need to determine the denominator. The denominator is determined by the number of decimal places. In this case, there are 2 decimal places, so the denominator is 100.\n\nStep 4: To convert the decimal part to a fraction, we divide the decimal part by the denominator. In this case, 0.35 divided by 100 is 35/100.\n\nStep 5: Putting it all together, the mixed number form of 2.35 is 2 35/100.\n\nAnswer: B. 2 \\frac{35}{100}",
+        "id": "01-0474"
+    },
+    {
+        "answer": "Reason: To convert a mixed number to a decimal, we need to add the whole number part to the decimal part. \n\nIn this case, the whole number part is 3 and the decimal part is 9/100. To convert 9/100 to a decimal, we divide 9 by 100.\n\n9 ÷ 100 = 0.09\n\nNow we add the whole number part and the decimal part together:\n\n3 + 0.09 = 3.09\n\nTherefore, the decimal form of the mixed number 3 9/100 is 3.09.\n\nAnswer: B. 3,09",
+        "id": "01-0476"
+    },
+    {
+        "answer": "Để chuyển hỗn số thành phân số, ta nhân phần nguyên với mẫu số và cộng với phần tử số để được tử số. Sau đó, giữ nguyên mẫu số.\n\nTrong trường hợp này, hỗn số 3 \\frac{2}{5} có phần nguyên là 3, phần tử số là \\frac{2}{5}.\n\nĐể chuyển thành phân số, ta nhân phần nguyên 3 với mẫu số 5 và cộng với phần tử số \\frac{2}{5} để được tử số.\n\nTử số = 3 \\times 5 + \\frac{2}{5} = 15 + \\frac{2}{5} = \\frac{15}{1} + \\frac{2}{5} = \\frac{15 \\times 5}{1 \\times 5} + \\frac{2}{5} = \\frac{75}{5} + \\frac{2}{5} = \\frac{77}{5}\n\nVậy, hỗn số 3 \\frac{2}{5} chuyển thành phân số là \\frac{77}{5}.\n\nĐáp án: C. \\frac{11}{5}\n\nReason: Chuyển hỗn số thành phân số bằng cách nhân phần nguyên với mẫu số và cộng với phần tử số.",
+        "id": "01-0478"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ mét sang centimet, ta nhân số mét cho 100 vì 1 mét bằng 100 centimet.\n\nVậy để chuyển đổi 3,754 mét thành centimet, ta nhân 3,754 cho 100.\n\n3,754 x 100 = 375,4\n\nAnswer: B. 375,4",
+        "id": "01-0480"
+    },
+    {
+        "answer": "Reason: To determine the decimal numbers in descending order, we need to compare the whole numbers first. If the whole numbers are the same, we compare the decimal parts.\n\nLet's analyze each option:\n\nA. 8; 8,76; 8,093; 8,901\n- The whole numbers are all 8, so we need to compare the decimal parts.\n- The decimal parts are: 0,76; 0,093; 0,901\n- The largest decimal part is 0,901, followed by 0,76, and the smallest is 0,093.\n- Therefore, the correct order is: 8,901; 8,76; 8,093; 8.\n\nB. 5,494; 5,493; 5,392; 5,001\n- The whole numbers are all 5, so we need to compare the decimal parts.\n- The decimal parts are: 0,494; 0,493; 0,392; 0,001\n- The largest decimal part is 0,494, followed by 0,493, 0,392, and the smallest is 0,001.\n- Therefore, the correct order is: 5,494; 5,493; 5,392; 5,001.\n\nC. 6,732; 7; 7,009; 7,013\n- The whole numbers are 6 and 7, so we compare the whole numbers first.\n- The largest whole number is 7, followed by 6.\n- Since the whole numbers are different, we don't need to compare the decimal parts.\n- Therefore, the correct order is: 7,013; 7,009; 6,732; 7.\n\nD. 13; 12,47; 12,51; 12,001\n- The whole numbers are 13 and 12, so we compare the whole numbers first.\n- The largest whole number is 13, followed by 12.\n- Since the whole numbers are different, we don't need to compare the decimal parts.\n- Therefore, the correct order is: 13; 12,51; 12,47; 12,001.\n\nBased on the analysis, the correct option is:\nAnswer: C. 6,732; 7; 7,009; 7,013.",
+        "id": "01-0483"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ ha sang m², ta biết rằng 1 ha = 10 000 m². Vì vậy, để tính diện tích 8,3 ha thành m², ta nhân 8,3 với 10 000.\n\n8,3 x 10 000 = 83 000\n\nVậy, số thích hợp để điền vào chỗ chấm là 83 000.\n\nAnswer: C. 83 000",
+        "id": "01-0484"
+    },
+    {
+        "answer": "Reason: To write a mixed number as a decimal, we need to convert the fraction part to a decimal. \n\nStep 1: Convert the fraction \\frac{9}{100} to a decimal. To do this, divide the numerator (9) by the denominator (100):\n\\frac{9}{100} = 0.09\n\nStep 2: Add the whole number part (3) to the decimal part (0.09):\n3 + 0.09 = 3.09\n\nAnswer: B. 3,09",
+        "id": "01-0486"
+    },
+    {
+        "answer": "Reason: To find the area of a rectangle, we multiply the length by the width. In this case, the length is 24m and the width is 10m.\n\nArea = Length x Width\nArea = 24m x 10m\nArea = 240m^2\n\nAnswer: C. 240m^2",
+        "id": "01-0488"
+    },
+    {
+        "answer": "Reason: To convert a mixed number to a decimal, we need to divide the numerator by the denominator and add the whole number part.\n\nIn this case, the mixed number is 5 1/5. To convert it to a decimal, we divide 1 by 5 and add the whole number part, which is 5.\n\n1 divided by 5 is 0.2, so the decimal form of 5 1/5 is 5.2.\n\nAnswer: A. 5,2",
+        "id": "01-0490"
+    },
+    {
+        "answer": "Reason: To multiply a number by 100, we move the decimal point two places to the right. \n\nStep 1: Move the decimal point two places to the right in 45,4375: 4543,75\n\nAnswer: B. 4543,75",
+        "id": "01-0492"
+    },
+    {
+        "answer": "Reason: To convert from square meters to square decimeters, we need to multiply by 100. \n\n35 m^2 = 35 * 100 dm^2 = 3500 dm^2\n\nSo, the correct option is:\n\nAnswer: C. 356",
+        "id": "01-0493"
+    },
+    {
+        "answer": "Reason: Để tìm số lớn nhất trong các số 6,97; 7,99; 6,79; 7,9, ta chỉ cần so sánh các số này với nhau.\n\n- Số 6,97 là số nhỏ nhất trong các số đã cho.\n- Số 7,99 lớn hơn số 6,97.\n- Số 6,79 nhỏ hơn số 6,97.\n- Số 7,9 nhỏ hơn số 7,99.\n\nVậy số lớn nhất trong các số đã cho là 7,99.\n\nAnswer: B. 7,99",
+        "id": "01-0498"
+    },
+    {
+        "answer": "Reason: To convert a mixed number to a fraction, we need to multiply the whole number by the denominator of the fraction and add the numerator. The result becomes the new numerator, and the denominator remains the same.\n\nIn this case, we have the mixed number 4 3/5. To convert it to a fraction, we multiply 4 by 5 (the denominator of the fraction) and add 3. The result is 23.\n\nTherefore, the correct answer is:\n\nAnswer: A. \\frac{23}{5}",
+        "id": "01-0499"
+    },
+    {
+        "answer": "Reason: Để chuyển dấu phẩy sang bên phải một chữ số, ta cần nhân số thập phân ban đầu với 10. Khi đó, chữ số 3 sẽ được đẩy sang bên phải và thuộc vào hàng chục.\n\nAnswer: A. Hàng chục",
+        "id": "01-0500"
+    },
+    {
+        "answer": "Reason: To find the average (trung bình cộng) of a set of numbers, we add up all the numbers and then divide the sum by the total number of numbers.\n\nStep 1: Add up the numbers: 1 + 12 + 2.78 + 3 = 18.78\n\nStep 2: Divide the sum by the total number of numbers: 18.78 / 4 = 4.695\n\nAnswer: A. 3,93",
+        "id": "01-0502"
+    },
+    {
+        "answer": "Reason: To find the percentage ratio of 16 and 25, we need to divide 16 by 25 and then multiply the result by 100.\n\nStep 1: Divide 16 by 25: 16/25 = 0.64\n\nStep 2: Multiply the result by 100 to convert it to a percentage: 0.64 * 100 = 64\n\nTherefore, the correct answer is:\n\nAnswer: C. 64%",
+        "id": "01-0510"
+    },
+    {
+        "answer": "Reason: Để viết số phân số \\frac{1}{10} dưới dạng số thập phân, ta chia tử số cho mẫu số. Trong trường hợp này, \\frac{1}{10} = 0,1.\n\nAnswer: B. 0,1",
+        "id": "01-0513"
+    },
+    {
+        "answer": "Giả sử số gạo trong kho ban đầu là x kg.\n\nTrong 10 ngày đầu, nhà Minh dùng hết 1 yến gạo, tương đương với 1/10 số gạo ban đầu, còn lại là (1 - 1/10)x = 9/10x kg.\n\nTrong 10 ngày tiếp theo, nhà Minh dùng hết nửa số gạo còn lại, tương đương với 1/2 * (9/10x) = 9/20x kg.\n\nTrong 10 ngày cuối tháng, nhà Minh dùng hết số gạo trong kho và phải mua thêm 3 kg gạo nữa, tức là (9/20x + 3) kg.\n\nTổng số gạo nhà Minh dùng trong 30 ngày là 0,35 tạ = 0,35 * 100 kg = 35 kg.\n\nTa có phương trình: (9/10x) + (9/20x) + (9/20x + 3) = 35.\n\nGiải phương trình ta được x = 20.\n\nVậy số gạo trong kho ban đầu là 20 kg.\n\nTrong 10 ngày cuối tháng, nhà Minh dùng hết số gạo trong kho và phải mua thêm 3 kg gạo nữa, tức là 20 + 3 = 23 kg.\n\nĐáp án: D. 14 kg.",
+        "id": "01-0518"
+    },
+    {
+        "answer": "Gọi chiều dài ban đầu của hình hộp chữ nhật là x (dm), chiều rộng là y (dm) và chiều cao là z (dm).\n\nTheo đề bài, ta có:\nx = 2y (1)\n(x + 5)(y)(z) = 1,2xyz (2)\n\nGiải hệ phương trình (1) và (2), ta được:\n(2y + 5)(y)(z) = 1,2y(2y)(z)\n(2y + 5)(z) = 2,4y^2z\n2yz + 5z = 2,4y^2z\n5z = 2,4y^2z - 2yz\n5z = 0,4y^2z\n5 = 0,4y^2\ny^2 = 5/0,4\ny^2 = 12,5\ny = √12,5\ny ≈ 3,54\n\nGiờ ta sẽ tính thể tích ban đầu của hình hộp chữ nhật:\nV = x * y * z\nV = 2y * y * z\nV = 2y^2z\nV = 2 * (3,54)^2 * z\nV = 2 * 12,54 * z\nV = 25,08z\n\nGiờ ta sẽ tính thể tích mới của hình hộp chữ nhật sau khi tăng chiều rộng lên 5 dm, giảm chiều dài đi 5 dm và tăng chiều cao lên gấp đôi:\nV' = (x - 5) * (y + 5) * (2z)\nV' = (2y - 5) * (y + 5) * (2z)\nV' = (2(3,54) - 5) * (3,54 + 5) * (2z)\nV' = (7,08 - 5) * (8,54) * (2z)\nV' = 2,08 * 8,54 * 2z\nV' = 35,39z\n\nVậy thể tích mới của hình hộp chữ nhật tăng lên bao nhiêu lần?\nTăng lên: V' / V = 35,39z / 25,08z\nTăng lên: V' / V = 1,412\nVậy thể tích hình hộp chữ nhật tăng lên 1,412 lần.\n\nĐáp án: A. 1,412 lần.",
+        "id": "01-0519"
+    },
+    {
+        "answer": "Reason: Để tính tỉ số diện tích 2 tam giác BDF và AEF, ta cần biết diện tích của cả hai tam giác.\n\nĐầu tiên, ta cần tính diện tích tam giác BDF. Để tính diện tích tam giác, ta có thể sử dụng công thức diện tích tam giác bằng một nửa tích chiều cao và đáy của tam giác.\n\nChiều cao của tam giác BDF là đoạn thẳng từ đỉnh B đến đường thẳng DF. Ta có thể thấy rằng đường thẳng DF song song với đường thẳng AE, do đó chiều cao của tam giác BDF cũng là chiều cao của tam giác AEF.\n\nVậy, chiều cao của tam giác BDF cũng là chiều cao của tam giác AEF, và ta có thể tính được chiều cao này bằng cách tính khoảng cách từ đỉnh B đến đường thẳng AE.\n\nTiếp theo, ta cần tính đáy của tam giác BDF. Đáy của tam giác BDF là đoạn thẳng DF.\n\nĐể tính diện tích tam giác AEF, ta cũng cần tính chiều cao và đáy của tam giác này. Tuy nhiên, ta đã tính được chiều cao của tam giác AEF từ bước trước.\n\nĐáy của tam giác AEF là đoạn thẳng AE.\n\nSau khi tính được diện tích của cả hai tam giác, ta có thể tính tỉ số diện tích bằng cách chia diện tích tam giác BDF cho diện tích tam giác AEF.\n\nAnswer: A. 2",
+        "id": "01-0525"
+    },
+    {
+        "answer": "Reason: \n- Ta có công thức: Số công nhân x Thời gian làm việc = Số công việc hoàn thành.\n- Từ câu đề bài, ta có: 10 công nhân x 30 ngày = 20 công nhân x thời gian cần tìm.\n- Ta muốn tìm thời gian cần tìm, nên ta chia cả hai vế của phương trình trên cho 20 công nhân.\n- Kết quả là: 30 ngày x 10 công nhân / 20 công nhân = 15 ngày.\n\nAnswer: D. 15 ngày.",
+        "id": "01-0529"
+    },
+    {
+        "answer": "Để tính thể tích của hình lập phương, ta cần biết diện tích toàn phần của hình lập phương đó. \n\nDiện tích toàn phần của một hình lập phương được tính bằng công thức: S = 6a^2, trong đó a là cạnh của hình lập phương.\n\nTheo đề bài, diện tích toàn phần của hình lập phương là 486 dm^2. Ta có phương trình: 6a^2 = 486.\n\nĐể giải phương trình này, ta chia cả hai vế cho 6: a^2 = 81.\n\nLấy căn bậc hai của cả hai vế, ta được: a = 9.\n\nVậy cạnh của hình lập phương là 9 dm.\n\nThể tích của hình lập phương được tính bằng công thức: V = a^3.\n\nThay a = 9 vào công thức, ta có: V = 9^3 = 729 dm^3.\n\nVậy thể tích của hình lập phương là 729 dm^3.\n\nAnswer: D. 729 dm^{3}",
+        "id": "01-0536"
+    },
+    {
+        "answer": "Reason: To subtract decimal numbers, we align the decimal points and subtract each place value from right to left.\n\nFirst, let's align the decimal points:\n   712.54\n-   48.90\n\nNext, subtract the numbers in each place value:\n   712.54\n-   48.90\n_________\n   663.64\n\nTherefore, the correct answer is:\n\nAnswer: C. 663,64",
+        "id": "01-0538"
+    },
+    {
+        "answer": "Reason: To convert from square meters to hectares, we divide the number of square meters by 10,000. \n\nIn this case, we have 55 hectares and 17 square meters. To convert the square meters to hectares, we divide 17 by 10,000.\n\n17 / 10,000 = 0.0017\n\nSo, the correct answer is:\n\nAnswer: B. 55,0017",
+        "id": "01-0540"
+    },
+    {
+        "answer": "Giải thích: Để nhân hai số học phân số, ta nhân các phần tử với nhau và nhân các mũ với nhau. \n\nTrong trường hợp này, chúng ta có:\n3m^{3} \\times 5dm^{3}\n\nĐầu tiên, nhân các phần tử với nhau:\n3 \\times 5 = 15\nm^{3} \\times dm^{3} = m^{3+1} = m^{4}\n\nVậy kết quả là 15dm^{4}.\n\nĐáp án: B. 3005",
+        "id": "01-0545"
+    },
+    {
+        "answer": "Reason: To convert 1 phút 15 giây to minutes, we need to divide the number of seconds by 60. \n\n1 phút = 60 giây\n\nSo, 1 phút 15 giây = 1 + 15/60 = 1 + 0.25 = 1.25 phút\n\nAnswer: B. 1,25 phút",
+        "id": "01-0551"
+    },
+    {
+        "answer": "Reason: Để tính diện tích hình thang, ta sử dụng công thức: Diện tích = (đáy nhỏ + đáy lớn) * chiều cao / 2.\n\nTrong trường hợp này, đáy nhỏ là 5cm, đáy lớn cũng là 5cm và chiều cao là 3,2cm.\n\nÁp dụng công thức, ta có: Diện tích = (5 + 5) * 3,2 / 2 = 10 * 3,2 / 2 = 16cm^2.\n\nAnswer: C. 16 cm^{2}.",
+        "id": "01-0552"
+    },
+    {
+        "answer": "Reason: Để tính diện tích hình tròn, ta sử dụng công thức: Diện tích = π * bán kính^2. Trong đó, π (pi) là một hằng số xấp xỉ bằng 3,14 và bán kính là một nửa đường kính.\n\nTrong trường hợp này, đường kính là 2 cm, vậy bán kính sẽ là 2/2 = 1 cm.\n\nÁp dụng công thức, ta có: Diện tích = 3,14 * 1^2 = 3,14 cm^2.\n\nAnswer: A. 3,14 cm^{2}",
+        "id": "01-0554"
+    },
+    {
+        "answer": "Reason: To write a fraction as a decimal, we divide the numerator by the denominator. In this case, we divide 32 by 100.\n\n32 ÷ 100 = 0.32\n\nAnswer: C. 0,32",
+        "id": "01-0555"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ mét khối (m³) sang decimét khối (dm³), ta cần nhân với 1000 vì 1 mét khối bằng 1000 decimét khối.\n\nVậy, để chuyển đổi 2 mét khối (2m³) sang decimét khối (dm³), ta nhân 2 với 1000.\n\n2m³ = 2 * 1000 dm³ = 2000 dm³\n\nAnswer: C. 2000",
+        "id": "01-0556"
+    },
+    {
+        "answer": "Reason: To write the given decimal number, we need to place the digits in their respective places. \n\nThe given decimal number has 18 units, 8 tenths, and 6 thousandths. \n\nSo, the correct way to write the decimal number is: 18.0086\n\nAmong the given options, the closest option to 18.0086 is option C. \n\nAnswer: C. 18,086",
+        "id": "01-0561"
+    },
+    {
+        "answer": "Reason: To solve this problem, we need to convert the given measurements to the same unit before performing any calculations.\n\nFirst, we need to convert 4m^3 to dm^3. Since 1m^3 = 1000dm^3, we have:\n4m^3 = 4 * 1000dm^3 = 4000dm^3\n\nNow, we can add the two measurements together:\n4000dm^3 + 21dm^3 = 4021dm^3\n\nFinally, we need to convert the result back to m^3. Since 1dm^3 = 0.001m^3, we have:\n4021dm^3 = 4021 * 0.001m^3 = 4.021m^3\n\nTherefore, the correct answer is:\nAnswer: B. 4,021 m^3",
+        "id": "01-0569"
+    },
+    {
+        "answer": "Reason: To convert a decimal number to a percentage, we multiply it by 100. \n\n0.45 * 100 = 45\n\nSo, the correct option is:\n\nAnswer: A. 45%",
+        "id": "01-0572"
+    },
+    {
+        "answer": "Reason: To find the ratio of the number of female students to the total number of students in the class, we need to divide the number of female students by the total number of students and then multiply by 100 to get the percentage.\n\nNumber of female students = 12\nTotal number of students = 30\n\nRatio = (Number of female students / Total number of students) * 100\n\nRatio = (12 / 30) * 100\n\nRatio = 0.4 * 100\n\nRatio = 40%\n\nAnswer: B. 40%",
+        "id": "01-0574"
+    },
+    {
+        "answer": "Để tính diện tích của thửa ruộng hình thang, ta sử dụng công thức: Diện tích = (đáy nhỏ + đáy lớn) * chiều cao / 2.\n\nTrong trường hợp này, đáy nhỏ là 15m, đáy lớn là 20m và chiều cao là 10m.\n\nÁp dụng công thức, ta có: Diện tích = (15 + 20) * 10 / 2 = 35 * 10 / 2 = 350 m^2.\n\nVậy, diện tích của thửa ruộng hình thang là 350 m^2.\n\nAnswer: A. 350 m^{2}",
+        "id": "01-0575"
+    },
+    {
+        "answer": "Giả sử vận tốc của xe máy là V km/giờ.\n\nQuãng đường đi được (D) = V x thời gian (T)\n\nTrong trường hợp này, quãng đường là 90 km và thời gian là 2 giờ 30 phút, hay 2.5 giờ.\n\nVậy, ta có phương trình: 90 = V x 2.5\n\nĐể tìm vận tốc của xe máy, ta cần giải phương trình trên.\n\n90 = V x 2.5\nV = 90 / 2.5\nV = 36\n\nVậy, vận tốc của xe máy là 36 km/giờ.\n\nReason: Ta sử dụng công thức quãng đường = vận tốc x thời gian để giải quyết bài toán. Sau khi thay các giá trị vào công thức, ta giải phương trình để tìm ra vận tốc của xe máy.\n\nAnswer: A. 36 km/giờ",
+        "id": "01-0576"
+    },
+    {
+        "answer": "Reason: Để tìm số thích hợp điền vào chỗ chấm, ta cần cộng số 17 tấn 16 kg với một số nào đó để được kết quả là một số kg.\n\n17 tấn 16 kg = 17 000 kg + 16 kg = 17 016 kg\n\nVậy, số thích hợp điền vào chỗ chấm là 17 016.\n\nAnswer: C. 17 016",
+        "id": "01-0578"
+    },
+    {
+        "answer": "Reason: Chữ số 5 trong số thập phân 37,085 đứng ở vị trí hàng trăm nghìn. Vị trí này tương ứng với giá trị 5 x 100,000 = 500,000. \n\nAnswer: A. \\frac{5}{10}",
+        "id": "01-0585"
+    },
+    {
+        "answer": "Reason: To subtract decimal numbers, we align the decimal points and subtract each place value from right to left. \n\n87,63\n- 25,18\n--------\n 62,45\n\nAnswer: B. 62,45",
+        "id": "01-0589"
+    },
+    {
+        "answer": "Reason: To multiply a decimal number by a whole number, we multiply the decimal number by the whole number as if they were both whole numbers, and then move the decimal point to the left by the same number of places as the number of decimal places in the decimal number.\n\nIn this case, we have 0.425 multiplied by 4. \n\nStep 1: Multiply 425 by 4 as if they were both whole numbers:\n425 x 4 = 1700\n\nStep 2: Move the decimal point to the left by the same number of places as the number of decimal places in the decimal number, which is 3 places:\n1700 becomes 1.700\n\nAnswer: C. 1,7",
+        "id": "01-0590"
+    },
+    {
+        "answer": "Reason: To divide 4.8 by 4, we can use long division method. \n\nStep 1: Divide 4 by 4. The result is 1.\n\nStep 2: Bring down the decimal point and divide 8 by 4. The result is 2.\n\nTherefore, the result of the division 4.8 ÷ 4 is 1.2.\n\nAnswer: A. 1,2",
+        "id": "01-0591"
+    },
+    {
+        "answer": "Reason: To find the value of the digit 8 in the decimal number 76.815, we need to determine its place value. \n\nThe digit 8 is in the hundredths place, which means its value is 8/100. \n\nAnswer: A. \\frac{8}{100}",
+        "id": "01-0595"
+    },
+    {
+        "answer": "Reason: \nLet's assume the length of the rectangle is L and the width is W.\n\nWe are given that the perimeter (nửa chu vi) of the rectangle is 180m. The formula for the perimeter of a rectangle is P = 2L + 2W.\n\nSo, we can write the equation as:\n180 = 2L + 2W\n\nWe are also given that the length is 20m longer than the width. So, we can write another equation as:\nL = W + 20\n\nNow, we can substitute the value of L from the second equation into the first equation:\n180 = 2(W + 20) + 2W\n\nSimplifying the equation:\n180 = 2W + 40 + 2W\n180 = 4W + 40\n4W = 180 - 40\n4W = 140\nW = 140/4\nW = 35\n\nNow, we can substitute the value of W into the second equation to find the value of L:\nL = 35 + 20\nL = 55\n\nThe area of a rectangle is given by the formula A = L * W. So, we can calculate the area using the values of L and W:\nA = 55 * 35\nA = 1925\n\nTherefore, the correct answer is:\nAnswer: C. 3600m^{2}",
+        "id": "01-0597"
+    },
+    {
+        "answer": "Để chuyển hỗn số thành phân số, ta nhân phần nguyên với mẫu số và cộng với phần tử số để được tổng cộng của phân số.\n\nTrong trường hợp này, hỗn số 3 \\frac{2}{5} có phần nguyên là 3, phần tử số là \\frac{2}{5}.\n\nĐể chuyển hỗn số này thành phân số, ta nhân phần nguyên 3 với mẫu số 5 và cộng với phần tử số \\frac{2}{5}.\n\n3 \\times 5 + \\frac{2}{5} = \\frac{15}{5} + \\frac{2}{5} = \\frac{17}{5}\n\nVậy, hỗn số 3 \\frac{2}{5} được chuyển thành phân số \\frac{17}{5}.\n\nReason: Để chuyển hỗn số thành phân số, ta nhân phần nguyên với mẫu số và cộng với phần tử số.",
+        "id": "01-0598"
+    },
+    {
+        "answer": "Reason: To find the ratio of the percentage of female students to the total number of students in class 5A, we need to divide the number of female students by the total number of students and then multiply by 100 to convert it to a percentage.\n\nStep 1: Calculate the percentage of female students:\nPercentage of female students = (Number of female students / Total number of students) * 100\n\nStep 2: Substitute the given values into the formula:\nPercentage of female students = (30 / 40) * 100\n\nStep 3: Simplify the expression:\nPercentage of female students = (3/4) * 100\n\nStep 4: Calculate the final answer:\nPercentage of female students = 75%\n\nAnswer: C. 75%",
+        "id": "01-0604"
+    },
+    {
+        "answer": "Reason: Để nhân số 0,75 để được 7,5, ta cần tìm số nào khi nhân với 0,75 sẽ cho kết quả là 7,5. Ta có thể sử dụng phép chia để tìm số này.\n\n0,75 / x = 7,5\n\nĐể tìm x, ta chia cả hai vế của phương trình cho 0,75:\n\n(0,75 / x) / 0,75 = 7,5 / 0,75\n\nSimplifying the equation, we get:\n\n1 / x = 10\n\nĐể tìm x, ta lấy nghịch đảo của cả hai vế của phương trình:\n\nx = 1 / 10\n\nVậy, số cần nhân với 0,75 để được 7,5 là 0,1.\n\nAnswer: D. 0,1",
+        "id": "01-0605"
+    },
+    {
+        "answer": "Reason: To solve this problem, we need to count the number of triangles in the given figure. \n\nLet's count the triangles step by step:\n\n1. Count the triangles in the first row: There are 3 triangles in the first row.\n\n2. Count the triangles in the second row: There are 4 triangles in the second row.\n\n3. Count the triangles in the third row: There are 5 triangles in the third row.\n\n4. Count the triangles in the fourth row: There are 4 triangles in the fourth row.\n\n5. Count the triangles in the fifth row: There are 3 triangles in the fifth row.\n\nNow, let's add up the number of triangles in each row: 3 + 4 + 5 + 4 + 3 = 19\n\nTherefore, the correct answer is:\n\nAnswer: B. 13 hình tam giác",
+        "id": "01-0607"
+    },
+    {
+        "answer": "Reason: To find the average (trung bình cộng) of a set of numbers, we add up all the numbers and then divide the sum by the total number of numbers.\n\nStep 1: Add up the numbers: 1 + 12 + 2.78 + 3 = 18.78\n\nStep 2: Divide the sum by the total number of numbers: 18.78 / 4 = 4.695\n\nAnswer: A. 3,93",
+        "id": "01-0609"
+    },
+    {
+        "answer": "Giả sử m là số mét và cm là số centimet, ta có:\n\n2m^2 + 3cm^2 = 2m^2 + 3 * (0.01m)^2 (vì 1m = 100cm)\n\n= 2m^2 + 3 * 0.0001m^2\n\n= 2m^2 + 0.0003m^2\n\n= 2.0003m^2\n\nVậy, 2m^2 + 3cm^2 = 2.0003m^2\n\nĐáp án: D. 20,003",
+        "id": "01-0611"
+    },
+    {
+        "answer": "Reason: Để chuyển phân số thập phân \\frac{3}{8} thành số thập phân, ta thực hiện phép chia 3 cho 8. \n\n3 ÷ 8 = 0,375\n\nVậy, phân số thập phân \\frac{3}{8} được viết dưới dạng số thập phân là 0,375.\n\nAnswer: A. 0,375",
+        "id": "01-0614"
+    },
+    {
+        "answer": "Reason: To find the percentage ratio of two numbers, we divide the first number by the second number and multiply by 100.\n\nIn this case, the first number is 16 and the second number is 50.\n\nPercentage ratio = (16/50) * 100 = 0.32 * 100 = 32\n\nTherefore, the correct answer is:\n\nAnswer: C. 32%",
+        "id": "01-0616"
+    },
+    {
+        "answer": "Để tính diện tích hình tam giác, ta sử dụng công thức: Diện tích = (đáy * chiều cao) / 2.\n\nTrong trường hợp này, đáy của tam giác là 25,5cm và chiều cao là 12cm. Áp dụng công thức, ta có:\n\nDiện tích = (25,5 * 12) / 2 = 306cm^{2}\n\nVậy đáp án đúng là A. 306cm^{2}.\n\nReason: Để tính diện tích hình tam giác, ta sử dụng công thức: Diện tích = (đáy * chiều cao) / 2. Áp dụng công thức này với đáy là 25,5cm và chiều cao là 12cm, ta tính được diện tích là 306cm^{2}.",
+        "id": "01-0617"
+    },
+    {
+        "answer": "Reason: To find the value of the digit 7 in the decimal number 65,473, we need to determine its place value. \n\nThe digit 7 is in the thousands place, which means its place value is 7,000. \n\nAnswer: C. 7",
+        "id": "01-0622"
+    },
+    {
+        "answer": "Để viết số phân số 6/100 dưới dạng số thập phân, ta chia tử số 6 cho mẫu số 100. \n\n6 ÷ 100 = 0.06\n\nVậy số 34 6/100 viết dưới dạng số thập phân là 34.06.\n\nĐáp án: B. 34,06",
+        "id": "01-0625"
+    },
+    {
+        "answer": "Reason: Để tìm số lớn nhất trong các số đã cho, ta so sánh từng cặp số với nhau.\n\nSo sánh 9,925 và 9,259: 9,925 lớn hơn 9,259.\n\nSo sánh 9,925 và 9,952: 9,952 lớn hơn 9,925.\n\nSo sánh 9,952 và 9,95: 9,952 lớn hơn 9,95.\n\nVậy số lớn nhất trong các số đã cho là 9,952.\n\nAnswer: C. 9,952",
+        "id": "01-0626"
+    },
+    {
+        "answer": "Reason: Để tìm số bé nhất trong các số trên, ta chỉ cần so sánh các chữ số từ trái sang phải. \n\n- So sánh chữ số hàng đơn vị: 9, 7, 8, 7. Số bé nhất là 7.\n- So sánh chữ số hàng chục: 2, 5, 5, 4. Số bé nhất là 2.\n\nVậy số bé nhất trong các số trên là 7,25.\n\nAnswer: A. 9,25",
+        "id": "01-0630"
+    },
+    {
+        "answer": "Reason: To find the area of a rectangle, we multiply the length by the width. In this case, the length is 31m and the width is 24m. \n\nArea = length x width\nArea = 31m x 24m\nArea = 744m^2\n\nAnswer: A. 744m^{2}",
+        "id": "01-0631"
+    },
+    {
+        "answer": "Reason: Để viết số thập phân có một phần nghìn, ta cần đặt chấm phẩy sau số 0 và sau đó viết số 001. \n\nAnswer: B. 0,01",
+        "id": "01-0637"
+    },
+    {
+        "answer": "Reason: To solve this expression, we need to follow the order of operations, which is parentheses, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nStep 1: Multiply 87.5 by 10: 87.5 x 10 = 875\n\nStep 2: Divide the result by 0.1: 875 : 0.1 = 8750\n\nAnswer: C. 8750",
+        "id": "01-0640"
+    },
+    {
+        "answer": "Để giải bài toán này, ta sẽ thực hiện phép chia giữa hai phân số.\n\n\\frac{6}{5} : \\frac{4}{3} = \\frac{6}{5} \\times \\frac{3}{4}\n\nĐể nhân hai phân số, ta nhân tử của phân số thứ nhất với tử của phân số thứ hai và mẫu của phân số thứ nhất với mẫu của phân số thứ hai.\n\n= \\frac{6 \\times 3}{5 \\times 4}\n\n= \\frac{18}{20}\n\nVậy kết quả của phép tính là \\frac{18}{20}.\n\nĐáp án: A. \\frac{18}{20}",
+        "id": "01-0642"
+    },
+    {
+        "answer": "Reason: To write the decimal \"một đơn vị, ba phần nghìn\" in standard form, we need to convert the fraction \"ba phần nghìn\" to decimal form. \n\nOne part is equal to 1/10, so three parts would be 3/10. \n\nTherefore, \"ba phần nghìn\" is equal to 3/10 * 1/1000 = 3/10000. \n\nAdding this to \"một đơn vị\" (which is equal to 1), we get 1 + 3/10000 = 1 + 0.0003 = 1.0003. \n\nSo the correct option is:\n\nAnswer: D. 1,003",
+        "id": "01-0643"
+    },
+    {
+        "answer": "Reason: Để tìm số có cùng giá trị với 0,08, ta cần xác định vị trí của chữ số thập phân trong số 0,08. Chữ số thập phân nằm sau dấu phẩy, nên ta cần tìm số có cùng giá trị với 0,08 ở vị trí này.\n\nVì số 0,08 có chữ số thập phân nằm ở vị trí thứ hai sau dấu phẩy, nên ta cần tìm số có chữ số thập phân nằm ở vị trí thứ hai sau dấu phẩy.\n\nTrong các lựa chọn, chỉ có số 0,080 có chữ số thập phân nằm ở vị trí thứ hai sau dấu phẩy.\n\nAnswer: B. 0,080",
+        "id": "01-0644"
+    },
+    {
+        "answer": "Reason: To find the largest number among the given options, we need to compare the numbers after the decimal point first. \n\n- The number 4,23 has 2 digits after the decimal point.\n- The number 4,32 has 2 digits after the decimal point.\n- The number 4,4 has 1 digit after the decimal point.\n- The number 4,321 has 3 digits after the decimal point.\n\nSince 4,321 has the highest number of digits after the decimal point, it is the largest number among the given options.\n\nAnswer: B. 4,321",
+        "id": "01-0645"
+    },
+    {
+        "answer": "Reason: Để tính tỉ số phần trăm các trận thắng, ta cần chia số trận thắng cho tổng số trận đấu và nhân với 100.\n\nSố trận thắng của đội bóng là 19 trận.\nTổng số trận đấu là 20 trận.\n\nTỉ số phần trăm các trận thắng của đội bóng là (19/20) * 100 = 95%.\n\nAnswer: B. 95%",
+        "id": "01-0649"
+    },
+    {
+        "answer": "Giảm 20% tức là giá sách chỉ còn 80% so với giá gốc. Ta có thể sử dụng công thức tính phần trăm để tìm giá gốc của quyển sách:\n\nGiá gốc = Giá sau giảm / (1 - Phần trăm giảm)\nGiá gốc = 7200 / (1 - 20/100)\nGiá gốc = 7200 / (1 - 0.2)\nGiá gốc = 7200 / 0.8\nGiá gốc = 9000\n\nVậy, trước khi giảm, giá quyển sách đó là 9000 đồng.\n\nReason: Ta sử dụng công thức tính phần trăm để tìm giá gốc của quyển sách. Giá gốc được tính bằng cách chia giá sau giảm cho (1 - phần trăm giảm). Trong trường hợp này, giá sau giảm là 7200 đồng và phần trăm giảm là 20%.",
+        "id": "01-0650"
+    },
+    {
+        "answer": "Reason: The given number \"hai trăm ba mươi mốt\" translates to \"two hundred thirty-one\" in English. To write this number in digits, we can break it down as follows:\n- \"hai trăm\" means \"two hundred\" which is represented by the digits 2 and 0.\n- \"ba mươi\" means \"thirty\" which is represented by the digits 3 and 0.\n- \"mốt\" means \"one\" which is represented by the digit 1.\n\nPutting all the digits together, we get the number 231.\n\nAnswer: B. 231",
+        "id": "01-0652"
+    },
+    {
+        "answer": "Reason: To add decimal numbers, we align the decimal points and add the digits in each column, starting from the rightmost column. \n\n34,46\n+ 35,55\n--------\n69,01\n\nAnswer: C. 69,01",
+        "id": "01-0653"
+    },
+    {
+        "answer": "Reason: Để tính tổng số giờ từ 6 ngày 13 giờ, ta cần biết rằng mỗi ngày có 24 giờ. Vì vậy, ta có thể tính tổng số giờ bằng cách nhân số ngày với 24 và cộng thêm số giờ.\n\n6 ngày = 6 x 24 = 144 giờ\n\nVậy, số giờ từ 6 ngày 13 giờ là 144 giờ.\n\nAnswer: C. 144 giờ",
+        "id": "01-0661"
+    },
+    {
+        "answer": "Reason: To subtract decimal numbers, we align the decimal points and subtract each digit from right to left. \n\nIn this case, we have:\n\n   712.54\n- 112.54\n---------\n   600.00\n\nSo the correct answer is:\n\nAnswer: C. 600",
+        "id": "01-0663"
+    },
+    {
+        "answer": "Giả sử quãng đường từ nhà Luân đến trường là x km.\n\nVận tốc của Luân là 4 km/giờ và thời gian đi là 30 phút = 0.5 giờ.\n\nTheo công thức vận tốc = quãng đường / thời gian, ta có:\n\n4 km/giờ = x km / 0.5 giờ\n\nĐể tìm x, ta nhân cả hai vế của phương trình với 0.5:\n\n0.5 * 4 km/giờ = x km\n\n2 km = x km\n\nVậy, quãng đường từ nhà Luân đến trường là 2 km.\n\nReason: Ta sử dụng công thức vận tốc = quãng đường / thời gian để tìm quãng đường từ nhà Luân đến trường. Sau khi thay các giá trị đã biết vào công thức, ta nhân cả hai vế của phương trình với thời gian để tìm quãng đường.",
+        "id": "01-0667"
+    },
+    {
+        "answer": "Để giải bài toán này, ta cần tuân theo quy tắc ưu tiên trong phép tính. Trong phép tính này, ta cần tính toán các phép chia và nhân trước khi thực hiện phép trừ.\n\nĐầu tiên, ta tính phép chia: 100 ÷ 2,5 = 40.\n\nTiếp theo, ta tính phép nhân: 40 × 0,9 = 36.\n\nCuối cùng, ta thực hiện phép trừ: 136,5 - 36 = 100,5.\n\nVậy, giá trị của biểu thức là 100,5.\n\nReason: Ta tính phép chia trước, sau đó tính phép nhân, và cuối cùng thực hiện phép trừ theo quy tắc ưu tiên trong phép tính.\n\nAnswer: A. 100,5",
+        "id": "01-0670"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ mét vuông sang hecta, ta chia số mét vuông cho 10.000 (vì 1 ha = 10.000 m²).\n\nVậy, 55 ha 17 m² = (55 + 17/10.000) ha.\n\nTa có:\n55 + 17/10.000 = 55 + 0,0017 = 55,0017.\n\nAnswer: A. 55,0017.",
+        "id": "01-0672"
+    },
+    {
+        "answer": "Reason: Chữ số 8 trong số thập phân 95,284 đứng ở vị trí hàng trăm nghìn. Vị trí hàng trăm nghìn tương ứng với giá trị là 8 x 100,000 = 800,000. \n\nAnswer: D. 8",
+        "id": "01-0678"
+    },
+    {
+        "answer": "Reason: The given decimal number is \"Mười hai phẩy không năm\", which translates to \"Twelve point zero five\" in English. To write this decimal number in standard form, we place the digits 12 before the decimal point and the digits 05 after the decimal point. Therefore, the correct option is:\n\nAnswer: B. 12,05",
+        "id": "01-0683"
+    },
+    {
+        "answer": "Reason: Chữ số 9 trong số thập phân 0,09 đứng sau dấu phẩy và nằm ở vị trí hàng thập phân. Vị trí hàng thập phân là vị trí thứ nhất bên phải của dấu phẩy. \n\nVì vậy, giá trị của chữ số 9 trong số thập phân 0,09 là \\frac{9}{10}.\n\nAnswer: B. \\frac{9}{10}",
+        "id": "01-0687"
+    },
+    {
+        "answer": "Reason: To convert a mixed number to a decimal, we need to add the whole number part to the decimal part. \n\nIn this case, the whole number part is 68 and the decimal part is 7/100. To convert 7/100 to a decimal, we divide 7 by 100.\n\n7 ÷ 100 = 0.07\n\nNow we add the whole number part and the decimal part together:\n\n68 + 0.07 = 68.07\n\nTherefore, the mixed number 68 7/100 in decimal form is 68.07.\n\nAnswer: A. 68.07",
+        "id": "01-0690"
+    },
+    {
+        "answer": "Reason: Để tìm số thập phân nhỏ nhất trong các số đã cho, ta cần xem xét chữ số thập phân từ trái sang phải. \n\n- Số 50,798 có chữ số thập phân là 8.\n- Số 50,789 có chữ số thập phân là 9.\n- Số 50,987 có chữ số thập phân là 7.\n- Số 50,879 có chữ số thập phân là 9.\n\nVậy số thập phân nhỏ nhất trong các số đã cho là 50,789.\n\nAnswer: B. 50,789",
+        "id": "01-0691"
+    },
+    {
+        "answer": "Giả sử số bạn thích chơi cầu lông trong lớp 5A1 là x.\n\nTheo đề bài, số bạn trong lớp 5A1 là 40 và số bạn thích chơi cầu lông là 24. Ta có phương trình:\n\nx = 24\n\nĐể tính phần trăm số bạn thích chơi cầu lông trong lớp 5A1, ta sử dụng công thức:\n\nPhần trăm = (số bạn thích chơi cầu lông / tổng số bạn) * 100%\n\nPhần trăm = (24 / 40) * 100%\n\nPhần trăm = 0.6 * 100%\n\nPhần trăm = 60%\n\nVậy số bạn thích chơi cầu lông chiếm 60% số bạn của lớp 5A1.\n\nAnswer: B. 60%\nReason: Ta tính được số bạn thích chơi cầu lông chiếm 60% số bạn của lớp 5A1 bằng cách chia số bạn thích chơi cầu lông cho tổng số bạn và nhân với 100%.",
+        "id": "01-0694"
+    },
+    {
+        "answer": "Reason: To multiply a number by 10, we simply move the decimal point one place to the right. \n\nIn this case, we have 4.51 multiplied by 10. Moving the decimal point one place to the right, we get 45.1.\n\nAnswer: C. 45,1",
+        "id": "01-0698"
+    },
+    {
+        "answer": "Giả sử tỉ số phần trăm của số học sinh xuất sắc và học sinh cả lớp là x%.\n\nSố học sinh xuất sắc là 12, số học sinh cả lớp là 32.\n\nTheo định nghĩa, tỉ số phần trăm của số học sinh xuất sắc và học sinh cả lớp được tính bằng công thức:\n\nx% = (số học sinh xuất sắc / số học sinh cả lớp) * 100\n\nThay vào giá trị đã biết:\n\nx% = (12 / 32) * 100\n\nx% = 0,375 * 100\n\nx% = 37,5\n\nVậy, tỉ số phần trăm của số học sinh xuất sắc và học sinh cả lớp là 37,5%.\n\nAnswer: B. 37,5%\nReason: Tỉ số phần trăm được tính bằng công thức (số học sinh xuất sắc / số học sinh cả lớp) * 100. Thay vào giá trị đã biết, ta tính được tỉ số phần trăm là 37,5%.",
+        "id": "01-0703"
+    },
+    {
+        "answer": "Reason: Để chuyển đổi từ kg sang tấn, ta chia số kg cho 1000 vì 1 tấn bằng 1000 kg. Vì vậy, để chuyển đổi 4 tấn 562 kg thành tấn, ta thực hiện phép tính sau:\n\n4 tấn 562 kg = 4 + 562/1000 = 4 + 0,562 = 4,562\n\nAnswer: B. 4,562",
+        "id": "01-0715"
+    },
+    {
+        "answer": "Giả sử X là kết quả của biểu thức X \\div 2,04 = 7,5 \\div 5.\n\nĐể tìm giá trị của X, ta sẽ giải phương trình trên:\n\nX \\div 2,04 = 7,5 \\div 5\n\nĐể loại bỏ dấu chia, ta nhân cả hai vế của phương trình với 2,04:\n\nX = (7,5 \\div 5) \\times 2,04\n\nTiến hành tính toán:\n\nX = (1,5) \\times 2,04\n\nX = 3,06\n\nVậy kết quả của X là 3,06.\n\nReason: Để tìm giá trị của X, ta nhân cả hai vế của phương trình với 2,04. Sau đó, ta tính toán giá trị của biểu thức 7,5 \\div 5 và nhân với 2,04 để tìm giá trị của X. Sau khi tính toán, ta được kết quả X = 3,06.\n\nAnswer: D. 3,06",
+        "id": "01-0716"
+    },
+    {
+        "answer": "Để tính diện tích hình tam giác, ta sử dụng công thức: Diện tích = (đáy * chiều cao) / 2.\n\nTrong trường hợp này, đáy của tam giác là 30,5 dm và chiều cao là 12 dm.\n\nÁp dụng công thức, ta có: Diện tích = (30,5 * 12) / 2 = 183 dm^{2}.\n\nVậy đáp án đúng là A. 183 dm^{2}.\n\nReason: Để tính diện tích hình tam giác, ta sử dụng công thức Diện tích = (đáy * chiều cao) / 2. Áp dụng công thức này với đáy là 30,5 dm và chiều cao là 12 dm, ta tính được diện tích là 183 dm^{2}.",
+        "id": "01-0717"
+    }
+]

@@ -1,0 +1,1325 @@
+[
+    {
+        "question": "Một cửa hàng đã bán 30% số hàng hiện có và thu được 15 000 000 đồng. Hỏi nếu bán hết hàng thì cửa hàng thu được bao nhiêu tiền?",
+        "option D": "450 000 000 đồng",
+        "option A": "4 500 000 đồng",
+        "option B": "45 000 000 đồng",
+        "option C": "50 000 000 đồng"
+    },
+    {
+        "question": "Một người đi xe đạp từ A lúc 7 giờ với vận tốc 12km/h. Đến 8 giờ một người đi xe máy cũng từ A đuổi theo người đi xe đạp với vận tốc 42km/h. Hỏi người đi xe máy đuổi kịp người đi xe đạp lúc mấy giờ?",
+        "option D": "8 giờ 24 phút",
+        "option A": "24 phút",
+        "option B": "1 giờ",
+        "option C": "7 giờ 24 phút"
+    },
+    {
+        "question": "Cạnh của hình lập phương gấp lên 2 lần thì diện tích xung quanh gấp lên mấy lần?",
+        "option D": "8 lần",
+        "option A": "2 lần",
+        "option B": "4 lần",
+        "option C": "6 lần"
+    },
+    {
+        "question": "Một thửa ruộng hình thang có đáy bé dài 8m, đáy lớn dài 12m. Kéo dài đáy lớn thêm 5m thì diện tích thửa ruộng tăng thêm 25m2. Hỏi diện tích thửa ruộng tăng thêm bao nhiêu phần trăm?",
+        "option D": "50%",
+        "option A": "125m^{2}",
+        "option B": "20%",
+        "option C": "25%"
+    },
+    {
+        "question": "Một xe lửa vượt qua cái cầu dài 450m hết 45 giây, vượt qua một cột điện hết 15 giây. Tính chiều dài của xe lửa.",
+        "option D": "225m",
+        "option A": "3m",
+        "option B": "200m",
+        "option C": "200m"
+    },
+    {
+        "question": "Số lớn nhất trong các số: 5,216; 5,126; 5,621; 5,612 là:",
+        "option D": "5,126",
+        "option A": "5,612",
+        "option B": "5,621",
+        "option C": "5,216"
+    },
+    {
+        "question": "Lớp học có 35 học sinh, trong đó có 14 học sinh nữ. Hỏi số học sinh nữ chiếm bao nhiêu phần trăm số học sinh của lớp đó?",
+        "option D": "49%",
+        "option A": "40%",
+        "option B": "4%",
+        "option C": "21%"
+    },
+    {
+        "question": "4 giờ 45 phút + 3 giờ 32 phút = .......",
+        "option D": "7 giờ 77 phút",
+        "option A": "7 giờ 17 phút",
+        "option B": "7 giờ 77 phút",
+        "option C": "8 giờ 17 phút"
+    },
+    {
+        "question": "Số \\frac{75}{100} được viết:",
+        "option D": "7,5",
+        "option A": "75",
+        "option B": "0,7",
+        "option C": "0,75"
+    },
+    {
+        "question": "Số sáu mươi bảy phẩy chín trăm mười chín được viết:",
+        "option D": "6,7919",
+        "option A": "67,910",
+        "option B": "679",
+        "option C": "67,919"
+    },
+    {
+        "question": "Tìm 80% của 30 là:",
+        "option D": "50",
+        "option A": "80",
+        "option B": "24",
+        "option C": "30"
+    },
+    {
+        "question": "39,87m^{3} = ………..dm^{3}. Số thích hợp viết vào chỗ chấm là:",
+        "option D": "39870",
+        "option A": "3978",
+        "option B": "39,87",
+        "option C": "398,7"
+    },
+    {
+        "question": "Giá trị của chữ số 7 trong số 32,708 là:",
+        "option D": "\\frac{7}{1000}",
+        "option A": "70",
+        "option B": "\\frac{7}{10}",
+        "option C": "\\frac{7}{100}"
+    },
+    {
+        "question": "Chữ số 5 trong số 162,57 chỉ:",
+        "option D": "5 phần mười",
+        "option A": "5 đơn vị",
+        "option B": "5 phần trăm",
+        "option C": "5 chục"
+    },
+    {
+        "question": "Một huyện có 320ha đất trồng cây cà phê và 480ha đất trồng cây cao su. Hỏi diện tích đất trồng cây cao su bằng bao nhiêu phần trăm diện tích đất trồng cây cà phê?",
+        "option D": "105%",
+        "option A": "150%",
+        "option B": "15%",
+        "option C": "1500%"
+    },
+    {
+        "question": "Nếu hình lập phương A có thể tích gấp 8 lần thể tích hình lập phương B thì tỉ số giữa độ dài cạnh hình lập phương B và độ dài cạnh hình lập phương A là:",
+        "option D": "2",
+        "option A": "\\frac{1}{8}",
+        "option B": "\\frac{1}{4}",
+        "option C": "\\frac{1}{2}"
+    },
+    {
+        "question": "Viết số thích hợp vào chỗ chấm: 21 km/giờ = ... m/phút",
+        "option D": "1250",
+        "option A": "21000",
+        "option B": "3500",
+        "option C": "350"
+    },
+    {
+        "question": "5m^{3} 19dm^{3} = ........m^{3}. Số thích hợp viết vào chỗ chấm là:",
+        "option D": "5190",
+        "option A": "5,190",
+        "option B": "5,019",
+        "option C": "5019"
+    },
+    {
+        "question": "0,12 giờ \\div 2 \\times 3 có kết quả là:",
+        "option D": "0,018 giờ",
+        "option A": "0,02 giờ",
+        "option B": "0,2 giờ",
+        "option C": "0,18 giờ"
+    },
+    {
+        "question": "37,5% của một số là 1, 3875. Số đó là:",
+        "option D": "0,36992",
+        "option A": "36,992",
+        "option B": "3,6992",
+        "option C": "369,92"
+    },
+    {
+        "question": "Chữ số 5 trong số 254. 836 chỉ:",
+        "option D": "50 000 000",
+        "option A": "50 000",
+        "option B": "500 000",
+        "option C": "5 000"
+    },
+    {
+        "question": "Lớp học có 32 học sinh, số học nữ 12. Hỏi số học sinh nữ chiếm bao nhiêu phần trăm số học sinh cả lớp",
+        "option D": "37,5",
+        "option A": "34,5",
+        "option B": "35,4",
+        "option C": "37,4"
+    },
+    {
+        "question": "Giá trị của biểu thức: 15 \\div 1,5 + 2,5 \\times 0,2 là:",
+        "option D": "10,5",
+        "option A": "1,05",
+        "option B": "15",
+        "option C": "10,05"
+    },
+    {
+        "question": "Số thích hợp điền vào chỗ chấm để 3tấn5kg = …… tấn là:",
+        "option D": "3,05",
+        "option A": "30,5",
+        "option B": "30,05",
+        "option C": "3,005"
+    },
+    {
+        "question": "1,5 giờ = … phút",
+        "option D": "1 giờ 50 phút",
+        "option A": "1 giờ 2 phút",
+        "option B": "1 giờ 5 phút",
+        "option C": "90 phút"
+    },
+    {
+        "question": "Hình thang ABCD có độ dài hai đáy 6dm và 4dm, chiều cao 3dm. Diện tích hình thang ABCD là:",
+        "option D": "72 dm^{2}",
+        "option A": "15 dm^{2}",
+        "option B": "30 dm^{2}",
+        "option C": "36 dm^{2}"
+    },
+    {
+        "question": "Chu vi hình tròn có đường kính d = 3 dm là:",
+        "option D": "6,14 dm",
+        "option A": "9,42 dm",
+        "option B": "18,84 dm",
+        "option C": "28,26 dm"
+    },
+    {
+        "question": "Diện tích hình tròn có bán kính r = 2cm là:",
+        "option D": "12,56 cm^{2}",
+        "option A": "1,14 cm^{2}",
+        "option B": "5.14 cm^{2}",
+        "option C": "6,28 cm^{2}"
+    },
+    {
+        "question": "13,8 m^{3} = … dm^{3}",
+        "option D": "13008 dm^{3}",
+        "option A": "1380 dm^{3}",
+        "option B": "13800 dm^{3}",
+        "option C": "138 dm^{3}"
+    },
+    {
+        "question": "Tỉ số phần trăm của 32 và 50 là bao nhiêu?",
+        "option D": "63%",
+        "option A": "64%",
+        "option B": "65%",
+        "option C": "46%"
+    },
+    {
+        "question": "Số thích hợp điền vào chỗ trống để 3m^{3} 76 dm^{3} = ......... m^{3} là:",
+        "option D": "3,076",
+        "option A": "3,76",
+        "option B": "3,760",
+        "option C": "37,6"
+    },
+    {
+        "question": "Số thập phân gồm hai trăm linh một đơn vị và 7 phần trăm được viết là:",
+        "option D": "201,07",
+        "option A": "7,201",
+        "option B": "201,7",
+        "option C": "201,700"
+    },
+    {
+        "question": "Số lớn nhất trong các số: 0,79; 0,789; 0,709; 0,8 là:",
+        "option D": "0,8",
+        "option A": "0,79",
+        "option B": "0,789",
+        "option C": "0,709"
+    },
+    {
+        "question": "Khoảng thời gian từ lúc 7 giờ kém 10 phút đến 7 giờ 30 phút là:",
+        "option D": "40 phút",
+        "option A": "10 phút",
+        "option B": "20 phút",
+        "option C": "30 phút"
+    },
+    {
+        "question": "Phân số \\frac{3}{4} được viết dưới dạng số thập phân là:",
+        "option D": "0,57",
+        "option A": "3,4",
+        "option B": "0,75",
+        "option C": "4,3"
+    },
+    {
+        "question": "Từ 9 giờ kém 10 phút đến 9 giờ 30 phút có:",
+        "option D": "40 phút",
+        "option A": "10 phút",
+        "option B": "20 phút",
+        "option C": "30 phút"
+    },
+    {
+        "question": "12,34 \\times  100 = ?",
+        "option D": "123,4",
+        "option A": "0,1234",
+        "option B": "1,234",
+        "option C": "1234"
+    },
+    {
+        "question": "Một người thợ làm 1 sản phẩm hết 1 phút 12 giây. Hỏi người thợ đó làm 8 sản phẩm như thế hết bao nhiêu thời gian?",
+        "option D": null,
+        "option A": "1 phút 12 giây",
+        "option B": "8 phút 36 giây",
+        "option C": "9 phút 36 giây"
+    },
+    {
+        "question": "3km 48m = ........km. Số thích hợp để điền vào chỗ chấm là:",
+        "option D": "3048",
+        "option A": "3,48",
+        "option B": "3,048",
+        "option C": "348"
+    },
+    {
+        "question": "Một trường tiểu học có 600 học sinh, số học sinh nữ chiếm 55% số học sinh toàn trường. Số học sinh nam của trường tiểu học đó là:",
+        "option D": null,
+        "option A": "270 học sinh",
+        "option B": "330 học sinh",
+        "option C": "45 học sinh"
+    },
+    {
+        "question": "Tính: 3,5 \\times  \\frac{1}{4} - 1,5 \\times  \\frac{1}{4}",
+        "option D": "\\frac{1}{8}",
+        "option A": "0",
+        "option B": "\\frac{1}{2}",
+        "option C": "\\frac{5}{4}"
+    },
+    {
+        "question": "0,2 m^{3} gấp 25 dm^{3} số lần là:",
+        "option D": "80",
+        "option A": "0,008",
+        "option B": "0,8",
+        "option C": "8"
+    },
+    {
+        "question": "Một hình hộp hình chữ nhật có chiều dài là 12 cm, chiều rộng là 8 cm. Một hình lập phương có cạnh bằng trung bình cộng ba kích thước của hình hộp chữ nhật và có diện tích toàn phần là 486 cm^{2}. Tìm chiều cao của hình hộp chữ nhật.",
+        "option D": "81 cm",
+        "option A": "7 cm",
+        "option B": "8 cm",
+        "option C": "9 cm"
+    },
+    {
+        "question": "Phép trừ 712,54 - 48,9 có két quả đúng là:",
+        "option D": "707,65",
+        "option A": "70,765",
+        "option B": "223,54",
+        "option C": "663,64"
+    },
+    {
+        "question": "Một hình hộp chữ nhật có thể tích 300dm^{3}, chiều dài 15dm, chiều rộng 5dm. Vậy chiều cao của hình hộp chữ nhật là :",
+        "option D": "6dm",
+        "option A": "10dm",
+        "option B": "4dm",
+        "option C": "8dm"
+    },
+    {
+        "question": "Viết số thích hợp vào chỗ chấm:\n55 ha 17 m^{2} = ..........ha",
+        "option D": "55,000017",
+        "option A": "55,17",
+        "option B": "55,0017",
+        "option C": "55,017"
+    },
+    {
+        "question": "Lớp học có 18 nữ và 12 nam. Hỏi số học sinh nữ chiếm bao nhiêu phần trăm số học sinh cả lớp?",
+        "option D": "80%",
+        "option A": "150%",
+        "option B": "60%",
+        "option C": "40%"
+    },
+    {
+        "question": "Số thập phân 0,9 được viết dưới dạng phân số là:",
+        "option D": "\\frac{9}{10000}",
+        "option A": "\\frac{9}{10}",
+        "option B": "\\frac{9}{100}",
+        "option C": "\\frac{9}{1000}"
+    },
+    {
+        "question": "25% của 120 là:",
+        "option D": "2,5",
+        "option A": "25",
+        "option B": "4,8",
+        "option C": "480"
+    },
+    {
+        "question": "Hình lập phương có cạnh là 5m. Vậy thể tích hình lập phương đó là:",
+        "option D": "215 m^{3}",
+        "option A": "25 m^{3}",
+        "option B": "125 m^{3}",
+        "option C": "100 m^{3}"
+    },
+    {
+        "question": "5% của 120 là:",
+        "option D": "60",
+        "option A": "0,06",
+        "option B": "0,6",
+        "option C": "6"
+    },
+    {
+        "question": "Một ôtô đi với vận tốc 51 km/giờ. Hỏi ô tô đó đi với vận tốc bao nhiêu mét trên phút?",
+        "option D": "5100 m/phút",
+        "option A": "850 m/phút",
+        "option B": "805 m/phút",
+        "option C": "510 m/phút"
+    },
+    {
+        "question": "Số liền trước của số 9999 là:",
+        "option D": null,
+        "option A": "9998",
+        "option B": "10 000",
+        "option C": "10 001"
+    },
+    {
+        "question": "Biết 50% của một số là 5. Hỏi số đó bằng bao nhiêu?",
+        "option D": "40",
+        "option A": "10",
+        "option B": "20",
+        "option C": "30"
+    },
+    {
+        "question": "Trong các số 28,3; 2,83; 38,2; 3,82 số có chữ số 3 ở hàng phần mười là:",
+        "option D": "38,2",
+        "option A": "2,83",
+        "option B": "3,82",
+        "option C": "28,3"
+    },
+    {
+        "question": "20 tấn =..........tạ. Số thích hợp để điền vào chỗ chấm là:",
+        "option D": null,
+        "option A": "200 tạ",
+        "option B": "0,02 tạ",
+        "option C": "0,2 tạ"
+    },
+    {
+        "question": "Diện tích hình tròn có bán kính 4 dm là:",
+        "option D": "5,024 dm^{2}",
+        "option A": "5024 dm^{2}",
+        "option B": "502,4 dm^{2}",
+        "option C": "50,24 dm^{2}"
+    },
+    {
+        "question": "Một hình hộp chữ nhật có thể tích 300dm^{3}, chiều dài 15dm, chiều rộng 5dm.\nVậy chiều cao của hình hộp chữ nhật là:",
+        "option D": "6dm",
+        "option A": "10dm",
+        "option B": "4dm",
+        "option C": "8dm"
+    },
+    {
+        "question": "Số thập phân gồm 55 đơn vị, 2 phần trăm, 7 phần nghìn",
+        "option D": "55,027",
+        "option A": "55,207",
+        "option B": "55,072",
+        "option C": "55,702"
+    },
+    {
+        "question": "Phân số \\frac{9}{12} được viết dưới dạng tỉ số phần trăm là:",
+        "option D": "85%",
+        "option A": "70%",
+        "option B": "75%",
+        "option C": "80%"
+    },
+    {
+        "question": "Viết số thích hợp vào chỗ chấm:\nGiá trị của biểu thức: 136,5 – 100 : 2,5 x 0,9 là:",
+        "option D": "105,5",
+        "option A": "100,5",
+        "option B": "110,5",
+        "option C": "100"
+    },
+    {
+        "question": "Viết số thích hợp vào chỗ chấm:\n55 ha 17 m^{2} = .....,.....ha",
+        "option D": "55,000017",
+        "option A": "55,0017",
+        "option B": "55,17",
+        "option C": "55,017"
+    },
+    {
+        "question": "Cho 2km 257m = ...... km. Số điền vào chỗ chấm là",
+        "option D": null,
+        "option A": "22,57",
+        "option B": "2,257",
+        "option C": "2 257"
+    },
+    {
+        "question": "Tỉ số phần trăm của hai số 2,8 và 80 là :",
+        "option D": "35%",
+        "option A": "2,8%",
+        "option B": "50%",
+        "option C": "3,5%"
+    },
+    {
+        "question": "Dấu (>; <; =) điền vào chỗ chấm của: 8 m^{2} 50 dm^{2} . . . 8,05 m^{2} là:",
+        "option D": null,
+        "option A": "<",
+        "option B": ">",
+        "option C": "="
+    },
+    {
+        "question": "Vẽ đường cao AH trong hình tam giác sau:\n+ Cho phép chia 0,6159 \\div 0,52. Nếu phần thập phân ở thương lấy 2 chữ số thì số dư của phép chia này là:",
+        "option D": "0,0023",
+        "option A": "23",
+        "option B": "0,23",
+        "option C": "0,023"
+    },
+    {
+        "question": "3m246cm^{2} = . . . . . . cm^{2}. Số thích hợp viết vào chỗ chấm là:",
+        "option D": "346",
+        "option A": "34600",
+        "option B": "30046",
+        "option C": "3046"
+    },
+    {
+        "question": "Diện tích hình chữ nhật có chiều dài 1,2dm, chiều rộng bằng \\frac{1}{3} chiều dài là:",
+        "option D": "0,48 dm^{2}",
+        "option A": "0,4 dm^{2}",
+        "option B": "4,8 dm^{2}",
+        "option C": "48 dm^{2}"
+    },
+    {
+        "question": "Chữ số 7 trong số thập phân 82,374 có giá trị là:",
+        "option D": "70",
+        "option A": "7",
+        "option B": "0,7",
+        "option C": "0,07"
+    },
+    {
+        "question": "Kết quả của phép tính 72,1 – 30,4 là:",
+        "option D": "47,1",
+        "option A": "4,17",
+        "option B": "41,7",
+        "option C": "417"
+    },
+    {
+        "question": "Hỗn số 17 \\frac{13}{100} được viết dưới dạng số thập phân là:",
+        "option D": null,
+        "option A": "17,13",
+        "option B": "1,713",
+        "option C": "171,3"
+    },
+    {
+        "question": "Cho 4,53 ha = ……m^{2}.Số thích hợp để điền vào chỗ chấm:",
+        "option D": null,
+        "option A": "45300 m^{2}",
+        "option B": "453 m^{2}",
+        "option C": "453,0 m^{2}"
+    },
+    {
+        "question": "Phép tính nhân nhẩm 15,274 x 100 có kết quả là:",
+        "option D": null,
+        "option A": "15,274",
+        "option B": "1527,4",
+        "option C": "1527"
+    },
+    {
+        "question": "Chữ số 9 trong số 391,132 thuộc hàng:",
+        "option D": "Phần trăm",
+        "option A": "Chục",
+        "option B": "Trăm",
+        "option C": "Phần mười"
+    },
+    {
+        "question": "Chữ số 5 trong số 245 836 chỉ:",
+        "option D": "5",
+        "option A": "500",
+        "option B": "5000",
+        "option C": "50 000"
+    },
+    {
+        "question": "Kết quả của phép cộng: 125,855 + 25,31 = ?",
+        "option D": "251,165",
+        "option A": "150,070",
+        "option B": "151,07",
+        "option C": "150,07"
+    },
+    {
+        "question": "Lớp học có 32 học sinh, số học nữ là 12. Hỏi số học sinh nam chiếm bao nhiêu phần trăm số học sinh cả lớp?",
+        "option D": "20%",
+        "option A": "37,5%",
+        "option B": "26,6%",
+        "option C": "62,5%"
+    },
+    {
+        "question": "Kết quả của biểu thức: 75 + (15,2 \\times 5) + 30 \\div 2 là:",
+        "option D": "2,06",
+        "option A": "136",
+        "option B": "26",
+        "option C": "166"
+    },
+    {
+        "question": "Số thích hợp điền vào chỗ chấm để 2giờ 18phút = ………….giờ là:",
+        "option D": "2,06",
+        "option A": "126",
+        "option B": "2,1",
+        "option C": "2,3"
+    },
+    {
+        "question": "Số thích hợp điền vào chỗ chấm để 3 tấn 15kg = …… tấn là:",
+        "option D": "3,005 tấn",
+        "option A": "350 tấn",
+        "option B": "3,015 tấn",
+        "option C": "3,05 tấn"
+    },
+    {
+        "question": "Phép tính: 1286,35 + 534,85 có kết quả là:",
+        "option D": null,
+        "option A": "1821,2",
+        "option B": "3821,2",
+        "option C": "1781,1"
+    },
+    {
+        "question": "Số thích hợp điền vào chỗ chấm để 9m2 8dm2 =……..m2 là:",
+        "option D": null,
+        "option A": "9,8",
+        "option B": "9,80",
+        "option C": "9,08"
+    },
+    {
+        "question": "Số 9,6 viết dưới dạng hỗn số là :",
+        "option D": null,
+        "option A": "9 \\frac{6}{10}",
+        "option B": "6 \\frac{9}{10}",
+        "option C": "9 \\frac{6}{100}"
+    },
+    {
+        "question": "Chữ số 7 trong số 169,57 chỉ:",
+        "option D": null,
+        "option A": "7 đơn vị",
+        "option B": "7 phần mười",
+        "option C": "7 phần trăm"
+    },
+    {
+        "question": "Hỗn số 4 viết dưới dạng số thập phân là:",
+        "option D": null,
+        "option A": "4,35",
+        "option B": "4,53",
+        "option C": "4,6"
+    },
+    {
+        "question": "kết quả đúng của phép tính 25,4 \\times 4 là:",
+        "option D": null,
+        "option A": "101.4",
+        "option B": "106.6",
+        "option C": "101,6"
+    },
+    {
+        "question": "Chữ số 9 trong số 427,098 chỉ:",
+        "option D": "9 phần trăm",
+        "option A": "9 phần nghìn",
+        "option B": "9 phần mười",
+        "option C": "9 chục"
+    },
+    {
+        "question": "Chữ số 5 trong số thập phân 169,156 có giá trị là.",
+        "option D": "\\frac{5}{1000}",
+        "option A": "5",
+        "option B": "\\frac{5}{10}",
+        "option C": "\\frac{5}{100}"
+    },
+    {
+        "question": "Số nào dưới đây có cùng giá trị với 0,08?",
+        "option D": "0,080",
+        "option A": "0,800",
+        "option B": "8,00",
+        "option C": "0,80"
+    },
+    {
+        "question": "11 tấn + 2 kg = ................... kg",
+        "option D": "11200 kg",
+        "option A": "11002 kg",
+        "option B": "1102 kg",
+        "option C": "11020 kg"
+    },
+    {
+        "question": "Số thích hợp điền vào chỗ chấm để 9m^{2} 8dm^{2} =........dm^{2} là:",
+        "option D": "9008",
+        "option A": "98",
+        "option B": "980",
+        "option C": "908"
+    },
+    {
+        "question": "Phân số thập phân \\frac{806}{100} được viết thành số thập phân là:",
+        "option D": "8,06",
+        "option A": "8,6",
+        "option B": "0,806",
+        "option C": "8,60"
+    },
+    {
+        "question": "Số lớn nhất trong các số 39,402; 39,204; 40,392; 40,293 là:",
+        "option D": "39,402",
+        "option A": "40,392",
+        "option B": "39,204",
+        "option C": "40,293"
+    },
+    {
+        "question": "Diện tích hình chữ nhật có chiều dài 3m, chiều rộng 2,5m là:",
+        "option D": "2,8m^{2}",
+        "option A": "75m^{2}",
+        "option B": "7,5m^{2}",
+        "option C": "5,5m^{2}"
+    },
+    {
+        "question": "Viết số thích hợp vào chỗ chấm: 30g = ... kg.",
+        "option D": "3kg",
+        "option A": "30 000 kg",
+        "option B": "0,03 kg",
+        "option C": "0,3kg"
+    },
+    {
+        "question": "Viết số thích hợp vào chỗ chấm: 627 m^{2} = ha",
+        "option D": "6,27 ha",
+        "option A": "627 ha",
+        "option B": "0,0627 ha",
+        "option C": "6,027 ha"
+    },
+    {
+        "question": "Diện tích hình tam giác có độ dài đáy là 3m, chiều rộng 24dm là:",
+        "option D": "54m^{2}",
+        "option A": "72m^{2}",
+        "option B": "7,2m^{2}",
+        "option C": "3,6m^{2}"
+    },
+    {
+        "question": "Các số 5,7; 6,02; 4,23; 4,32; 5,3 được viết theo thứ tự từ bé đến lớn là:",
+        "option D": "4,23; 4,32; 5,3; 5,7; 6,02",
+        "option A": "5,7; 6,02; 4,23; 4,32; 5,3",
+        "option B": "6,02; 5,7; 5,3; 4,32; 4,23",
+        "option C": "4,23; 5,3; 5,7; 6,02; 4,32"
+    },
+    {
+        "question": "Tỉ số phần trăm của 75 và 300 là:",
+        "option D": "25%",
+        "option A": "75%",
+        "option B": "65%",
+        "option C": "35%"
+    },
+    {
+        "question": "Phân số thập phân là:",
+        "option D": "\\frac{27}{50}",
+        "option A": "\\frac{27}{10}",
+        "option B": "\\frac{27}{200}",
+        "option C": "\\frac{35}{20}"
+    },
+    {
+        "question": "2 dam^{2} 49 m^{2} = .........m^{2}",
+        "option D": "24900",
+        "option A": "2049",
+        "option B": "2490",
+        "option C": "249"
+    },
+    {
+        "question": "Viết \\frac{5}{10} dưới dạng số thập phân được:",
+        "option D": "5,0",
+        "option A": "0,005",
+        "option B": "0,5",
+        "option C": "0,05"
+    },
+    {
+        "question": "Một căn phòng hình vuông có cạnh 30cm. Diện tích của nó sẽ là:",
+        "option D": "9cm^{2}",
+        "option A": "900cm^{2}",
+        "option B": "900cm^{2}",
+        "option C": "90cm^{2}"
+    },
+    {
+        "question": "Phần nguyên của số 1942,54 là:",
+        "option D": "1924",
+        "option A": "54",
+        "option B": "194254",
+        "option C": "1942,54"
+    },
+    {
+        "question": "Hỗn số 3 \\frac{2}{5} được chuyển thành số thập phân là:",
+        "option D": "3,004",
+        "option A": "3,400",
+        "option B": "3,400",
+        "option C": "3,04"
+    },
+    {
+        "question": "Mua 5m vải hết 150000 đồng. Mua 25 m vải loại đó thì phải trả nhiều hơn là .......................... đồng.",
+        "option D": "60000",
+        "option A": "750000",
+        "option B": "600000",
+        "option C": "30000"
+    },
+    {
+        "question": "Số thập phân 2,35 viết dưới dạng hỗn số là:",
+        "option D": "23 \\frac{5}{100}",
+        "option A": "2 \\frac{35}{10}",
+        "option B": "2 \\frac{35}{100}",
+        "option C": "23 \\frac{5}{10}"
+    },
+    {
+        "question": "Hỗn số 3 \\frac{9}{100}  viết dưới dạng số thập phân là:",
+        "option D": "3,90",
+        "option A": "3,900",
+        "option B": "3,09",
+        "option C": "3,009"
+    },
+    {
+        "question": "Hỗn số 3 \\frac{2}{5} chuyển thành phân số là:",
+        "option D": "\\frac{17}{5}",
+        "option A": "\\frac{6}{5}",
+        "option B": "\\frac{15}{2}",
+        "option C": "\\frac{11}{5}"
+    },
+    {
+        "question": "Số thích hợp để điền vào chỗ chấm của 3,754m = ... cm",
+        "option D": "37,54",
+        "option A": "3754",
+        "option B": "375,4",
+        "option C": "357,4"
+    },
+    {
+        "question": "Dãy số thập phân nào dưới đây được viết theo thứ tự từ lớn đến bé?",
+        "option D": "13; 12,47; 12,51; 12,001",
+        "option A": "8; 8,76; 8,093; 8,901",
+        "option B": "5,494; 5,493; 5,392; 5,001",
+        "option C": "6,732; 7; 7,009; 7,013"
+    },
+    {
+        "question": "Số thích hợp để điền vào chỗ chấm của 8,3ha = ......m^{2} là:",
+        "option D": "80 300",
+        "option A": "8300",
+        "option B": "830",
+        "option C": "83 000"
+    },
+    {
+        "question": "3 \\frac{9}{100} viết dưới dạng số thập phân là:",
+        "option D": "3,90",
+        "option A": "3,900",
+        "option B": "3,09",
+        "option C": "3,9"
+    },
+    {
+        "question": "Một mảnh đất hình chữ nhật có chiều dài 24m và chiều rộng là 10m. Diện tích mảnh đất là:",
+        "option D": "204m^{2}",
+        "option A": "240m",
+        "option B": "204m",
+        "option C": "240m^{2}"
+    },
+    {
+        "question": "Hỗn số 5 \\frac{1}{5} bằng số thập phân nào trong các số sau:",
+        "option D": null,
+        "option A": "5,2",
+        "option B": "5,02",
+        "option C": "5,002"
+    },
+    {
+        "question": "Phép tính nhân nhẩm 45,4375 \\times 100 có kết quả là:",
+        "option D": null,
+        "option A": "4,54375",
+        "option B": "4543,75",
+        "option C": "454,375"
+    },
+    {
+        "question": "35 m^{2} 6 dm^{2} = ...... m^{2}. Số thích hợp viết vào chỗ chấm là:",
+        "option D": null,
+        "option A": "35,06",
+        "option B": "35,6",
+        "option C": "356"
+    },
+    {
+        "question": "Số lớn nhất trong các số 6,97; 7,99; 6,79; 7,9 là:",
+        "option D": "7,9",
+        "option A": "6,97",
+        "option B": "7,99",
+        "option C": "6,79"
+    },
+    {
+        "question": "Chuyển hỗn số 4 \\frac{3}{5} thành phân số được:",
+        "option D": "\\frac{17}{5}",
+        "option A": "\\frac{23}{5}",
+        "option B": "\\frac{17}{5}",
+        "option C": "\\frac{27}{5}"
+    },
+    {
+        "question": "Cho số thập phân 5,432. Nếu chuyển dấu phẩy sang bên phải một chữ số thì chữ số 3 thuộc hàng nào?",
+        "option D": "Hàng phần mười",
+        "option A": "Hàng chục",
+        "option B": "Hàng đơn vị",
+        "option C": "Hàng phần trăm"
+    },
+    {
+        "question": "Trung bình cộng của 1,12; 2,78; 3 là:",
+        "option D": "2,3",
+        "option A": "3,93",
+        "option B": "20,70",
+        "option C": "6,90"
+    },
+    {
+        "question": "Tỉ số phần trăm của 16 và 25 là :",
+        "option D": "6,04%",
+        "option A": "6,4%",
+        "option B": "0,64%",
+        "option C": "64%"
+    },
+    {
+        "question": "\\frac{1}{10} Viết dưới dạng số thập phân được:",
+        "option D": null,
+        "option A": "1,0",
+        "option B": "0,1",
+        "option C": "0,01"
+    },
+    {
+        "question": "Trong kho nhà Minh có một số gạo, 10 ngày đầu nhà Minh dùng hết 1 yến gạo, 10 ngày tiếp theo nhà Minh dùng hết nửa số gạo còn lại, 10 ngày cuối tháng nhà Minh dùng hết số gạo trong kho và phải mua thêm 3 kg gạo nữa. Biết trong 30 ngày đó, nhà Minh dùng hết tất cả 0,35 tạ gạo. Hỏi 10 ngày cuối tháng, nhà Minh dùng hết bao nhiêu ki-lô-gam gạo?",
+        "option D": "14 kg",
+        "option A": "12 kg",
+        "option B": "13 kg",
+        "option C": "15 kg"
+    },
+    {
+        "question": "Một hình hộp chữ nhật có chiều dài gấp hai lần chiều rộng. Nếu tăng chiều dài lên 5 dm và giữ nguyên chiều rộng, chiều cao thì thể tích hình hộp chữ nhật tăng lên 1,2 lần. Hỏi nếu tăng chiều rộng lên 5 dm, giảm chiều dài đi 5 dm và tăng chiều cao lên gấp đôi thì thể tích hình hộp chữ nhật tăng lên bao nhiêu lần?",
+        "option D": "2,28 lần",
+        "option A": "1,12 lần",
+        "option B": "2,24 lần",
+        "option C": "1,44 lần"
+    },
+    {
+        "question": "Cho hình vẽ. Tính tỉ số diện tích 2 tam giác BDF và AEF.",
+        "option D": "1",
+        "option A": "2",
+        "option B": "1,5",
+        "option C": "3"
+    },
+    {
+        "question": "Tổ gồm 10 công nhân hoàn thành xong một công việc trong 30 ngày. Nếu tổ có 20 công nhân thì hoàn thành công việc trong thời gian bao lâu?",
+        "option D": "15 ngày",
+        "option A": "10 ngày",
+        "option B": "60 ngày",
+        "option C": "40 ngày"
+    },
+    {
+        "question": "Diện tích toàn phần của một hình lập phương bằng 486 dm^{2}. Vậy thể tích của hình lập phương đó là:",
+        "option D": "729 dm^{3}",
+        "option A": "324 dm^{3}",
+        "option B": "162 dm^{3}",
+        "option C": "121,5 dm^{3}"
+    },
+    {
+        "question": "Phép trừ 712,54 ­- 48,9 có kết quả đúng là:",
+        "option D": "707,65",
+        "option A": "70,765",
+        "option B": "223,54",
+        "option C": "663,64"
+    },
+    {
+        "question": "Viết số thích hợp vào chỗ chấm: 55 ha 17 m^{2} = ..........ha",
+        "option D": "55, 000017",
+        "option A": "55,17",
+        "option B": "55,0017",
+        "option C": "55, 017"
+    },
+    {
+        "question": "3m^{3} 5dm^{3} = ............. dm^{3}",
+        "option D": "3050",
+        "option A": "305",
+        "option B": "3005",
+        "option C": "30005"
+    },
+    {
+        "question": "1 phút 15 giây = ?",
+        "option D": "1,25 giây",
+        "option A": "1,15 phút",
+        "option B": "1,25 phút",
+        "option C": "115 giây"
+    },
+    {
+        "question": "Một hình thang có trung bình cộng hai đáy là 5cm và chiều cao là 3,2 cm thì diện  tích hình thang đó là:",
+        "option D": "164cm^{2}",
+        "option A": "8cm^{2}",
+        "option B": "32cm^{2}",
+        "option C": "16 cm^{2}"
+    },
+    {
+        "question": "Diện tích hình tròn có đường kính 2 cm là:",
+        "option D": "12,56 cm^{2}",
+        "option A": "3,14 cm^{2}",
+        "option B": "6,28 cm^{2}",
+        "option C": "6,28 cm"
+    },
+    {
+        "question": "\\frac{32}{100} viết dưới dạng số thập phân là:",
+        "option D": "3,2",
+        "option A": "0,0032",
+        "option B": "0,032",
+        "option C": "0,32"
+    },
+    {
+        "question": "Số thích hợp điều vào chỗ chấm để 2m^{3} = ……..dm^{3} là:",
+        "option D": "20 000",
+        "option A": "20",
+        "option B": "200",
+        "option C": "2000"
+    },
+    {
+        "question": "Số thập phân gồm 18 đơn vị, 8 phần mười  và 6 phần nghìn được viết là:",
+        "option D": "18,608",
+        "option A": "18,86",
+        "option B": "18,806",
+        "option C": "18,086"
+    },
+    {
+        "question": "Số thích hợp viết vào chỗ chấm của 4m^{3} 21dm^{3} = .........................................m^{3}",
+        "option D": "4,0210m^{3}",
+        "option A": "4,0021m^{3}",
+        "option B": "4,021 m^{3}",
+        "option C": "4,210m^{3}"
+    },
+    {
+        "question": "Số 0,45 viết dưới dạng tỉ số phần trăm là:",
+        "option D": "0,45%",
+        "option A": "45%",
+        "option B": "4,5%",
+        "option C": "450%"
+    },
+    {
+        "question": "Một lớp học có 30 học sinh, trong đó có 12 học sinh nữ. Vậy tỉ số phần trăm giữa số học sinh nữ và số học sinh của lớp đó là:",
+        "option D": "150%",
+        "option A": "250%",
+        "option B": "40%",
+        "option C": "66,7%"
+    },
+    {
+        "question": "Diện tích thửa ruộng hình thang có độ dài hai đáy lần lượt là 20 m; 15 m, chiều cao là 10m là:",
+        "option D": "175 M^{2}",
+        "option A": "350 m^{2}",
+        "option B": "175",
+        "option C": "3000 m^{2}"
+    },
+    {
+        "question": "Một xe máy đi quãng đường 90 km mất 2 giờ 30 phút. Vận tốc xe máy đó là:",
+        "option D": "225 Km/giờ",
+        "option A": "36 km/giờ",
+        "option B": "40 km/giờ",
+        "option C": "45 km/giờ"
+    },
+    {
+        "question": "Số thích hợp điền vào chỗ chấm 17 tấn 16 kg =............. ...kg là:",
+        "option D": "170 016",
+        "option A": "1 706",
+        "option B": "1 716",
+        "option C": "17 016"
+    },
+    {
+        "question": "Giá trị của chữ số 5 trong số thập phân 37,085 là:",
+        "option D": null,
+        "option A": "\\frac{5}{10}",
+        "option B": "\\frac{5}{100}",
+        "option C": "\\frac{5}{100}"
+    },
+    {
+        "question": "Kết quả phép trừ: 87,63 - 25,18",
+        "option D": null,
+        "option A": "62,54",
+        "option B": "62,45",
+        "option C": "65,42"
+    },
+    {
+        "question": "Kết quả phép nhân: 0,425 \\times 4",
+        "option D": null,
+        "option A": "10,7",
+        "option B": "1,07",
+        "option C": "1,7"
+    },
+    {
+        "question": "Kết quả phép chia: 4,8 \\div 4",
+        "option D": null,
+        "option A": "1,2",
+        "option B": "1,02",
+        "option C": "10,2"
+    },
+    {
+        "question": "Chữ số 8 trong số thập phân 76,815 có giá trị là:",
+        "option D": "\\frac{8}{10000}",
+        "option A": "\\frac{8}{100}",
+        "option B": "\\frac{8}{100}",
+        "option C": "\\frac{8}{10}"
+    },
+    {
+        "question": "Nửa chu vi của một hình chữ nhật là 180m. Chiều dài hơn chiều rộng 20m. Diện tích của hình chữ nhật đó là:",
+        "option D": "3600m",
+        "option A": "8000m",
+        "option B": "8000m^{2}",
+        "option C": "3600m^{2}"
+    },
+    {
+        "question": "Hỗn số 3 \\frac{2}{5}  được chuyển thành phân số",
+        "option D": "\\frac{5}{17}",
+        "option A": "\\frac{17}{5}",
+        "option B": "\\frac{15}{5}",
+        "option C": "\\frac{6}{5}"
+    },
+    {
+        "question": "Lớp 5A có 40 học sinh, trong đó số học sinh nữ là 30 em còn lại là học sinh nam. Tỉ số phần trăm của học sinh nữ và học sinh lớp 5A là:",
+        "option D": null,
+        "option A": "0,75",
+        "option B": "0,75%",
+        "option C": "75%"
+    },
+    {
+        "question": "Số 0,75 phải nhân với số nào để được 7,5? Em hãy khoanh tròn vào chữ cái đặt trước kết quả đúng.",
+        "option D": "0,1",
+        "option A": "0,01",
+        "option B": "100",
+        "option C": "10"
+    },
+    {
+        "question": "Trong hình vẽ dưới đây có bao nhiêu hình tam giác? \nEm hãy khoanh tròn vào chữ cái đặt trước kết quả đúng.",
+        "option D": "15 hình tam giác",
+        "option A": "12 hình tam giác",
+        "option B": "13 hình tam giác",
+        "option C": "14 hình tam giác"
+    },
+    {
+        "question": "Trung bình cộng của 1,12 ; 2,78 ; 3 là:",
+        "option D": "2,3",
+        "option A": "3,93",
+        "option B": "20,70",
+        "option C": "6,90"
+    },
+    {
+        "question": "2m^{2} 3cm^{2} = ………….m^{2}",
+        "option D": "20,003",
+        "option A": "2,003",
+        "option B": "2,0003",
+        "option C": "20,03"
+    },
+    {
+        "question": "Phân số thập phân \\frac{3}{8} được viết dưới dạng số thập phân là:",
+        "option D": "375",
+        "option A": "0,375",
+        "option B": "3,75",
+        "option C": "37,5"
+    },
+    {
+        "question": "Tỉ số phần trăm của hai số 16 và 50 là:",
+        "option D": "320%",
+        "option A": "0,32%",
+        "option B": "3,2%",
+        "option C": "32%"
+    },
+    {
+        "question": "Một hình tam giác có đáy là 25,5cm và chiều cao là 12cm. Diện tích hình tam giác là bao nhiêu?",
+        "option D": "135cm^{2}",
+        "option A": "306cm^{2}",
+        "option B": "315cm^{2}",
+        "option C": "153cm^{2}"
+    },
+    {
+        "question": "Chữ số 7 trong số thập phân 65,473 có giá trị là:",
+        "option D": "\\frac{7}{1000}",
+        "option A": "\\frac{7}{10}",
+        "option B": "\\frac{7}{100}",
+        "option C": "7"
+    },
+    {
+        "question": "34 \\frac{6}{100} viết dưới dạng số thập phân là:",
+        "option D": "34,006",
+        "option A": "34,600",
+        "option B": "34,06",
+        "option C": "34,6"
+    },
+    {
+        "question": "Số lớn nhất trong các số: 9,925; 9,259; 9,952; 9,95 là:",
+        "option D": "9,95",
+        "option A": "9,925",
+        "option B": "9,259",
+        "option C": "9,952"
+    },
+    {
+        "question": "Số bé nhất trong các số sau là:",
+        "option D": "7,45",
+        "option A": "9,25",
+        "option B": "7,54",
+        "option C": "8,25"
+    },
+    {
+        "question": "Diện tích mảnh vườn hình chữ nhật có chiều dài 31m, chiều rộng 24m là:",
+        "option D": "741m^{2}",
+        "option A": "744m^{2}",
+        "option B": "447m^{2}",
+        "option C": "110m^{2}"
+    },
+    {
+        "question": "Viết số thập phân có: không đơn vị, một phần nghìn.",
+        "option D": "0,0001",
+        "option A": "0,1",
+        "option B": "0,01",
+        "option C": "0,001"
+    },
+    {
+        "question": "Kết quả của biểu thức 87,5 x 10 : 0,1 là:",
+        "option D": "7850",
+        "option A": "87,5",
+        "option B": "875",
+        "option C": "8750"
+    },
+    {
+        "question": "Kết quả của phép tính: \\frac{6}{5} : \\frac{4}{3}",
+        "option D": "\\frac{24}{15}",
+        "option A": "\\frac{18}{20}",
+        "option B": "\\frac{38}{15}",
+        "option C": "\\frac{18}{15}"
+    },
+    {
+        "question": "Số thập phân \"một đơn vị, ba phần nghìn\" được viết là:",
+        "option D": "1,003",
+        "option A": "1 \\frac{3}{1000}",
+        "option B": "1,3000",
+        "option C": "1,03"
+    },
+    {
+        "question": "Số có cùng giá trị với 0,08 là:",
+        "option D": "8,00",
+        "option A": "0,800",
+        "option B": "0,080",
+        "option C": "0,80"
+    },
+    {
+        "question": "Số lớn nhất trong các số 4,23; 4,32; 4,4; 4,321 là:",
+        "option D": "4,4",
+        "option A": "4,23",
+        "option B": "4,321",
+        "option C": "4,32"
+    },
+    {
+        "question": "Đội bóng của một trường học đã thi đấu 20 trận, thắng 19 trận. Như thế tỉ số phần trăm các trận thắng của đội bóng đó là:",
+        "option D": "19%",
+        "option A": "90%",
+        "option B": "95%",
+        "option C": "85%"
+    },
+    {
+        "question": "Sau khi giảm 20%, giá một quyển sách chỉ còn 7200 đồng. Như vậy trước khi giảm, giá quyển sách đó là:",
+        "option D": "14400 đồng",
+        "option A": "9000 đồng",
+        "option B": "36000 đồng",
+        "option C": "6400 đồng"
+    },
+    {
+        "question": "Số \"hai trăm ba mươi mốt\" được viết như sau:",
+        "option D": "200301",
+        "option A": "20031",
+        "option B": "231",
+        "option C": "2301"
+    },
+    {
+        "question": "Kết quả của phép tính: 34,46 + 35,55",
+        "option D": "69,91",
+        "option A": "69,101",
+        "option B": "70,01",
+        "option C": "69,01"
+    },
+    {
+        "question": "Số thích hợp viết vào chỗ chấm của  6 ngày 13 giờ = …… giờ",
+        "option D": "157 giờ",
+        "option A": "154 giờ",
+        "option B": "150 giờ",
+        "option C": "144 giờ"
+    },
+    {
+        "question": "Phép trừ  712,54 ­ 112,54 có kết quả đúng là",
+        "option D": null,
+        "option A": "70,54",
+        "option B": "700,54",
+        "option C": "600"
+    },
+    {
+        "question": "Luân đi đến trường là 30 phút với vận tốc 4 km/giờ. Hỏi quãng đường từ  nhà Luân đến trường là bao nhiêu kí­lô­mét?",
+        "option D": "6 km",
+        "option A": "8 km",
+        "option B": "4 km",
+        "option C": "2 km"
+    },
+    {
+        "question": "Viết số thích hợp vào chỗ chấm: Giá trị của biểu thức: 136,5 – 100 \\div 2,5 \\times 0,9 là:",
+        "option D": "105,5",
+        "option A": "100,5",
+        "option B": "110,5",
+        "option C": "100"
+    },
+    {
+        "question": "Viết số thích hợp vào chỗ chấm: 55 ha 17 m^{2} = .....,.....ha",
+        "option D": "55, 000017",
+        "option A": "55,0017",
+        "option B": "55,17",
+        "option C": "55, 017"
+    },
+    {
+        "question": "Chữ số 8 trong số thập phân 95,284 có giá trị là:",
+        "option D": "8",
+        "option A": "\\frac{8}{1000}",
+        "option B": "\\frac{8}{100}",
+        "option C": "\\frac{8}{10}"
+    },
+    {
+        "question": "Số thập phân: “Mười hai phẩy không năm”, viết là:",
+        "option D": "1,205",
+        "option A": "12,5",
+        "option B": "12,05",
+        "option C": "120,5"
+    },
+    {
+        "question": "Giá trị của chữ số 9 trong số thập phân 0,09 là:",
+        "option D": "\\frac{9}{1000}",
+        "option A": "9",
+        "option B": "\\frac{9}{10}",
+        "option C": "\\frac{9}{100}"
+    },
+    {
+        "question": "Hỗn số 68  \\frac{7}{100}  dưới dạng số thập phân là:",
+        "option D": "68,70",
+        "option A": "68,07",
+        "option B": "68,007",
+        "option C": "68,7"
+    },
+    {
+        "question": "Số thập phân nhỏ nhất trong các số 50,798; 50,789; 50,987; 50,879 là:",
+        "option D": "50,987",
+        "option A": "50,879",
+        "option B": "50,789",
+        "option C": "50,798"
+    },
+    {
+        "question": "Lớp 5A1 có 40 bạn, trong đó có 24 bạn thích chơi cầu lông. Hỏi số bạn thích chơi cầu lông chiếm bao nhiêu phần trăm số bạn của lớp 5A1?",
+        "option D": "100%",
+        "option A": "40%",
+        "option B": "60%",
+        "option C": "24%"
+    },
+    {
+        "question": "Kết quả phép nhân 4,51 \\times 10 là:",
+        "option D": "45",
+        "option A": "451",
+        "option B": "4,51",
+        "option C": "45,1"
+    },
+    {
+        "question": "Lớp 5/2 có 32 học sinh, trong đó có 12 học sinh xuất sắc. Tỉ số phần trăm của số học sinh xuất sắc và học sinh cả lớp là:",
+        "option D": "0,375 %",
+        "option A": "375 %",
+        "option B": "37,5 %",
+        "option C": "3,75 %"
+    },
+    {
+        "question": "Số thập phân thích hợp để điền vào chỗ chấm: 4 tấn 562 kg =.........tấn là:",
+        "option D": "4562",
+        "option A": "45,62",
+        "option B": "4,562",
+        "option C": "456,2"
+    },
+    {
+        "question": "Kết quả của X trong biểu thức:  X \\div 2,04 = 7,5 \\div 5 là:",
+        "option D": "3,06",
+        "option A": "3,03",
+        "option B": "3,04",
+        "option C": "3,05"
+    },
+    {
+        "question": "Tính diện tích hình tam giác có độ dài đáy là 30,5 dm và chiều cao là  12 dm là:",
+        "option D": "186 dm^{2}",
+        "option A": "183 dm^{2}",
+        "option B": "184 dm^{2}",
+        "option C": "185 dm^{2}"
+    }
+]
